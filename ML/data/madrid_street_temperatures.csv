@@ -1,0 +1,1967 @@
+edge_id,street_name,highway_type,length_m,temp_c,humidity_pct,shade_pct,real_feel_c,source
+E00001,Calle de Toledo,tertiary,29.49,38.4,25.2,38.3,38.99,estimated_baseline
+E00002,Service,service,85.15,34.11,23.6,94.1,30.88,estimated_baseline
+E00004,Plaza de Santa María Soledad Torres Acosta,pedestrian,5.73,36.0,25.1,69.5,34.37,estimated_baseline
+E00006,Plaza de Santa María Soledad Torres Acosta,pedestrian,64.91,36.53,24.1,62.6,35.13,estimated_baseline
+E00007,Plaza de Santa María Soledad Torres Acosta,pedestrian,72.29,35.43,22.6,76.9,32.93,estimated_baseline
+E00008,Plaza de Santa María Soledad Torres Acosta,pedestrian,21.18,37.07,25.4,55.6,36.43,estimated_baseline
+E00009,Plaza de Santa María Soledad Torres Acosta,pedestrian,2.82,35.54,23.8,75.5,33.31,estimated_baseline
+E00010,Plaza de Santa María Soledad Torres Acosta,pedestrian,42.14,35.65,23.1,74.1,33.38,estimated_baseline
+E00013,Plaza de Santa María Soledad Torres Acosta,pedestrian,5.59,35.5,23.3,76.0,33.16,estimated_baseline
+E00014,Calle del Codo,footway,83.5,36.72,26.9,60.1,36.12,estimated_baseline
+E00015,Plaza del Conde de Miranda,pedestrian,40.94,35.59,24.2,74.8,33.47,estimated_baseline
+E00016,Plaza del Conde de Miranda,pedestrian,17.91,35.44,26.6,76.8,33.64,estimated_baseline
+E00017,Plaza del Conde de Miranda,pedestrian,49.61,35.61,26.5,74.6,33.93,estimated_baseline
+E00018,Plaza del Conde de Miranda,pedestrian,29.21,36.71,25.8,60.3,35.84,estimated_baseline
+E00019,Calle de los Estudios,residential,136.92,37.82,22.6,45.8,37.17,estimated_baseline
+E00020,Calle del Duque de Alba,residential,8.05,37.72,26.3,47.1,37.94,estimated_baseline
+E00021,Calle del Duque de Alba,residential,159.51,36.81,24.8,59.0,35.8,estimated_baseline
+E00022,Calle de San Pedro Mártir,living_street,59.11,37.19,26.3,54.0,36.89,estimated_baseline
+E00023,Calle de Jesús y María,living_street,61.18,37.11,26.8,55.1,36.86,estimated_baseline
+E00024,Calle de la Magdalena,tertiary,49.39,37.4,23.2,51.3,36.53,estimated_baseline
+E00025,Calle de la Magdalena,tertiary,76.81,37.36,23.6,51.8,36.55,estimated_baseline
+E00026,Calle del Olivar,living_street,45.36,36.39,26.7,64.4,35.44,estimated_baseline
+E00027,Calle del Olivar,living_street,327.74,36.16,27.4,67.4,35.16,estimated_baseline
+E00028,Pasaje Doré,pedestrian,5.08,36.29,25.9,65.7,35.07,estimated_baseline
+E00029,Pasaje Doré,pedestrian,66.18,35.53,26.3,75.6,33.75,estimated_baseline
+E00030,Calle de Santa Isabel,residential,42.11,36.29,23.0,65.7,34.48,estimated_baseline
+E00031,Calle del León,living_street,34.71,36.58,27.2,62.0,35.92,estimated_baseline
+E00032,Calle del León,living_street,33.47,36.96,23.4,57.0,35.77,estimated_baseline
+E00033,Calle del León,living_street,13.65,36.69,27.4,60.5,36.19,estimated_baseline
+E00034,Calle del León,living_street,67.58,36.2,26.8,66.9,35.1,estimated_baseline
+E00035,Calle de Santa María,living_street,159.16,37.17,25.6,54.3,36.67,estimated_baseline
+E00036,Calle de Santa María,living_street,75.16,37.02,24.4,56.2,36.1,estimated_baseline
+E00037,Calle de Santa María,living_street,74.3,35.75,27.1,72.8,34.31,estimated_baseline
+E00038,Calle del Infante,pedestrian,65.52,35.96,26.3,70.0,34.54,estimated_baseline
+E00039,Calle de Echegaray,pedestrian,47.31,35.87,24.5,71.2,34.02,estimated_baseline
+E00040,Calle de Echegaray,pedestrian,53.68,35.44,27.3,76.8,33.78,estimated_baseline
+E00041,Plaza de Santa Ana,pedestrian,87.51,35.7,23.9,73.4,33.61,estimated_baseline
+E00043,Plaza de Santa Ana,pedestrian,4.57,36.64,22.9,61.2,35.08,estimated_baseline
+E00044,Plaza de Santa Ana,pedestrian,99.34,36.55,25.7,62.4,35.51,estimated_baseline
+E00047,Plaza de Santa Ana,pedestrian,58.27,35.8,27.3,72.1,34.45,estimated_baseline
+E00048,Plaza de Santa Ana,pedestrian,6.17,36.85,24.9,58.4,35.9,estimated_baseline
+E00049,Calle de Álvarez Gato,pedestrian,84.38,37.14,27.2,54.7,37.03,estimated_baseline
+E00050,Calle de Espoz y Mina,pedestrian,71.85,36.1,23.7,68.2,34.28,estimated_baseline
+E00051,Calle de Espoz y Mina,pedestrian,36.77,37.18,24.9,54.2,36.52,estimated_baseline
+E00052,Calle de Espoz y Mina,pedestrian,58.75,37.12,25.9,54.9,36.65,estimated_baseline
+E00053,Calle de Espoz y Mina,pedestrian,8.33,36.11,26.5,68.1,34.86,estimated_baseline
+E00054,Calle de la Cruz,residential,64.98,36.45,26.4,63.6,35.48,estimated_baseline
+E00055,Calle de la Cruz,residential,50.72,37.62,26.7,48.4,37.86,estimated_baseline
+E00056,Calle de Barcelona,pedestrian,93.87,36.66,25.7,60.9,35.72,estimated_baseline
+E00057,Calle de Cádiz,pedestrian,6.6,36.81,24.1,59.0,35.64,estimated_baseline
+E00058,Calle de Cádiz,pedestrian,47.79,35.61,26.6,74.6,33.95,estimated_baseline
+E00059,Calle de Cádiz,pedestrian,24.07,36.39,25.7,64.4,35.21,estimated_baseline
+E00060,Pasaje de Mathéu,pedestrian,53.51,36.9,27.3,57.8,36.57,estimated_baseline
+E00061,Calle de Atocha,tertiary,37.26,38.58,23.5,36.0,38.85,estimated_baseline
+E00062,Calle de Atocha,tertiary,17.64,38.89,22.9,31.9,39.29,estimated_baseline
+E00063,Calle de Atocha,tertiary,76.49,37.38,25.4,51.6,37.03,estimated_baseline
+E00064,Calle de la Aduana,living_street,182.8,36.92,25.4,57.5,36.15,estimated_baseline
+E00065,Calle de la Aduana,living_street,47.1,36.42,24.2,64.0,34.95,estimated_baseline
+E00066,Calle de la Aduana,living_street,23.25,36.24,24.1,66.4,34.6,estimated_baseline
+E00067,Calle de la Aduana,living_street,6.32,35.56,22.7,75.2,33.17,estimated_baseline
+E00068,Calle de los Jardines,living_street,193.41,35.92,26.4,70.5,34.49,estimated_baseline
+E00069,Calle de San Alberto,residential,5.42,37.31,24.8,52.5,36.74,estimated_baseline
+E00070,Calle de San Alberto,residential,37.83,37.42,25.4,51.0,37.11,estimated_baseline
+E00071,Calle de San Alberto,residential,7.18,37.44,23.2,50.8,36.6,estimated_baseline
+E00072,Calle de Valverde,living_street,11.55,36.19,24.9,67.0,34.67,estimated_baseline
+E00073,Calle de Valverde,living_street,46.38,36.04,25.8,69.0,34.58,estimated_baseline
+E00074,Calle de Valverde,living_street,41.49,36.5,25.7,63.0,35.42,estimated_baseline
+E00075,Calle de Valverde,living_street,74.76,37.13,26.1,54.8,36.72,estimated_baseline
+E00076,Calle de Valverde,living_street,251.41,36.51,25.3,62.9,35.35,estimated_baseline
+E00077,Calle del Barco,living_street,311.97,36.92,23.2,57.5,35.65,estimated_baseline
+E00078,Calle del Barco,living_street,33.9,37.03,25.9,56.1,36.48,estimated_baseline
+E00079,Calle de la Salud,living_street,8.36,37.17,26.7,54.3,36.95,estimated_baseline
+E00080,Calle de la Salud,living_street,49.45,35.97,26.2,69.9,34.54,estimated_baseline
+E00081,Calle de la Salud,living_street,4.79,36.85,27.5,58.4,36.53,estimated_baseline
+E00082,Calle de Alcalá,pedestrian,11.76,36.97,23.9,56.9,35.89,estimated_baseline
+E00083,Calle de Alcalá,pedestrian,23.95,35.99,27.3,69.6,34.81,estimated_baseline
+E00084,Calle de Alcalá,pedestrian,187.65,36.82,23.7,58.8,35.58,estimated_baseline
+E00085,Calle de Alcalá,pedestrian,9.28,37.07,25.1,55.6,36.36,estimated_baseline
+E00086,Calle de Toledo,pedestrian,75.68,36.25,24.8,66.2,34.76,estimated_baseline
+E00087,Plaza de Santo Domingo,residential,10.08,37.17,25.1,54.3,36.55,estimated_baseline
+E00088,Plaza de Santo Domingo,residential,22.53,37.48,27.5,50.3,37.79,estimated_baseline
+E00089,Plaza de Santo Domingo,residential,19.98,37.63,23.0,48.3,36.91,estimated_baseline
+E00091,Plaza de Santo Domingo,pedestrian,106.14,36.28,25.6,65.9,34.98,estimated_baseline
+E00092,Plaza de Santo Domingo,pedestrian,11.13,35.42,23.8,77.0,33.11,estimated_baseline
+E00093,Plaza de Santo Domingo,pedestrian,29.0,36.16,23.1,67.4,34.27,estimated_baseline
+E00094,Plaza de Santo Domingo,pedestrian,46.82,35.6,23.7,74.7,33.4,estimated_baseline
+E00095,Plaza de Santo Domingo,pedestrian,26.92,36.93,23.0,57.4,35.63,estimated_baseline
+E00096,Plaza de Santo Domingo,pedestrian,147.47,36.21,24.6,66.8,34.65,estimated_baseline
+E00100,Calle de Campomanes,residential,12.73,36.22,26.7,66.6,35.11,estimated_baseline
+E00101,Calle de Campomanes,residential,135.09,37.37,25.9,51.7,37.14,estimated_baseline
+E00102,Calle de Silva,residential,115.86,36.66,24.5,60.9,35.45,estimated_baseline
+E00103,Calle de Silva,residential,14.53,36.72,25.1,60.1,35.7,estimated_baseline
+E00104,Calle de Torija,residential,63.63,37.7,26.6,47.4,37.99,estimated_baseline
+E00105,Calle de Torija,residential,8.93,37.64,22.6,48.2,36.83,estimated_baseline
+E00106,Calle de Torija,residential,71.81,36.26,24.0,66.1,34.62,estimated_baseline
+E00107,Calle de San Felipe Neri,tertiary,30.55,37.39,25.9,51.4,37.18,estimated_baseline
+E00108,Calle de Hortaleza,tertiary,11.22,38.77,27.4,33.5,40.47,estimated_baseline
+E00109,Calle de Hortaleza,tertiary,54.37,38.53,26.1,36.6,39.54,estimated_baseline
+E00110,Calle de Hortaleza,tertiary,55.07,38.34,24.8,39.1,38.76,estimated_baseline
+E00111,Calle de Hortaleza,tertiary,115.43,38.58,24.0,36.0,39.0,estimated_baseline
+E00112,Calle de Hortaleza,tertiary,506.45,38.8,25.0,33.1,39.75,estimated_baseline
+E00113,Calle de la Reina,residential,124.6,36.18,27.2,67.2,35.15,estimated_baseline
+E00114,Calle de la Reina,residential,124.44,36.42,24.2,64.0,34.95,estimated_baseline
+E00115,Calle de la Reina,residential,88.54,36.46,24.4,63.5,35.06,estimated_baseline
+E00116,Calle del Clavel,residential,9.03,36.95,26.2,57.1,36.4,estimated_baseline
+E00117,Calle del Clavel,residential,36.88,36.6,24.5,61.7,35.34,estimated_baseline
+E00118,Calle del Clavel,residential,46.98,36.55,25.2,62.4,35.4,estimated_baseline
+E00119,Calle del Clavel,residential,7.67,37.05,23.3,55.9,35.91,estimated_baseline
+E00120,Calle del Siete de Julio,pedestrian,35.65,35.87,25.6,71.2,34.23,estimated_baseline
+E00121,Calle de Bordadores,residential,93.19,36.19,25.2,67.0,34.74,estimated_baseline
+E00122,Calle de Bordadores,residential,56.76,36.24,23.3,66.4,34.45,estimated_baseline
+E00123,Travesía del Arenal,living_street,68.0,36.02,25.3,69.2,34.45,estimated_baseline
+E00124,Travesía del Arenal,living_street,7.85,35.54,23.5,75.5,33.26,estimated_baseline
+E00125,Calle de San Cristóbal,pedestrian,28.58,36.52,26.0,62.7,35.53,estimated_baseline
+E00126,Calle de San Cristóbal,pedestrian,47.24,36.32,25.4,65.3,35.02,estimated_baseline
+E00127,Plaza de Santa Cruz,living_street,32.42,36.72,25.5,60.1,35.79,estimated_baseline
+E00128,Plaza de Santa Cruz,living_street,27.21,37.09,26.1,55.3,36.64,estimated_baseline
+E00129,Calle de las Postas,pedestrian,50.29,36.52,23.5,62.7,34.99,estimated_baseline
+E00130,Calle del Correo,pedestrian,38.85,35.9,24.6,70.8,34.09,estimated_baseline
+E00131,Calle del Correo,pedestrian,65.49,36.06,25.2,68.7,34.5,estimated_baseline
+E00132,Calle de San Ricardo,pedestrian,43.56,36.22,27.0,66.6,35.18,estimated_baseline
+E00133,Calle de San Ricardo,pedestrian,29.79,36.27,24.2,66.0,34.68,estimated_baseline
+E00134,Calle de San Ricardo,pedestrian,7.46,35.82,24.7,71.8,33.97,estimated_baseline
+E00135,Calle de la Paz,pedestrian,98.61,36.33,26.0,65.2,35.17,estimated_baseline
+E00136,Calle de la Bolsa,pedestrian,14.78,36.06,24.5,68.7,34.36,estimated_baseline
+E00137,Calle de la Bolsa,pedestrian,87.47,35.8,26.4,72.1,34.26,estimated_baseline
+E00138,Calle de la Bolsa,pedestrian,39.49,35.99,25.6,69.6,34.45,estimated_baseline
+E00139,Calle de Atocha,tertiary,46.03,38.44,26.0,37.8,39.32,estimated_baseline
+E00140,Service,service,20.78,35.96,23.1,70.0,33.92,estimated_baseline
+E00141,Calle de Tintoreros,tertiary,17.46,37.66,22.8,47.9,36.92,estimated_baseline
+E00142,Calle de Tintoreros,tertiary,28.4,39.08,24.3,29.5,40.09,estimated_baseline
+E00143,Calle de la Cava Baja,residential,12.19,36.41,27.3,64.2,35.61,estimated_baseline
+E00144,Calle de la Cava Baja,residential,1.44,36.39,26.4,64.4,35.37,estimated_baseline
+E00145,Calle de la Cava Baja,residential,73.35,36.67,24.2,60.8,35.41,estimated_baseline
+E00146,Calle de la Cava Baja,residential,252.6,37.84,24.7,45.6,37.74,estimated_baseline
+E00147,Calle de Latoneros,pedestrian,40.71,35.76,24.0,72.6,33.73,estimated_baseline
+E00148,Calle de Latoneros,pedestrian,10.04,35.89,24.2,70.9,34.0,estimated_baseline
+E00149,Calle de Latoneros,pedestrian,11.55,36.07,24.2,68.6,34.32,estimated_baseline
+E00150,Calle del Lazo,residential,54.88,37.21,23.1,53.8,36.16,estimated_baseline
+E00151,Calle del Conde de Lemos,residential,49.57,36.58,23.0,62.0,34.99,estimated_baseline
+E00152,Calle del Conde de Lemos,residential,36.13,36.97,23.5,56.9,35.81,estimated_baseline
+E00153,Calle Botoneras,pedestrian,35.54,37.04,26.5,56.0,36.65,estimated_baseline
+E00154,Calle de la Fresa,pedestrian,41.16,35.8,25.0,72.1,33.99,estimated_baseline
+E00155,Calle del Marqués Viudo de Pontejos,pedestrian,40.79,35.59,26.4,74.8,33.88,estimated_baseline
+E00156,Calle del Marqués Viudo de Pontejos,pedestrian,41.3,36.64,25.2,61.2,35.57,estimated_baseline
+E00157,Calle del Marqués Viudo de Pontejos,pedestrian,88.25,35.9,27.3,70.8,34.64,estimated_baseline
+E00158,Calle de El Salvador,residential,43.91,36.9,23.3,57.8,35.63,estimated_baseline
+E00159,Calle de El Salvador,residential,3.63,37.59,25.0,48.8,37.34,estimated_baseline
+E00160,Calle de El Salvador,residential,41.83,36.84,23.0,58.6,35.46,estimated_baseline
+E00161,Plaza de San Miguel,pedestrian,9.59,36.5,24.3,63.0,35.12,estimated_baseline
+E00162,Calle de la Escalerilla de Piedra,steps,12.66,32.63,24.6,95.0,29.32,estimated_baseline
+E00163,Calle de los Cuchilleros,pedestrian,17.95,35.49,22.7,76.1,33.05,estimated_baseline
+E00164,Calle de Víctor Hugo,residential,56.3,36.16,24.2,67.4,34.48,estimated_baseline
+E00165,Calle de Víctor Hugo,residential,39.23,36.87,24.0,58.2,35.73,estimated_baseline
+E00166,Calle de Víctor Hugo,residential,9.2,37.23,27.4,53.5,37.26,estimated_baseline
+E00167,Plaza de la Puerta del Sol,pedestrian,12.25,36.47,26.5,63.4,35.54,estimated_baseline
+E00168,Plaza de la Puerta del Sol,pedestrian,19.96,36.91,23.2,57.7,35.63,estimated_baseline
+E00169,Callejón de Preciados,pedestrian,14.81,35.61,23.2,74.6,33.33,estimated_baseline
+E00170,Callejón de Preciados,pedestrian,18.02,35.41,26.9,77.2,33.64,estimated_baseline
+E00171,Callejón de Preciados,pedestrian,28.48,36.91,24.0,57.7,35.8,estimated_baseline
+E00172,Calle del Maestro Victoria,pedestrian,7.31,36.23,26.8,66.5,35.15,estimated_baseline
+E00173,Calle del Maestro Victoria,pedestrian,52.85,37.09,24.3,55.3,36.21,estimated_baseline
+E00174,Calle del Maestro Victoria,pedestrian,22.95,35.55,24.8,75.4,33.5,estimated_baseline
+E00175,Calle del Maestro Victoria,pedestrian,2.95,35.95,25.3,70.1,34.32,estimated_baseline
+E00176,Calle del Maestro Victoria,pedestrian,3.02,37.01,25.6,56.4,36.36,estimated_baseline
+E00177,Plaza de Celenque,pedestrian,6.76,36.55,25.3,62.4,35.42,estimated_baseline
+E00178,Calle Tahona de las Descalzas,service,4.84,36.41,26.4,64.2,35.4,estimated_baseline
+E00179,Calle Tahona de las Descalzas,service,64.07,36.95,25.0,57.1,36.11,estimated_baseline
+E00180,Calle de Tetuán,residential,1.09,37.1,23.9,55.2,36.13,estimated_baseline
+E00181,Calle de Tetuán,residential,22.44,36.8,26.7,59.1,36.23,estimated_baseline
+E00182,Calle de Tetuán,living_street,6.5,35.94,23.1,70.3,33.89,estimated_baseline
+E00183,Calle de Tetuán,living_street,92.28,35.58,25.8,75.0,33.74,estimated_baseline
+E00184,Calle de Tetuán,living_street,5.97,35.88,24.9,71.1,34.11,estimated_baseline
+E00185,Calle de la Virgen de los Peligros,residential,14.31,37.18,27.3,54.2,37.13,estimated_baseline
+E00186,Calle de la Virgen de los Peligros,residential,43.44,37.83,26.2,45.7,38.14,estimated_baseline
+E00187,Calle de la Virgen de los Peligros,residential,23.47,37.63,23.2,48.3,36.96,estimated_baseline
+E00188,Calle de Isabel La Católica,residential,13.82,36.94,24.5,57.3,35.97,estimated_baseline
+E00189,Calle de Isabel La Católica,residential,53.47,37.53,25.7,49.6,37.4,estimated_baseline
+E00190,Calle de Isabel La Católica,residential,50.6,36.16,25.4,67.4,34.72,estimated_baseline
+E00191,Calle de Isabel La Católica,residential,65.97,37.59,26.3,48.8,37.68,estimated_baseline
+E00192,Plaza de San Ginés,pedestrian,35.72,36.1,22.6,68.2,34.08,estimated_baseline
+E00193,Calle de la Paz,living_street,43.52,36.91,23.0,57.7,35.59,estimated_baseline
+E00194,Service,service,38.86,36.17,27.4,67.3,35.17,estimated_baseline
+E00195,Calle de Núñez de Arce,residential,5.62,37.55,24.0,49.4,37.0,estimated_baseline
+E00196,Calle de Núñez de Arce,residential,14.43,36.22,24.4,66.6,34.63,estimated_baseline
+E00197,Calle de Núñez de Arce,residential,99.51,36.87,25.3,58.2,36.03,estimated_baseline
+E00198,Calle de Luis Vélez de Guevara,residential,146.73,36.1,24.0,68.2,34.33,estimated_baseline
+E00199,Calle de Relatores,residential,168.53,36.24,23.4,66.4,34.47,estimated_baseline
+E00200,Calle del Doctor Cortezo,residential,49.98,37.31,25.9,52.5,37.02,estimated_baseline
+E00201,Calle del Doctor Cortezo,residential,87.02,36.67,25.7,60.8,35.74,estimated_baseline
+E00202,Calle del Duque de Fernán Núñez,residential,81.54,37.39,23.1,51.4,36.49,estimated_baseline
+E00203,Calle Conde de Miranda,pedestrian,24.39,36.75,23.9,59.8,35.49,estimated_baseline
+E00204,Pasaje de la Caja de Ahorros,residential,61.49,37.32,25.3,52.3,36.89,estimated_baseline
+E00205,Calle de los Cañizares,residential,125.59,37.84,25.8,45.6,38.04,estimated_baseline
+E00206,Calle de la Cava Alta,residential,11.0,36.33,27.2,65.2,35.44,estimated_baseline
+E00207,Calle de la Cava Alta,residential,58.2,37.76,22.5,46.6,37.03,estimated_baseline
+E00208,Plaza de Matute,pedestrian,38.9,35.56,24.2,75.2,33.42,estimated_baseline
+E00209,Calle de Muñoz Torrero,living_street,66.1,36.38,24.7,64.6,34.98,estimated_baseline
+E00210,Calle de San Onofre,pedestrian,5.37,37.15,27.4,54.6,37.1,estimated_baseline
+E00211,Calle de San Onofre,pedestrian,58.38,36.78,26.0,59.4,36.02,estimated_baseline
+E00212,Calle de San Onofre,pedestrian,6.39,37.14,27.4,54.7,37.08,estimated_baseline
+E00213,Calle de Silva,living_street,10.27,37.11,24.5,55.1,36.29,estimated_baseline
+E00214,Calle de Silva,living_street,120.95,35.98,23.8,69.8,34.08,estimated_baseline
+E00215,Calle de Silva,living_street,3.93,36.67,23.0,60.8,35.16,estimated_baseline
+E00216,Calle de Silva,living_street,23.08,36.05,24.0,68.9,34.24,estimated_baseline
+E00217,Calle del Pozo,pedestrian,73.01,36.35,23.8,64.9,34.74,estimated_baseline
+E00218,Calle de la Victoria,pedestrian,51.27,36.95,26.8,57.1,36.55,estimated_baseline
+E00219,Calle de la Victoria,pedestrian,23.4,37.2,24.3,53.9,36.41,estimated_baseline
+E00220,Calle de la Victoria,pedestrian,35.17,35.5,27.0,76.0,33.83,estimated_baseline
+E00221,Calle de la Victoria,pedestrian,7.01,36.99,23.7,56.6,35.89,estimated_baseline
+E00222,Cuesta de Santo Domingo,living_street,3.94,36.65,25.3,61.1,35.61,estimated_baseline
+E00223,Cuesta de Santo Domingo,living_street,19.64,35.76,24.8,72.6,33.88,estimated_baseline
+E00224,Cuesta de Santo Domingo,living_street,93.32,37.2,25.6,53.9,36.73,estimated_baseline
+E00225,Plaza de Santo Domingo,residential,8.66,37.07,26.7,55.6,36.76,estimated_baseline
+E00226,Plaza de Santo Domingo,residential,13.24,36.1,26.1,68.2,34.76,estimated_baseline
+E00227,Plaza de Santo Domingo,residential,33.03,37.88,26.1,45.1,38.21,estimated_baseline
+E00228,Plaza de Santo Domingo,residential,39.77,37.83,25.1,45.7,37.83,estimated_baseline
+E00229,Plaza de Santo Domingo,residential,5.95,37.46,23.7,50.5,36.76,estimated_baseline
+E00230,Plaza de Santo Domingo,residential,33.28,36.49,22.8,63.1,34.8,estimated_baseline
+E00231,Plaza de Pedro Zerolo,residential,4.33,37.06,24.6,55.7,36.22,estimated_baseline
+E00232,Plaza de Pedro Zerolo,residential,33.72,37.67,24.5,47.8,37.36,estimated_baseline
+E00233,Plaza de Pedro Zerolo,residential,29.66,36.57,22.7,62.1,34.92,estimated_baseline
+E00234,Calle de San Marcos,residential,44.14,36.84,22.9,58.6,35.44,estimated_baseline
+E00235,Calle de San Marcos,residential,17.4,37.55,26.9,49.4,37.77,estimated_baseline
+E00236,Calle de San Marcos,residential,53.67,36.28,23.1,65.9,34.48,estimated_baseline
+E00237,Calle de San Marcos,residential,54.77,37.55,24.4,49.4,37.1,estimated_baseline
+E00238,Plaza del Ángel,pedestrian,138.54,36.33,23.4,65.2,34.63,estimated_baseline
+E00239,Plaza del Ángel,pedestrian,11.23,36.01,23.9,69.4,34.15,estimated_baseline
+E00240,Plaza del Ángel,pedestrian,30.17,36.3,27.4,65.6,35.43,estimated_baseline
+E00241,Plaza del Ángel,pedestrian,4.14,36.8,23.0,59.1,35.39,estimated_baseline
+E00242,Plaza del Ángel,pedestrian,3.73,35.6,27.3,74.7,34.08,estimated_baseline
+E00243,Plaza del Ángel,pedestrian,78.28,36.97,22.7,56.9,35.63,estimated_baseline
+E00244,Plaza del Ángel,pedestrian,61.93,35.4,27.2,77.3,33.68,estimated_baseline
+E00245,Plaza del Ángel,pedestrian,6.57,36.42,26.4,64.0,35.43,estimated_baseline
+E00247,Calle de Arlabán,residential,141.47,37.64,26.5,48.2,37.84,estimated_baseline
+E00248,Calle de Independencia,residential,57.19,36.3,26.5,65.6,35.22,estimated_baseline
+E00249,Calle de los Libreros,living_street,9.74,36.39,26.8,64.4,35.46,estimated_baseline
+E00250,Calle de los Libreros,living_street,62.31,36.78,27.0,59.4,36.26,estimated_baseline
+E00251,Calle de los Libreros,living_street,73.49,37.3,27.3,52.6,37.37,estimated_baseline
+E00252,Calle de la Abada,residential,11.32,36.62,24.7,61.4,35.42,estimated_baseline
+E00253,Calle de la Abada,residential,62.3,37.83,23.4,45.7,37.39,estimated_baseline
+E00254,Calle de la Abada,residential,16.9,36.34,25.3,65.1,35.03,estimated_baseline
+E00255,Calle de Chinchilla,living_street,14.59,36.96,24.5,57.0,36.01,estimated_baseline
+E00256,Calle de Chinchilla,living_street,112.26,36.76,23.8,59.6,35.49,estimated_baseline
+E00257,Calle de Santo Tomás,footway,85.24,36.86,24.1,58.3,35.74,estimated_baseline
+E00258,Calle de Santo Tomás,footway,8.1,36.62,26.1,61.4,35.74,estimated_baseline
+E00259,Calle del Duque de Rivas,residential,49.24,36.7,24.5,60.4,35.53,estimated_baseline
+E00260,Plaza de Segovia Nueva,tertiary,22.78,38.32,23.8,39.3,38.43,estimated_baseline
+E00261,Plaza de Segovia Nueva,tertiary,13.3,37.99,25.5,43.6,38.26,estimated_baseline
+E00262,Service,service,27.03,35.92,26.5,70.5,34.51,estimated_baseline
+E00263,Calle de Ventura de la Vega,living_street,41.4,35.76,25.8,72.6,34.07,estimated_baseline
+E00264,Calle de Ventura de la Vega,living_street,154.13,36.22,27.0,66.6,35.18,estimated_baseline
+E00265,Calle de Santa Catalina,living_street,125.85,36.32,23.7,65.3,34.67,estimated_baseline
+E00266,Calle de Zorrilla,residential,336.68,36.54,26.9,62.5,35.77,estimated_baseline
+E00267,Calle de Sevilla,tertiary,39.38,39.05,22.6,29.9,39.51,estimated_baseline
+E00268,Calle de Sevilla,tertiary,5.26,38.24,27.0,40.4,39.22,estimated_baseline
+E00269,Calle de Sevilla,tertiary,34.4,37.44,25.1,50.8,37.07,estimated_baseline
+E00270,Calle del Desengaño,residential,73.0,36.12,24.8,67.9,34.53,estimated_baseline
+E00271,Calle del Desengaño,residential,13.17,36.26,25.1,66.1,34.84,estimated_baseline
+E00272,Calle del Desengaño,residential,64.85,36.35,22.7,64.9,34.53,estimated_baseline
+E00273,Calle del Desengaño,residential,65.31,37.33,22.9,52.2,36.33,estimated_baseline
+E00274,Travesía del Horno de la Mata,residential,73.06,37.75,23.1,46.8,37.16,estimated_baseline
+E00275,Calle de Concepción Arenal,living_street,4.4,36.78,25.6,59.4,35.92,estimated_baseline
+E00276,Calle de Concepción Arenal,living_street,62.38,36.67,22.6,60.8,35.08,estimated_baseline
+E00277,Calle de Concepción Arenal,living_street,10.88,36.11,24.6,68.1,34.47,estimated_baseline
+E00278,Calle de Mesonero Romanos,residential,10.53,37.52,24.1,49.7,36.97,estimated_baseline
+E00279,Calle de Mesonero Romanos,residential,58.36,36.8,24.3,59.1,35.67,estimated_baseline
+E00280,Calle de la Ballesta,living_street,40.34,37.02,23.8,56.2,35.97,estimated_baseline
+E00281,Calle de la Ballesta,living_street,98.87,36.15,22.7,67.6,34.18,estimated_baseline
+E00282,Calle de la Nao,pedestrian,85.31,36.67,26.4,60.8,35.9,estimated_baseline
+E00283,Calle de Loreto Prado y Enrique Chicote,pedestrian,67.92,36.95,25.7,57.1,36.28,estimated_baseline
+E00284,Calle de Loreto Prado y Enrique Chicote,pedestrian,33.63,36.7,24.1,60.4,35.44,estimated_baseline
+E00285,Calle de las Fuentes,residential,109.86,36.39,23.1,64.4,34.68,estimated_baseline
+E00286,Plaza de Herradores,residential,33.96,36.14,25.5,67.7,34.7,estimated_baseline
+E00287,Plaza de Herradores,residential,10.38,36.73,24.4,60.0,35.56,estimated_baseline
+E00288,Calle de las Hileras,residential,100.04,36.61,24.5,61.6,35.36,estimated_baseline
+E00289,Service,service,8.89,33.44,25.1,95.0,30.26,estimated_baseline
+E00290,Service,service,13.47,34.2,26.6,92.9,31.45,estimated_baseline
+E00291,Calle de San Martín,residential,38.96,36.21,27.1,66.8,35.18,estimated_baseline
+E00292,Calle de San Martín,residential,40.64,37.09,23.9,55.3,36.12,estimated_baseline
+E00293,Calle de la Misericordia,residential,26.09,37.07,25.4,55.6,36.43,estimated_baseline
+E00294,Costanilla de los Ángeles,residential,8.26,37.58,25.6,49.0,37.47,estimated_baseline
+E00295,Costanilla de los Ángeles,residential,55.81,37.52,23.6,49.7,36.85,estimated_baseline
+E00296,Travesía de los Trujillos,residential,29.82,36.5,23.7,63.0,34.99,estimated_baseline
+E00297,Calle de las Conchas,pedestrian,78.26,36.81,24.8,59.0,35.8,estimated_baseline
+E00298,Calle de las Veneras,residential,9.97,37.55,23.9,49.4,36.98,estimated_baseline
+E00299,Calle de las Veneras,residential,79.51,36.56,26.3,62.2,35.67,estimated_baseline
+E00300,Calle Preciados,pedestrian,80.0,35.4,25.3,77.3,33.33,estimated_baseline
+E00301,Calle Preciados,pedestrian,65.85,35.65,24.7,74.1,33.66,estimated_baseline
+E00302,Calle Preciados,pedestrian,156.16,36.81,22.6,59.0,35.33,estimated_baseline
+E00303,Calle Preciados,pedestrian,8.0,37.0,27.2,56.5,36.75,estimated_baseline
+E00304,Calle de los Donados,residential,58.79,37.57,23.0,49.1,36.8,estimated_baseline
+E00305,Plaza de Isabel II,residential,34.01,36.22,23.9,66.6,34.53,estimated_baseline
+E00306,Plaza de Isabel II,residential,17.65,36.52,27.0,62.7,35.76,estimated_baseline
+E00307,Calle de Segovia,tertiary,15.02,38.84,23.6,32.6,39.39,estimated_baseline
+E00308,Calle de Segovia,tertiary,17.15,38.42,26.2,38.0,39.34,estimated_baseline
+E00309,Calle de Segovia,tertiary,54.45,37.34,23.5,52.1,36.49,estimated_baseline
+E00310,Calle de Segovia,tertiary,27.11,39.04,23.5,30.0,39.76,estimated_baseline
+E00311,Calle de Manuel Fernández y González,pedestrian,58.8,35.85,24.8,71.4,34.04,estimated_baseline
+E00312,Calle de Manuel Fernández y González,pedestrian,50.01,36.14,27.1,67.7,35.05,estimated_baseline
+E00313,Calle de Echegaray,residential,160.12,36.76,24.8,59.6,35.71,estimated_baseline
+E00314,Calle de Moratín,residential,81.41,37.21,26.7,53.8,37.03,estimated_baseline
+E00315,Calle de Moratín,residential,167.82,36.53,24.9,62.6,35.3,estimated_baseline
+E00316,Calle Santa Polonia,living_street,74.57,36.21,23.2,66.8,34.38,estimated_baseline
+E00317,Calle Amor de Dios,residential,36.72,36.77,24.5,59.5,35.66,estimated_baseline
+E00318,Calle Amor de Dios,residential,99.01,37.0,25.0,56.5,36.2,estimated_baseline
+E00319,Calle Amor de Dios,residential,1.12,36.93,22.7,57.4,35.56,estimated_baseline
+E00320,Calle Amor de Dios,residential,1.19,36.55,25.6,62.4,35.49,estimated_baseline
+E00321,Calle de la Torrecilla del Leal,residential,258.63,37.4,26.8,51.3,37.44,estimated_baseline
+E00322,Pretil de Santiesteban,residential,55.06,37.64,26.0,48.2,37.7,estimated_baseline
+E00323,Calle del Nuncio,pedestrian,30.77,37.07,24.6,55.6,36.24,estimated_baseline
+E00324,Calle del Nuncio,pedestrian,31.6,36.47,26.9,63.4,35.64,estimated_baseline
+E00325,Calle del Nuncio,pedestrian,49.39,36.27,22.6,66.0,34.37,estimated_baseline
+E00326,Calle del Nuncio,pedestrian,73.69,36.05,24.0,68.9,34.24,estimated_baseline
+E00327,Calle de San Bruno,pedestrian,18.69,35.69,27.0,73.5,34.18,estimated_baseline
+E00328,Calle de San Justo,residential,4.58,37.26,23.9,53.1,36.43,estimated_baseline
+E00329,Calle de San Justo,residential,16.92,37.86,26.4,45.3,38.26,estimated_baseline
+E00330,Calle de San Justo,residential,60.37,37.09,23.5,55.3,36.03,estimated_baseline
+E00331,Calle de San Justo,residential,12.95,36.36,25.5,64.8,35.11,estimated_baseline
+E00332,Calle de San Justo,residential,12.18,37.51,25.2,49.9,37.23,estimated_baseline
+E00333,Calle de San Justo,residential,11.15,37.75,23.1,46.8,37.16,estimated_baseline
+E00334,Calle Doctor Letamendi,residential,2.52,36.3,25.2,65.6,34.94,estimated_baseline
+E00335,Calle Doctor Letamendi,residential,60.07,36.81,24.2,59.0,35.66,estimated_baseline
+E00336,Calle Doctor Letamendi,residential,9.04,36.65,25.1,61.1,35.56,estimated_baseline
+E00337,Travesía de Bringas,residential,31.25,36.79,23.9,59.2,35.56,estimated_baseline
+E00338,Plaza del Conde de Barajas,pedestrian,38.25,36.5,24.1,63.0,35.07,estimated_baseline
+E00339,Plaza del Conde de Barajas,pedestrian,48.4,37.18,27.0,54.2,37.05,estimated_baseline
+E00340,Plaza del Conde de Barajas,pedestrian,29.21,36.72,25.5,60.1,35.79,estimated_baseline
+E00341,Plaza del Conde de Barajas,pedestrian,64.98,35.9,23.3,70.8,33.85,estimated_baseline
+E00342,Calle del Maestro Villa,pedestrian,33.11,37.13,25.5,54.8,36.57,estimated_baseline
+E00343,Calle del Bonetillo,pedestrian,75.33,35.66,23.6,73.9,33.49,estimated_baseline
+E00344,Calle del Mesón de Paños,residential,69.57,37.43,24.9,50.9,37.0,estimated_baseline
+E00345,Calle de Santiago,living_street,97.43,36.7,24.7,60.4,35.57,estimated_baseline
+E00346,Calle de Santiago,living_street,19.71,36.07,27.0,68.6,34.89,estimated_baseline
+E00347,Costanilla de Santiago,living_street,45.59,35.77,23.6,72.5,33.68,estimated_baseline
+E00348,Calle de Barbieri,residential,100.92,36.15,25.1,67.6,34.64,estimated_baseline
+E00349,Calle de Barbieri,residential,108.8,36.88,24.8,58.1,35.93,estimated_baseline
+E00350,Calle de Coloreros,pedestrian,56.12,36.68,26.3,60.7,35.9,estimated_baseline
+E00351,Plaza de Santa Catalina de los Donados,residential,24.56,37.78,22.6,46.4,37.09,estimated_baseline
+E00352,Calle de la Flora,residential,15.76,36.76,27.0,59.6,36.22,estimated_baseline
+E00353,Calle de la Flora,residential,4.11,36.85,24.7,58.4,35.85,estimated_baseline
+E00354,Calle de la Flora,residential,51.79,36.98,24.9,56.8,36.14,estimated_baseline
+E00355,Calle de las Navas de Tolosa,pedestrian,2.98,36.83,25.4,58.7,35.97,estimated_baseline
+E00356,Calle de las Navas de Tolosa,pedestrian,17.92,36.55,23.1,62.4,34.96,estimated_baseline
+E00357,Calle de las Navas de Tolosa,pedestrian,82.41,36.59,26.8,61.8,35.85,estimated_baseline
+E00358,Calle de la Ternera,pedestrian,8.13,36.32,26.0,65.3,35.15,estimated_baseline
+E00359,Calle de la Ternera,pedestrian,59.44,35.76,26.2,72.6,34.15,estimated_baseline
+E00360,Calle de los Trujillos,residential,47.64,36.2,23.7,66.9,34.45,estimated_baseline
+E00361,Calle del Príncipe,pedestrian,52.66,37.01,24.5,56.4,36.1,estimated_baseline
+E00362,Calle del Príncipe,pedestrian,23.35,36.41,25.6,64.2,35.23,estimated_baseline
+E00363,Plaza de Matute,pedestrian,67.33,36.72,23.1,60.1,35.27,estimated_baseline
+E00364,Calle del Prado,residential,14.25,36.15,24.0,67.6,34.42,estimated_baseline
+E00365,Calle del Prado,residential,82.4,37.13,24.7,54.8,36.38,estimated_baseline
+E00366,Calle de San Sebastián,living_street,3.94,35.68,23.9,73.7,33.57,estimated_baseline
+E00367,Calle de San Sebastián,living_street,61.3,35.88,25.6,71.1,34.25,estimated_baseline
+E00368,Calle de San Sebastián,living_street,5.58,36.14,25.0,67.7,34.6,estimated_baseline
+E00369,Calle de las Huertas,pedestrian,5.41,37.14,22.6,54.7,35.92,estimated_baseline
+E00370,Calle de las Huertas,pedestrian,110.52,35.49,26.4,76.1,33.69,estimated_baseline
+E00371,Plaza del Ángel,pedestrian,10.12,35.97,25.8,69.9,34.45,estimated_baseline
+E00372,Plaza del Ángel,pedestrian,61.28,36.34,22.9,65.1,34.55,estimated_baseline
+E00373,Plaza del Ángel,residential,4.55,37.21,27.2,53.8,37.17,estimated_baseline
+E00374,Plaza del Ángel,residential,31.74,37.79,22.9,46.2,37.19,estimated_baseline
+E00375,Plaza de Santa Ana,residential,43.47,37.3,25.5,52.6,36.9,estimated_baseline
+E00376,Plaza de Santa Ana,residential,5.53,36.4,23.4,64.3,34.75,estimated_baseline
+E00377,Calle de la Luna,living_street,220.73,36.78,26.4,59.4,36.11,estimated_baseline
+E00378,Calle de la Luna,living_street,57.42,36.55,27.5,62.4,35.93,estimated_baseline
+E00379,Calle de la Luna,living_street,5.16,36.85,24.0,58.4,35.7,estimated_baseline
+E00380,Calle de Miguel Moya,residential,33.8,36.12,26.9,67.9,34.97,estimated_baseline
+E00381,Calle de Miguel Moya,residential,43.75,37.83,27.4,45.7,38.49,estimated_baseline
+E00382,Calle de Miguel Moya,residential,7.99,37.43,25.1,50.9,37.05,estimated_baseline
+E00383,Calle de los Trujillos,residential,49.86,36.32,24.7,65.3,34.87,estimated_baseline
+E00384,Plaza de Jacinto Benavente,pedestrian,49.4,36.95,23.8,57.1,35.84,estimated_baseline
+E00385,Plaza de Jacinto Benavente,pedestrian,41.83,36.32,24.7,65.3,34.87,estimated_baseline
+E00386,Plaza de Jacinto Benavente,pedestrian,4.04,36.59,24.3,61.8,35.28,estimated_baseline
+E00387,Plaza de Jacinto Benavente,pedestrian,3.39,36.57,22.6,62.1,34.9,estimated_baseline
+E00388,Plaza de Jacinto Benavente,pedestrian,3.92,36.15,25.4,67.6,34.7,estimated_baseline
+E00389,Plaza de Jacinto Benavente,pedestrian,6.5,36.52,26.2,62.7,35.57,estimated_baseline
+E00390,Plaza de Jacinto Benavente,pedestrian,16.59,36.87,27.0,58.2,36.44,estimated_baseline
+E00392,Plaza de Jacinto Benavente,pedestrian,2.73,37.05,26.2,55.9,36.59,estimated_baseline
+E00394,Plaza de Jacinto Benavente,pedestrian,4.39,36.25,24.4,66.2,34.68,estimated_baseline
+E00396,Plaza de Jacinto Benavente,pedestrian,5.06,36.53,25.7,62.6,35.48,estimated_baseline
+E00397,Plaza de Jacinto Benavente,pedestrian,44.58,36.95,25.2,57.1,36.16,estimated_baseline
+E00398,Plaza de Jacinto Benavente,pedestrian,3.54,35.95,23.6,70.1,33.99,estimated_baseline
+E00399,Plaza de Jacinto Benavente,pedestrian,4.02,36.42,26.9,64.0,35.54,estimated_baseline
+E00400,Plaza de Jacinto Benavente,pedestrian,18.96,36.56,24.8,62.2,35.33,estimated_baseline
+E00402,Plaza de Jacinto Benavente,pedestrian,2.85,35.76,24.7,72.6,33.86,estimated_baseline
+E00404,Plaza de Jacinto Benavente,tertiary,4.69,38.15,24.0,41.6,38.15,estimated_baseline
+E00405,Calle del Príncipe,residential,122.09,36.92,27.4,57.5,36.64,estimated_baseline
+E00406,Calle del Príncipe,residential,11.16,36.5,23.9,63.0,35.03,estimated_baseline
+E00407,Calle del Príncipe,residential,56.62,36.86,23.5,58.3,35.61,estimated_baseline
+E00408,Plaza de Canalejas,tertiary,14.14,37.53,24.0,49.6,36.97,estimated_baseline
+E00409,Carrera de San Jerónimo,pedestrian,53.98,36.4,26.7,64.3,35.46,estimated_baseline
+E00410,Carrera de San Jerónimo,pedestrian,79.87,35.8,25.8,72.1,34.14,estimated_baseline
+E00411,Carrera de San Jerónimo,pedestrian,25.17,35.89,25.2,70.9,34.19,estimated_baseline
+E00412,Calle de San Bernardo,residential,17.05,37.09,23.8,55.3,36.09,estimated_baseline
+E00413,Calle de San Bernardo,residential,40.62,37.54,25.2,49.5,37.29,estimated_baseline
+E00414,Calle de San Bernardo,residential,2.14,37.4,26.8,51.3,37.44,estimated_baseline
+E00415,Service,service,38.94,36.02,25.6,69.2,34.51,estimated_baseline
+E00416,Plaza del Carmen,residential,57.19,37.43,23.1,50.9,36.56,estimated_baseline
+E00417,Plaza del Carmen,residential,7.72,37.37,23.1,51.7,36.45,estimated_baseline
+E00418,Plaza del Carmen,residential,8.87,37.23,27.1,53.5,37.18,estimated_baseline
+E00419,Calle de la Salud,residential,11.76,36.98,27.1,56.8,36.68,estimated_baseline
+E00420,Plaza de San Martín,residential,11.45,36.55,26.3,62.4,35.65,estimated_baseline
+E00421,Plaza de San Martín,residential,40.69,37.27,27.2,53.0,37.29,estimated_baseline
+E00422,Plaza de San Martín,residential,6.16,37.49,26.7,50.1,37.59,estimated_baseline
+E00423,Plaza de San Martín,residential,6.85,37.51,25.8,49.9,37.39,estimated_baseline
+E00424,Plaza de San Martín,residential,9.76,36.24,27.2,66.4,35.26,estimated_baseline
+E00425,Plaza de San Martín,residential,14.06,36.85,25.6,58.4,36.06,estimated_baseline
+E00426,Plaza de San Martín,residential,20.99,36.53,22.9,62.6,34.89,estimated_baseline
+E00427,Plaza de San Martín,residential,4.11,36.27,26.6,66.0,35.18,estimated_baseline
+E00428,Plaza de San Martín,residential,12.56,36.78,25.5,59.4,35.9,estimated_baseline
+E00429,Plaza de las Descalzas,residential,22.37,36.45,24.5,63.6,35.07,estimated_baseline
+E00430,Calle de la Bola,residential,84.57,36.63,23.6,61.3,35.21,estimated_baseline
+E00431,Calle de la Bola,residential,35.32,37.83,26.5,45.7,38.22,estimated_baseline
+E00432,Calle de la Bola,residential,48.98,37.79,27.2,46.2,38.35,estimated_baseline
+E00433,Calle de la Bola,residential,3.95,36.86,27.1,58.3,36.45,estimated_baseline
+E00434,Calle de la Bola,residential,5.89,36.41,24.4,64.2,34.97,estimated_baseline
+E00435,Service,service,29.46,37.37,23.3,51.7,36.5,estimated_baseline
+E00436,Calle Francisco Piquer,footway,48.83,35.32,25.1,78.3,33.15,estimated_baseline
+E00437,Pasadizo de San Ginés,pedestrian,7.37,33.41,27.2,95.0,30.49,estimated_baseline
+E00438,Pasadizo de San Ginés,pedestrian,51.43,36.24,26.9,66.4,35.19,estimated_baseline
+E00439,Pasadizo de San Ginés,pedestrian,7.52,37.11,26.1,55.1,36.68,estimated_baseline
+E00440,Pasadizo de San Ginés,pedestrian,2.39,36.42,25.4,64.0,35.2,estimated_baseline
+E00441,Plaza de Herradores,residential,18.24,36.57,24.5,62.1,35.29,estimated_baseline
+E00442,Plaza de Herradores,tertiary,20.61,37.7,22.9,47.4,37.02,estimated_baseline
+E00443,Plaza de Herradores,residential,11.68,36.27,22.7,66.0,34.39,estimated_baseline
+E00444,Plaza de Herradores,residential,34.48,36.98,22.5,56.8,35.61,estimated_baseline
+E00445,Plaza del Comandante Las Morenas,tertiary,39.85,38.09,24.2,42.3,38.1,estimated_baseline
+E00446,Calle de la Escalinata,residential,33.1,36.53,23.4,62.6,34.99,estimated_baseline
+E00447,Calle de la Escalinata,residential,71.97,37.26,24.5,53.1,36.58,estimated_baseline
+E00448,Calle de los Milaneses,living_street,38.47,36.33,26.4,65.2,35.25,estimated_baseline
+E00449,Plaza de Isabel II,living_street,3.01,35.67,23.9,73.8,33.56,estimated_baseline
+E00450,Plaza de Isabel II,living_street,11.6,36.96,23.8,57.0,35.85,estimated_baseline
+E00451,Plaza de Isabel II,living_street,32.56,35.91,23.2,70.7,33.85,estimated_baseline
+E00452,Plaza de Isabel II,living_street,9.72,36.43,24.7,63.9,35.07,estimated_baseline
+E00453,Costanilla de Santiago,living_street,27.5,35.58,22.8,75.0,33.21,estimated_baseline
+E00454,Calle de Jacometrezo,residential,6.07,37.55,24.5,49.4,37.13,estimated_baseline
+E00455,Calle de la Pasa,living_street,48.07,36.94,24.2,57.3,35.9,estimated_baseline
+E00456,Calle de la Pasa,living_street,29.99,35.65,24.1,74.1,33.55,estimated_baseline
+E00457,Calle de la Pasa,living_street,4.95,36.89,23.0,57.9,35.55,estimated_baseline
+E00458,Calle de la Pasa,living_street,23.22,36.65,23.4,61.1,35.2,estimated_baseline
+E00459,Calle Cordón,footway,61.36,35.42,23.8,77.0,33.11,estimated_baseline
+E00460,Calle del Sacramento,residential,18.55,36.79,26.9,59.2,36.26,estimated_baseline
+E00461,Calle del Sacramento,residential,195.77,37.85,26.7,45.4,38.32,estimated_baseline
+E00462,Pasadizo del Panecillo,footway,14.44,36.5,22.8,63.0,34.81,estimated_baseline
+E00463,Carrera de San Jerónimo,tertiary,65.84,38.68,25.5,34.7,39.66,estimated_baseline
+E00464,Carrera de San Jerónimo,tertiary,68.94,38.64,26.3,35.2,39.83,estimated_baseline
+E00465,Calle Mayor,residential,22.59,37.16,23.2,54.4,36.09,estimated_baseline
+E00466,Calle Mayor,residential,58.53,36.5,23.2,63.0,34.89,estimated_baseline
+E00467,Calle Mayor,residential,1.42,37.65,25.0,48.1,37.45,estimated_baseline
+E00468,Calle Mayor,residential,4.51,37.13,27.4,54.8,37.06,estimated_baseline
+E00469,Calle Mayor,residential,100.76,37.05,25.3,55.9,36.37,estimated_baseline
+E00470,Calle Mayor,residential,49.93,37.33,27.2,52.2,37.41,estimated_baseline
+E00471,Calle Mayor,residential,6.67,36.1,24.5,68.2,34.43,estimated_baseline
+E00472,Calle de Felipe III,residential,38.12,36.52,27.2,62.7,35.81,estimated_baseline
+E00473,Plaza de Tirso de Molina,residential,9.98,37.45,23.7,50.6,36.74,estimated_baseline
+E00474,Plaza de Tirso de Molina,residential,51.69,36.34,23.7,65.1,34.7,estimated_baseline
+E00475,Plaza de Tirso de Molina,residential,7.82,36.36,24.3,64.8,34.86,estimated_baseline
+E00476,Calle de la Concepción Jerónima,tertiary,47.14,37.7,26.0,47.4,37.82,estimated_baseline
+E00477,Calle de la Concepción Jerónima,tertiary,13.11,37.38,27.0,51.6,37.45,estimated_baseline
+E00478,Calle de la Concepción Jerónima,tertiary,23.83,38.84,22.7,32.6,39.13,estimated_baseline
+E00479,Calle de la Concepción Jerónima,tertiary,40.06,38.44,27.0,37.8,39.64,estimated_baseline
+E00480,Calle del Conde de Romanones,residential,79.67,36.93,23.5,57.4,35.73,estimated_baseline
+E00481,Plaza de Tirso de Molina,tertiary,10.05,37.49,25.5,50.1,37.27,estimated_baseline
+E00482,Plaza de Tirso de Molina,tertiary,14.07,38.86,23.1,32.3,39.29,estimated_baseline
+E00483,Footway,footway,37.35,36.49,25.1,63.1,35.27,estimated_baseline
+E00484,Footway,footway,10.79,36.11,25.9,68.1,34.73,estimated_baseline
+E00485,Liberty Street,residential,129.1,36.24,26.2,66.4,35.04,estimated_baseline
+E00486,Liberty Street,residential,94.3,36.73,23.4,60.0,35.35,estimated_baseline
+E00487,Costanilla de los Capuchinos,residential,43.99,36.9,23.1,57.8,35.59,estimated_baseline
+E00488,Calle de Toledo,residential,21.17,36.57,26.0,62.1,35.62,estimated_baseline
+E00489,Calle de Toledo,residential,47.1,37.67,25.4,47.8,37.6,estimated_baseline
+E00490,Gran Vía,tertiary,32.39,37.99,24.7,43.6,38.04,estimated_baseline
+E00491,Gran Vía,tertiary,51.18,38.71,24.0,34.3,39.26,estimated_baseline
+E00492,Gran Vía,tertiary,127.52,37.36,25.7,51.8,37.07,estimated_baseline
+E00493,Calle de los Tudescos,pedestrian,30.87,35.47,27.2,76.4,33.81,estimated_baseline
+E00494,Service,service,23.1,36.48,27.2,63.3,35.73,estimated_baseline
+E00495,Calle de los Tudescos,pedestrian,10.23,37.04,24.6,56.0,36.18,estimated_baseline
+E00496,Calle de los Tudescos,pedestrian,65.88,37.1,23.4,55.2,36.02,estimated_baseline
+E00497,Calle de los Tudescos,pedestrian,13.06,36.74,25.4,59.9,35.8,estimated_baseline
+E00498,Calle Gonzalo Jiménez de Quesada,residential,65.74,37.75,27.0,46.8,38.2,estimated_baseline
+E00499,Calle Gonzalo Jiménez de Quesada,residential,10.84,37.38,23.2,51.6,36.49,estimated_baseline
+E00500,Calle de la Paz,living_street,3.92,36.88,22.7,58.1,35.47,estimated_baseline
+E00501,Calle de la Paz,living_street,50.83,36.0,23.2,69.5,34.01,estimated_baseline
+E00502,Calle de la Concepción Jerónima,tertiary,15.23,37.68,27.0,47.7,38.06,estimated_baseline
+E00503,Calle de la Concepción Jerónima,tertiary,7.37,38.55,25.6,36.4,39.42,estimated_baseline
+E00504,Callejón de la Concepción Jerónima,footway,52.0,36.36,26.8,64.8,35.4,estimated_baseline
+E00505,Plaza de la Provincia,living_street,57.02,35.99,23.1,69.6,33.97,estimated_baseline
+E00506,Calle de San Bruno,pedestrian,70.33,35.65,27.0,74.1,34.1,estimated_baseline
+E00507,Calle de Grafal,residential,42.03,37.83,25.5,45.7,37.94,estimated_baseline
+E00508,Calle de Grafal,residential,11.93,37.37,25.5,51.7,37.04,estimated_baseline
+E00509,Calle de Grafal,residential,66.35,36.19,24.0,67.0,34.5,estimated_baseline
+E00510,Calle de Grafal,residential,8.61,37.13,23.9,54.8,36.19,estimated_baseline
+E00511,Service,service,10.13,33.57,25.9,95.0,30.51,estimated_baseline
+E00512,Calle de la Montera,living_street,17.55,36.6,25.6,61.7,35.58,estimated_baseline
+E00513,Calle de la Cava de San Miguel,residential,75.55,36.14,24.7,67.7,34.54,estimated_baseline
+E00514,Calle de la Cava de San Miguel,residential,22.26,37.6,23.3,48.7,36.93,estimated_baseline
+E00515,Service,service,5.74,33.47,25.9,95.0,30.4,estimated_baseline
+E00516,Service,service,30.46,34.64,26.6,87.2,32.21,estimated_baseline
+E00517,Service,service,4.48,34.57,27.3,88.1,32.2,estimated_baseline
+E00518,Service,service,3.93,33.68,26.0,95.0,30.65,estimated_baseline
+E00519,Calle de Atocha,tertiary,52.18,39.0,25.8,30.5,40.42,estimated_baseline
+E00520,Calle de Toledo,tertiary,18.8,37.79,24.8,46.2,37.67,estimated_baseline
+E00521,Calle de Toledo,tertiary,42.7,37.99,27.5,43.6,38.85,estimated_baseline
+E00522,Calle de Toledo,tertiary,9.7,38.04,23.0,43.0,37.68,estimated_baseline
+E00523,Calle de la Colegiata,tertiary,10.19,38.67,23.8,34.8,39.12,estimated_baseline
+E00524,Calle de la Colegiata,tertiary,50.08,38.08,27.0,42.5,38.88,estimated_baseline
+E00525,Calle de la Colegiata,tertiary,124.02,38.28,24.9,39.9,38.66,estimated_baseline
+E00526,Plaza de la Puerta del Sol,pedestrian,46.48,35.85,25.2,71.4,34.12,estimated_baseline
+E00527,Carrera de San Jerónimo,residential,29.13,36.52,24.2,62.7,35.13,estimated_baseline
+E00528,Gran Vía,tertiary,10.8,37.84,24.7,45.6,37.74,estimated_baseline
+E00529,Gran Vía,tertiary,17.01,38.41,23.2,38.2,38.44,estimated_baseline
+E00530,Gran Vía,tertiary,13.97,38.46,25.3,37.5,39.15,estimated_baseline
+E00531,Service,service,38.75,37.48,24.3,50.3,36.94,estimated_baseline
+E00532,Service,service,24.11,36.08,25.9,68.5,34.68,estimated_baseline
+E00533,Service,service,31.61,36.69,23.6,60.5,35.32,estimated_baseline
+E00534,Service,service,66.95,34.03,26.7,95.0,31.18,estimated_baseline
+E00535,Service,service,35.59,34.52,26.7,88.7,32.02,estimated_baseline
+E00536,Calle de Zorrilla,residential,46.24,37.15,25.1,54.6,36.51,estimated_baseline
+E00537,Calle de Cedaceros,residential,40.06,36.42,22.8,64.0,34.67,estimated_baseline
+E00538,Calle de Alcalá,residential,12.23,37.16,22.6,54.4,35.96,estimated_baseline
+E00539,Calle de Alcalá,tertiary,3.59,38.03,24.0,43.1,37.92,estimated_baseline
+E00540,Calle de Alcalá,tertiary,23.7,37.43,25.2,50.9,37.08,estimated_baseline
+E00541,Calle de Alcalá,tertiary,6.09,37.99,22.5,43.6,37.46,estimated_baseline
+E00542,Calle de Alcalá,tertiary,96.14,38.78,24.5,33.4,39.55,estimated_baseline
+E00543,Gran Vía,tertiary,36.0,37.77,27.1,46.5,38.27,estimated_baseline
+E00544,Plaza de Santo Domingo,residential,35.22,36.21,23.1,66.8,34.36,estimated_baseline
+E00545,Plaza de Santo Domingo,residential,19.91,36.52,27.2,62.7,35.81,estimated_baseline
+E00546,Service,service,37.64,36.77,24.2,59.5,35.59,estimated_baseline
+E00547,Calle de Alcalá,tertiary,38.0,38.72,22.7,34.1,38.9,estimated_baseline
+E00548,Calle de Atocha,tertiary,60.76,38.95,23.2,31.1,39.49,estimated_baseline
+E00549,Calle de Atocha,tertiary,37.59,37.69,27.1,47.5,38.11,estimated_baseline
+E00550,Calle de Mesonero Romanos,living_street,5.21,36.04,24.1,69.0,34.24,estimated_baseline
+E00551,Calle de Mesonero Romanos,living_street,65.01,35.57,25.7,75.1,33.7,estimated_baseline
+E00552,Calle de Mesonero Romanos,living_street,28.75,35.91,25.5,70.7,34.28,estimated_baseline
+E00553,Calle de Mesonero Romanos,living_street,55.23,36.38,23.2,64.6,34.68,estimated_baseline
+E00554,Travesía del Almendro,pedestrian,59.93,36.71,25.8,60.3,35.84,estimated_baseline
+E00555,Calle de la Cabeza,living_street,121.22,36.75,25.2,59.8,35.77,estimated_baseline
+E00556,Calle de Esparteros,living_street,16.95,36.75,23.9,59.8,35.49,estimated_baseline
+E00557,Calle de Esparteros,living_street,71.43,37.17,25.3,54.3,36.6,estimated_baseline
+E00558,Calle de Esparteros,living_street,55.11,36.73,22.9,60.0,35.24,estimated_baseline
+E00559,Calle de Cuchilleros,residential,62.47,36.2,22.6,66.9,34.25,estimated_baseline
+E00560,Calle de Cuchilleros,residential,17.57,37.1,26.4,55.2,36.74,estimated_baseline
+E00561,Calle de Cuchilleros,residential,11.9,36.23,24.1,66.5,34.59,estimated_baseline
+E00562,Travesía del Nuncio,pedestrian,12.26,36.57,27.3,62.1,35.93,estimated_baseline
+E00563,Calle Gómez de Mora,pedestrian,2.46,36.98,26.9,56.8,36.63,estimated_baseline
+E00564,Calle Gómez de Mora,pedestrian,43.29,36.24,23.3,66.4,34.45,estimated_baseline
+E00565,Calle de la Cava de San Miguel,residential,37.02,36.36,23.6,64.8,34.72,estimated_baseline
+E00566,Cava de San Miguel,footway,41.63,37.0,26.0,56.5,36.44,estimated_baseline
+E00567,Calle de Zaragoza,pedestrian,19.61,35.69,27.3,73.5,34.24,estimated_baseline
+E00568,Calle de Zaragoza,pedestrian,38.92,35.42,25.9,77.0,33.47,estimated_baseline
+E00569,Plaza de Santa Cruz,pedestrian,27.55,35.75,23.0,72.8,33.54,estimated_baseline
+E00570,Plaza de Santa Cruz,pedestrian,12.67,36.65,23.2,61.1,35.16,estimated_baseline
+E00571,Plaza de Santa Cruz,pedestrian,15.29,36.66,25.7,60.9,35.72,estimated_baseline
+E00572,Plaza de Santa Cruz,pedestrian,26.42,36.01,24.3,69.4,34.23,estimated_baseline
+E00573,Plaza de Santa Cruz,pedestrian,40.3,36.94,24.0,57.3,35.86,estimated_baseline
+E00574,Plaza de Santa Cruz,pedestrian,23.88,36.97,24.1,56.9,35.94,estimated_baseline
+E00575,Plaza de Santa Cruz,pedestrian,43.49,36.24,25.0,66.4,34.78,estimated_baseline
+E00576,Calle del Prado,residential,49.69,36.21,26.3,66.8,35.0,estimated_baseline
+E00577,Calle del Prado,residential,5.38,36.46,22.9,63.5,34.76,estimated_baseline
+E00578,Service,service,28.59,36.36,25.4,64.8,35.09,estimated_baseline
+E00579,Service,service,41.21,37.63,24.1,48.3,37.18,estimated_baseline
+E00580,Service,service,2.67,36.73,24.1,60.0,35.5,estimated_baseline
+E00581,Service,service,16.66,37.2,27.4,53.9,37.2,estimated_baseline
+E00582,Plaza del Conde de Miranda,footway,6.47,36.18,25.0,67.2,34.67,estimated_baseline
+E00583,Plaza del Conde de Miranda,footway,7.36,35.5,26.8,76.0,33.79,estimated_baseline
+E00584,Calle Imperial,residential,32.29,37.41,26.5,51.2,37.38,estimated_baseline
+E00585,Calle Imperial,residential,45.22,37.38,23.3,51.6,36.52,estimated_baseline
+E00586,Calle Imperial,residential,27.8,36.26,23.3,66.1,34.49,estimated_baseline
+E00587,Calle Imperial,residential,6.96,37.39,26.3,51.4,37.29,estimated_baseline
+E00588,Plaza de la Puerta del Sol,pedestrian,49.92,35.41,26.1,77.2,33.49,estimated_baseline
+E00589,Plaza de la Puerta del Sol,pedestrian,30.0,35.79,27.2,72.2,34.41,estimated_baseline
+E00590,Plaza de Jacinto Benavente,tertiary,18.62,37.38,27.4,51.6,37.56,estimated_baseline
+E00591,Calle Mayor,pedestrian,2.07,36.71,26.8,60.3,36.08,estimated_baseline
+E00592,Calle Mayor,pedestrian,34.74,36.11,24.9,68.1,34.53,estimated_baseline
+E00593,Service,service,79.91,34.85,24.2,84.4,32.19,estimated_baseline
+E00594,Calle de la Concepción Jerónima,tertiary,43.57,38.46,26.5,37.5,39.52,estimated_baseline
+E00595,Plaza de Tirso de Molina,tertiary,42.04,38.65,25.9,35.1,39.72,estimated_baseline
+E00596,Plaza de Tirso de Molina,tertiary,25.86,38.18,27.2,41.2,39.15,estimated_baseline
+E00597,Plaza de Tirso de Molina,tertiary,1.03,38.88,27.2,32.1,40.64,estimated_baseline
+E00598,Calle Mayor,residential,59.04,36.96,23.6,57.0,35.81,estimated_baseline
+E00599,Calle Mayor,residential,5.58,37.14,22.6,54.7,35.92,estimated_baseline
+E00600,Calle de Carretas,pedestrian,7.5,35.58,23.7,75.0,33.36,estimated_baseline
+E00601,Calle de Carretas,pedestrian,4.54,36.11,22.6,68.1,34.09,estimated_baseline
+E00602,Calle de Carretas,pedestrian,52.47,36.27,25.1,66.0,34.86,estimated_baseline
+E00603,Calle de Carretas,pedestrian,33.13,35.79,25.3,72.2,34.03,estimated_baseline
+E00604,Calle de Carretas,pedestrian,76.93,35.85,25.6,71.4,34.2,estimated_baseline
+E00605,Calle de Carretas,pedestrian,52.64,35.75,27.3,72.8,34.35,estimated_baseline
+E00606,Calle de Carretas,pedestrian,12.02,35.97,25.2,69.9,34.33,estimated_baseline
+E00607,Calle de las Infantas,pedestrian,50.5,37.04,26.5,56.0,36.65,estimated_baseline
+E00608,Calle de las Infantas,pedestrian,4.71,35.98,25.5,69.8,34.41,estimated_baseline
+E00609,Calle del Espejo,residential,61.51,36.81,25.4,59.0,35.93,estimated_baseline
+E00610,Calle del Espejo,residential,33.19,36.75,24.4,59.8,35.6,estimated_baseline
+E00611,Costanilla de los Ángeles,residential,3.6,36.46,25.3,63.5,35.26,estimated_baseline
+E00612,Costanilla de los Ángeles,residential,52.3,37.84,24.6,45.6,37.71,estimated_baseline
+E00613,Costanilla de los Ángeles,residential,44.06,37.72,24.6,47.1,37.48,estimated_baseline
+E00614,Service,service,12.04,35.98,25.3,69.8,34.37,estimated_baseline
+E00615,Service,service,26.75,37.06,26.4,55.7,36.66,estimated_baseline
+E00616,Plaza de Jacinto Benavente,pedestrian,21.26,36.06,27.2,68.7,34.92,estimated_baseline
+E00617,Service,service,3.15,36.85,23.3,58.4,35.55,estimated_baseline
+E00618,Service,service,1.59,36.77,24.6,59.5,35.68,estimated_baseline
+E00619,Plaza del Ángel,pedestrian,78.4,35.61,26.4,74.6,33.91,estimated_baseline
+E00620,Pasaje de la Caja de Ahorros,steps,7.84,36.77,25.2,59.5,35.81,estimated_baseline
+E00621,Calle de Gerona,pedestrian,44.16,36.86,24.5,58.3,35.82,estimated_baseline
+E00622,Calle de Gerona,pedestrian,20.97,36.63,26.5,61.3,35.85,estimated_baseline
+E00623,Calle de Gerona,pedestrian,24.03,36.88,25.6,58.1,36.11,estimated_baseline
+E00624,Cuesta de Santo Domingo,residential,38.94,37.6,26.1,48.7,37.65,estimated_baseline
+E00625,Cuesta de Santo Domingo,residential,80.96,37.56,23.7,49.2,36.95,estimated_baseline
+E00626,Plaza de Santo Domingo,residential,26.31,36.82,24.1,58.8,35.66,estimated_baseline
+E00627,Plaza de Santo Domingo,residential,12.93,36.96,23.5,57.0,35.79,estimated_baseline
+E00628,Residential,residential,39.78,37.14,25.2,54.7,36.52,estimated_baseline
+E00629,Calle de Mesonero Romanos,residential,24.51,37.1,24.8,55.2,36.34,estimated_baseline
+E00630,Calle de Los Madrazo,residential,207.02,36.11,23.3,68.1,34.22,estimated_baseline
+E00631,Residential,residential,31.2,34.93,22.5,83.4,32.08,estimated_baseline
+E00632,Gran Vía,tertiary,110.99,38.57,26.1,36.1,39.62,estimated_baseline
+E00633,Calle Botoneras,pedestrian,2.79,33.73,27.2,95.0,30.88,estimated_baseline
+E00634,Calle Botoneras,pedestrian,3.09,34.06,25.4,94.7,31.04,estimated_baseline
+E00635,Plaza de San Miguel,pedestrian,5.4,36.1,25.5,68.2,34.63,estimated_baseline
+E00636,Plaza de San Miguel,pedestrian,11.31,35.66,22.7,73.9,33.34,estimated_baseline
+E00637,Calle Mayor,tertiary,4.96,38.71,25.4,34.3,39.69,estimated_baseline
+E00638,Calle Mayor,tertiary,5.86,38.51,25.9,36.9,39.43,estimated_baseline
+E00639,Calle del Siete de Julio,steps,2.44,33.92,23.3,95.0,30.6,estimated_baseline
+E00640,Calle del Siete de Julio,steps,3.31,34.05,23.2,94.9,30.74,estimated_baseline
+E00641,Calle de Zaragoza,pedestrian,3.37,34.01,26.0,95.0,31.05,estimated_baseline
+E00642,Calle de Zaragoza,pedestrian,2.77,33.29,24.4,95.0,30.02,estimated_baseline
+E00643,Plaza de San Miguel,pedestrian,73.77,36.94,25.0,57.3,36.09,estimated_baseline
+E00644,Plaza de San Miguel,pedestrian,31.51,36.15,24.2,67.6,34.46,estimated_baseline
+E00645,Calle de Gerona,pedestrian,3.45,34.2,23.7,92.9,31.04,estimated_baseline
+E00646,Calle de Gerona,pedestrian,2.91,33.59,26.0,95.0,30.55,estimated_baseline
+E00647,Calle de Toledo,pedestrian,3.0,34.07,23.4,94.6,30.79,estimated_baseline
+E00648,Calle de Toledo,pedestrian,2.72,32.9,27.0,95.0,29.87,estimated_baseline
+E00649,Calle Mayor,tertiary,36.04,38.06,26.0,42.7,38.54,estimated_baseline
+E00650,Calle Mayor,tertiary,13.76,38.55,24.4,36.4,39.06,estimated_baseline
+E00651,Calle del Almendro,living_street,42.68,35.8,26.3,72.1,34.24,estimated_baseline
+E00652,Calle del Almendro,living_street,82.51,36.24,27.4,66.4,35.31,estimated_baseline
+E00653,Calle del Almendro,living_street,100.46,36.74,27.4,59.9,36.28,estimated_baseline
+E00654,Plaza de San Miguel,pedestrian,28.58,36.23,26.3,66.5,35.04,estimated_baseline
+E00655,Calle Ciudad Rodrigo,pedestrian,57.6,36.14,22.8,67.7,34.18,estimated_baseline
+E00656,Calle de la Sal,pedestrian,35.77,36.49,26.8,63.1,35.65,estimated_baseline
+E00657,Service,service,26.78,37.5,23.0,50.0,36.67,estimated_baseline
+E00658,Calle del Arco del Triunfo,footway,9.38,32.9,26.3,95.0,29.79,estimated_baseline
+E00659,Calle del Arco del Triunfo,footway,3.47,33.9,25.6,95.0,30.86,estimated_baseline
+E00660,Calle del Arco del Triunfo,footway,15.51,33.45,26.9,95.0,30.5,estimated_baseline
+E00661,Calle del Arco del Triunfo,footway,9.45,36.86,27.2,58.3,36.47,estimated_baseline
+E00662,Calle del Arco del Triunfo,footway,6.07,36.51,26.6,62.9,35.64,estimated_baseline
+E00663,Calle de Caños del Peral,residential,3.01,37.84,26.2,45.6,38.16,estimated_baseline
+E00664,Calle de Caños del Peral,residential,16.41,37.47,25.1,50.4,37.13,estimated_baseline
+E00665,Calle de Vergara,living_street,53.64,36.27,26.2,66.0,35.1,estimated_baseline
+E00666,Steps,steps,10.52,35.87,24.9,71.2,34.09,estimated_baseline
+E00667,Calle de la Priora,pedestrian,44.36,36.85,25.3,58.4,35.99,estimated_baseline
+E00668,Calle de las Huertas,pedestrian,17.49,35.6,25.8,74.7,33.78,estimated_baseline
+E00669,Calle de las Huertas,pedestrian,18.7,36.69,25.4,60.5,35.71,estimated_baseline
+E00670,Calle de las Huertas,pedestrian,45.27,36.82,25.5,58.8,35.98,estimated_baseline
+E00671,Footway,footway,6.15,36.21,23.5,66.8,34.43,estimated_baseline
+E00672,Footway,footway,8.52,36.24,26.2,66.4,35.04,estimated_baseline
+E00673,Footway,footway,4.14,36.12,26.1,67.9,34.8,estimated_baseline
+E00674,Calle del Duque de Rivas,residential,55.59,37.77,22.9,46.5,37.15,estimated_baseline
+E00675,Service,service,26.64,36.12,24.8,67.9,34.53,estimated_baseline
+E00676,Plaza de las Descalzas,residential,12.66,37.39,26.5,51.4,37.34,estimated_baseline
+E00677,Plaza de las Descalzas,residential,31.51,37.39,23.2,51.4,36.51,estimated_baseline
+E00678,Plaza de las Descalzas,residential,32.07,37.71,26.5,47.3,37.98,estimated_baseline
+E00679,Plaza de las Descalzas,residential,12.29,37.56,24.8,49.2,37.23,estimated_baseline
+E00680,Plaza de las Descalzas,residential,15.36,36.55,22.7,62.4,34.88,estimated_baseline
+E00681,Calle del Mesón de Paredes,living_street,77.17,36.15,24.2,67.6,34.46,estimated_baseline
+E00682,Calle Abada,residential,36.26,37.33,25.5,52.2,36.96,estimated_baseline
+E00683,Calle Abada,residential,44.77,37.56,23.9,49.2,37.0,estimated_baseline
+E00684,Calle Abada,residential,5.28,36.54,24.6,62.5,35.25,estimated_baseline
+E00685,Calle de la Unión,residential,56.49,36.9,23.0,57.8,35.57,estimated_baseline
+E00686,Calle de la Unión,residential,46.81,36.5,23.4,63.0,34.93,estimated_baseline
+E00687,Calle de la Unión,residential,20.56,36.92,24.9,57.5,36.03,estimated_baseline
+E00688,Gran Vía,tertiary,18.07,37.78,25.9,46.4,37.95,estimated_baseline
+E00689,Gran Vía,tertiary,19.96,37.53,27.2,49.6,37.81,estimated_baseline
+E00690,Gran Vía,tertiary,65.82,38.56,23.1,36.2,38.7,estimated_baseline
+E00691,Gran Vía,tertiary,10.89,37.99,22.7,43.6,37.51,estimated_baseline
+E00692,Carrera de San Jerónimo,tertiary,35.4,38.76,23.3,33.6,39.15,estimated_baseline
+E00693,Carrera de San Jerónimo,tertiary,67.21,38.66,24.4,34.9,39.28,estimated_baseline
+E00694,Carrera de San Jerónimo,tertiary,68.91,37.35,23.7,51.9,36.56,estimated_baseline
+E00695,Plaza de Jacinto Benavente,pedestrian,54.29,36.1,24.7,68.2,34.47,estimated_baseline
+E00696,Calle de Lavapiés,living_street,183.81,37.2,25.5,53.9,36.71,estimated_baseline
+E00697,Calle de Lavapiés,living_street,69.31,35.68,24.0,73.7,33.59,estimated_baseline
+E00699,Footway,footway,6.81,35.45,23.6,76.6,33.12,estimated_baseline
+E00700,Footway,footway,23.79,36.93,24.7,57.4,36.0,estimated_baseline
+E00701,Calle de Tintoreros,tertiary,15.46,38.77,25.6,33.5,39.87,estimated_baseline
+E00702,Plaza de Santa Cruz,pedestrian,4.58,35.82,26.0,71.8,34.22,estimated_baseline
+E00703,Corredera Baja de San Pablo,residential,73.15,37.09,24.6,55.3,36.28,estimated_baseline
+E00704,Corredera Baja de San Pablo,residential,57.1,36.97,24.1,56.9,35.94,estimated_baseline
+E00705,Calle de Pelayo,living_street,429.23,36.39,23.0,64.4,34.66,estimated_baseline
+E00706,Calle de las Huertas,pedestrian,76.08,35.68,27.2,73.7,34.2,estimated_baseline
+E00707,Calle de Lope de Vega,living_street,96.42,36.11,24.7,68.1,34.49,estimated_baseline
+E00708,Calle de Lope de Vega,living_street,69.55,35.52,24.2,75.7,33.35,estimated_baseline
+E00709,Calle de Lope de Vega,living_street,3.98,36.47,23.2,63.4,34.84,estimated_baseline
+E00710,Calle de San Bartolomé,residential,101.7,36.81,25.1,59.0,35.87,estimated_baseline
+E00711,Footway,footway,30.58,36.9,26.7,57.8,36.42,estimated_baseline
+E00712,Footway,footway,51.06,36.33,25.9,65.2,35.14,estimated_baseline
+E00713,Footway,footway,12.38,35.27,25.3,79.0,33.1,estimated_baseline
+E00714,Footway,footway,22.83,36.73,27.4,60.0,36.26,estimated_baseline
+E00715,Footway,footway,48.88,36.55,26.5,62.4,35.69,estimated_baseline
+E00716,Footway,footway,11.02,36.02,24.7,69.2,34.33,estimated_baseline
+E00717,Footway,footway,19.13,36.38,24.3,64.6,34.9,estimated_baseline
+E00718,Footway,footway,37.43,36.14,23.0,67.7,34.22,estimated_baseline
+E00719,Footway,footway,18.13,35.92,22.7,70.5,33.78,estimated_baseline
+E00720,Footway,footway,53.1,36.46,26.6,63.5,35.55,estimated_baseline
+E00721,Footway,footway,10.91,36.2,26.3,66.9,34.99,estimated_baseline
+E00722,Footway,footway,65.92,36.64,27.0,61.2,35.99,estimated_baseline
+E00723,Footway,footway,19.79,36.58,25.9,62.0,35.61,estimated_baseline
+E00724,Footway,footway,57.76,35.41,23.5,77.2,33.04,estimated_baseline
+E00725,Footway,footway,23.79,36.23,24.8,66.5,34.73,estimated_baseline
+E00726,Footway,footway,36.97,36.89,27.4,57.9,36.58,estimated_baseline
+E00727,Footway,footway,9.99,35.66,27.0,73.9,34.13,estimated_baseline
+E00728,Footway,footway,32.54,36.92,22.9,57.5,35.59,estimated_baseline
+E00729,Footway,footway,15.72,35.99,24.8,69.6,34.29,estimated_baseline
+E00730,Travesía del Nuncio,pedestrian,18.68,36.97,23.3,56.9,35.76,estimated_baseline
+E00731,Travesía del Nuncio,steps,16.89,35.49,23.8,76.1,33.23,estimated_baseline
+E00732,Gran Vía,tertiary,7.29,38.67,25.3,34.8,39.57,estimated_baseline
+E00733,Gran Vía,residential,6.49,36.42,22.6,64.0,34.64,estimated_baseline
+E00734,Calle de San Bernardo,residential,8.36,37.54,26.7,49.5,37.69,estimated_baseline
+E00735,Calle de San Bernardo,residential,18.08,37.3,27.2,52.6,37.35,estimated_baseline
+E00736,Calle de Alcalá,tertiary,18.84,38.67,24.6,34.8,39.36,estimated_baseline
+E00737,Calle de Alcalá,tertiary,19.37,38.23,25.1,40.5,38.62,estimated_baseline
+E00738,Calle del Maestro Victoria,residential,38.64,36.48,25.7,63.3,35.38,estimated_baseline
+E00739,Calle del Maestro Victoria,residential,19.17,37.35,24.0,51.9,36.63,estimated_baseline
+E00740,Calle del Maestro Victoria,residential,10.67,37.65,26.7,48.1,37.91,estimated_baseline
+E00741,Calle de San Bartolomé,residential,38.9,37.27,25.5,53.0,36.84,estimated_baseline
+E00742,Plaza de Pedro Zerolo,residential,71.09,37.84,26.0,45.6,38.1,estimated_baseline
+E00743,Footway,footway,2.93,36.51,23.6,62.9,34.99,estimated_baseline
+E00744,Footway,footway,3.18,35.47,24.9,76.4,33.38,estimated_baseline
+E00745,Service,service,23.38,36.54,27.4,62.5,35.89,estimated_baseline
+E00746,Footway,footway,3.45,36.12,26.9,67.9,34.97,estimated_baseline
+E00747,Calle de Jacometrezo,residential,17.15,37.64,26.2,48.2,37.75,estimated_baseline
+E00748,Calle de Jacometrezo,residential,46.77,37.49,25.6,50.1,37.3,estimated_baseline
+E00749,Calle de Jacometrezo,residential,12.99,36.96,23.3,57.0,35.74,estimated_baseline
+E00750,Calle de San Bernardo,tertiary,24.25,37.66,27.3,47.9,38.11,estimated_baseline
+E00751,Calle de San Bernardo,tertiary,171.7,37.45,27.1,50.6,37.62,estimated_baseline
+E00752,Calle de San Bernardo,tertiary,14.06,37.98,26.5,43.8,38.53,estimated_baseline
+E00753,Calle de Fuencarral,pedestrian,7.64,35.53,26.2,75.6,33.73,estimated_baseline
+E00754,Calle de Fuencarral,pedestrian,123.21,35.84,23.3,71.6,33.75,estimated_baseline
+E00755,Calle de Fuencarral,pedestrian,280.31,35.84,24.2,71.6,33.91,estimated_baseline
+E00756,Calle de Fuencarral,pedestrian,276.74,35.43,24.2,76.9,33.19,estimated_baseline
+E00758,Calle de Fuencarral,pedestrian,3.4,35.47,25.2,76.4,33.43,estimated_baseline
+E00759,Calle de Fuencarral,pedestrian,133.94,36.17,23.9,67.3,34.44,estimated_baseline
+E00760,Calle de la Virgen de los Peligros,residential,17.81,36.5,23.7,63.0,34.99,estimated_baseline
+E00761,Calle de Zaragoza,pedestrian,11.12,35.46,27.2,76.5,33.8,estimated_baseline
+E00762,Steps,steps,8.82,36.6,26.0,61.7,35.68,estimated_baseline
+E00763,Footway,footway,28.06,36.02,25.4,69.2,34.47,estimated_baseline
+E00764,Steps,steps,2.43,36.9,26.2,57.8,36.3,estimated_baseline
+E00765,Steps,steps,6.71,37.01,24.2,56.4,36.03,estimated_baseline
+E00766,Steps,steps,7.95,35.91,26.3,70.7,34.44,estimated_baseline
+E00767,Steps,steps,2.5,36.95,23.4,57.1,35.75,estimated_baseline
+E00768,Steps,steps,7.5,36.89,26.1,57.9,36.26,estimated_baseline
+E00769,Steps,steps,6.66,36.02,26.1,69.2,34.61,estimated_baseline
+E00770,Steps,steps,2.96,36.93,23.2,57.4,35.67,estimated_baseline
+E00771,Steps,steps,16.86,35.78,23.8,72.4,33.73,estimated_baseline
+E00772,Steps,steps,6.47,36.06,27.1,68.7,34.9,estimated_baseline
+E00773,Steps,steps,6.81,36.18,23.6,67.2,34.4,estimated_baseline
+E00774,Steps,steps,5.02,37.09,22.7,55.3,35.85,estimated_baseline
+E00775,Steps,steps,7.18,36.1,26.7,68.2,34.89,estimated_baseline
+E00776,Steps,steps,8.2,36.66,24.4,60.9,35.43,estimated_baseline
+E00777,Footway,footway,16.94,36.7,25.1,60.4,35.66,estimated_baseline
+E00778,Footway,footway,5.45,36.26,26.7,66.1,35.19,estimated_baseline
+E00779,Calle de las Veneras,residential,12.27,37.22,23.3,53.6,36.22,estimated_baseline
+E00780,Steps,steps,11.08,36.09,25.5,68.3,34.61,estimated_baseline
+E00781,Footway,footway,2.38,36.38,25.2,64.6,35.08,estimated_baseline
+E00782,Steps,steps,6.65,35.34,22.5,78.1,32.76,estimated_baseline
+E00783,Steps,steps,4.65,36.98,23.7,56.8,35.87,estimated_baseline
+E00784,Steps,steps,5.68,35.72,26.7,73.1,34.18,estimated_baseline
+E00785,Footway,footway,1.62,35.78,23.4,72.4,33.66,estimated_baseline
+E00786,Footway,footway,8.63,35.61,24.2,74.6,33.5,estimated_baseline
+E00787,Footway,footway,6.09,36.2,27.4,66.9,35.23,estimated_baseline
+E00788,Footway,footway,10.84,35.32,23.0,78.3,32.81,estimated_baseline
+E00789,Footway,footway,10.02,35.68,24.1,73.7,33.61,estimated_baseline
+E00790,Footway,footway,2.75,33.14,25.8,95.0,30.0,estimated_baseline
+E00791,Footway,footway,9.26,33.39,25.0,95.0,30.19,estimated_baseline
+E00792,Footway,footway,2.36,36.04,26.6,69.0,34.75,estimated_baseline
+E00793,Steps,steps,8.54,36.15,26.6,67.6,34.96,estimated_baseline
+E00794,Footway,footway,14.75,36.82,23.6,58.8,35.55,estimated_baseline
+E00795,Footway,footway,34.74,35.88,22.8,71.1,33.73,estimated_baseline
+E00796,Steps,steps,22.21,36.1,27.1,68.2,34.97,estimated_baseline
+E00797,Footway,footway,6.84,35.43,23.3,76.9,33.04,estimated_baseline
+E00798,Footway,footway,7.51,36.89,23.2,57.9,35.6,estimated_baseline
+E00799,Footway,footway,2.5,35.21,22.5,79.8,32.54,estimated_baseline
+E00800,Footway,footway,18.88,36.63,24.2,61.3,35.33,estimated_baseline
+E00801,Footway,footway,34.53,36.74,26.8,59.9,36.13,estimated_baseline
+E00802,Footway,footway,10.99,35.27,25.0,79.0,33.04,estimated_baseline
+E00803,Footway,footway,65.52,35.73,27.1,73.0,34.28,estimated_baseline
+E00804,Footway,footway,20.22,35.3,26.0,78.6,33.28,estimated_baseline
+E00805,Footway,footway,21.82,36.05,25.9,68.9,34.62,estimated_baseline
+E00806,Footway,footway,35.94,35.44,25.8,76.8,33.49,estimated_baseline
+E00807,Footway,footway,23.94,36.47,23.9,63.4,34.98,estimated_baseline
+E00808,Footway,footway,26.14,36.18,24.7,67.2,34.61,estimated_baseline
+E00809,Footway,footway,19.95,35.47,24.0,76.4,33.22,estimated_baseline
+E00810,Footway,footway,30.77,35.53,26.8,75.6,33.85,estimated_baseline
+E00811,Footway,footway,1.74,36.62,27.0,61.4,35.95,estimated_baseline
+E00812,Footway,footway,15.89,36.08,27.4,68.5,35.0,estimated_baseline
+E00813,Calle Preciados,pedestrian,81.59,37.13,25.0,54.8,36.45,estimated_baseline
+E00814,Calle Preciados,pedestrian,100.87,37.06,26.5,55.7,36.69,estimated_baseline
+E00815,Calle Preciados,pedestrian,116.56,36.27,24.0,66.0,34.64,estimated_baseline
+E00817,Calle Preciados,pedestrian,26.88,35.65,23.8,74.1,33.5,estimated_baseline
+E00818,Calle Preciados,pedestrian,101.07,36.54,23.3,62.5,34.98,estimated_baseline
+E00819,Calle Preciados,pedestrian,22.62,35.49,22.5,76.1,33.02,estimated_baseline
+E00820,Calle Preciados,pedestrian,35.91,35.99,27.0,69.6,34.74,estimated_baseline
+E00821,Calle Preciados,pedestrian,36.94,36.89,26.4,57.9,36.33,estimated_baseline
+E00822,Calle Preciados,pedestrian,62.6,36.53,24.7,62.6,35.26,estimated_baseline
+E00824,Calle Preciados,pedestrian,8.59,36.71,23.7,60.3,35.37,estimated_baseline
+E00825,Calle Preciados,pedestrian,19.04,36.2,27.3,66.9,35.21,estimated_baseline
+E00826,Calle del Carmen,pedestrian,22.15,35.54,26.0,75.5,33.71,estimated_baseline
+E00827,Calle del Carmen,pedestrian,44.81,36.47,22.9,63.4,34.78,estimated_baseline
+E00828,Calle del Carmen,pedestrian,71.6,35.55,24.3,75.4,33.41,estimated_baseline
+E00831,Calle del Carmen,pedestrian,97.07,36.98,24.3,56.8,36.0,estimated_baseline
+E00832,Calle del Carmen,pedestrian,102.91,37.16,26.9,54.4,36.99,estimated_baseline
+E00833,Calle del Carmen,pedestrian,96.92,36.4,22.6,64.3,34.6,estimated_baseline
+E00834,Calle del Carmen,pedestrian,89.3,36.55,26.2,62.4,35.62,estimated_baseline
+E00835,Calle del Carmen,pedestrian,93.81,36.11,27.2,68.1,35.01,estimated_baseline
+E00837,Calle del Carmen,pedestrian,8.86,35.87,23.8,71.2,33.89,estimated_baseline
+E00838,Calle del Carmen,pedestrian,19.87,35.77,23.9,72.5,33.73,estimated_baseline
+E00839,Calle de Galdo,pedestrian,37.12,35.74,23.1,72.9,33.54,estimated_baseline
+E00840,Calle de Galdo,pedestrian,4.9,36.36,25.7,64.8,35.16,estimated_baseline
+E00841,Calle de Galdo,pedestrian,5.06,36.94,23.6,57.3,35.77,estimated_baseline
+E00842,Calle de Galdo,pedestrian,36.04,37.06,26.1,55.7,36.59,estimated_baseline
+E00843,Calle de Galdo,pedestrian,4.32,36.6,24.0,61.7,35.24,estimated_baseline
+E00844,Plaza del Carmen,pedestrian,119.54,36.56,23.9,62.2,35.14,estimated_baseline
+E00845,Plaza del Carmen,pedestrian,6.38,36.5,23.6,63.0,34.97,estimated_baseline
+E00846,Plaza del Carmen,pedestrian,7.18,35.79,22.9,72.2,33.59,estimated_baseline
+E00847,Plaza del Carmen,pedestrian,8.43,36.6,23.6,61.7,35.15,estimated_baseline
+E00848,Plaza del Carmen,pedestrian,67.82,36.78,25.5,59.4,35.9,estimated_baseline
+E00849,Plaza del Carmen,pedestrian,24.23,37.07,24.2,55.6,36.15,estimated_baseline
+E00850,Plaza del Carmen,pedestrian,72.06,35.83,23.7,71.7,33.8,estimated_baseline
+E00851,Plaza del Carmen,pedestrian,28.75,36.43,24.5,63.9,35.03,estimated_baseline
+E00852,Pasaje del Comercio,footway,4.79,36.7,25.2,60.4,35.68,estimated_baseline
+E00853,Pasaje del Comercio,footway,15.23,32.7,26.8,95.0,29.62,estimated_baseline
+E00854,Pedestrian,pedestrian,25.47,36.62,23.4,61.4,35.15,estimated_baseline
+E00855,Pedestrian,pedestrian,7.29,36.48,26.9,63.3,35.65,estimated_baseline
+E00856,Pedestrian,pedestrian,92.35,36.59,25.8,61.8,35.61,estimated_baseline
+E00857,Pedestrian,pedestrian,77.72,36.23,24.6,66.5,34.69,estimated_baseline
+E00858,Calle Arenal,pedestrian,8.24,37.11,25.8,55.1,36.61,estimated_baseline
+E00859,Calle Arenal,pedestrian,10.12,36.63,24.0,61.3,35.29,estimated_baseline
+E00860,Calle Arenal,pedestrian,40.63,36.56,27.3,62.2,35.91,estimated_baseline
+E00861,Calle Arenal,pedestrian,69.61,37.11,25.8,55.1,36.61,estimated_baseline
+E00862,Calle Arenal,pedestrian,56.72,37.05,23.7,55.9,36.0,estimated_baseline
+E00863,Calle Arenal,pedestrian,29.4,36.27,23.7,66.0,34.58,estimated_baseline
+E00864,Calle Arenal,pedestrian,17.92,36.28,24.9,65.9,34.84,estimated_baseline
+E00865,Calle Arenal,pedestrian,67.29,36.0,23.1,69.5,33.99,estimated_baseline
+E00866,Calle Arenal,pedestrian,109.11,37.01,26.5,56.4,36.59,estimated_baseline
+E00867,Calle Arenal,pedestrian,129.67,36.63,23.1,61.3,35.11,estimated_baseline
+E00868,Calle Arenal,pedestrian,7.71,35.45,23.4,76.6,33.09,estimated_baseline
+E00869,Calle Arenal,pedestrian,92.3,36.53,25.4,62.6,35.41,estimated_baseline
+E00870,Calle Arenal,pedestrian,53.94,35.64,24.1,74.2,33.54,estimated_baseline
+E00871,Calle Arenal,pedestrian,67.92,36.15,22.6,67.6,34.16,estimated_baseline
+E00872,Calle Arenal,pedestrian,23.59,36.63,25.3,61.3,35.57,estimated_baseline
+E00873,Calle Arenal,pedestrian,24.23,36.25,26.3,66.2,35.08,estimated_baseline
+E00874,Calle de las Hileras,living_street,7.94,36.76,22.8,59.6,35.28,estimated_baseline
+E00875,Calle de las Hileras,living_street,6.41,35.92,24.6,70.5,34.13,estimated_baseline
+E00876,Calle de las Hileras,residential,47.23,37.06,26.4,55.7,36.66,estimated_baseline
+E00877,Calle de las Hileras,residential,19.82,37.31,23.3,52.5,36.39,estimated_baseline
+E00878,Calle de las Hileras,residential,12.99,37.85,24.6,45.4,37.74,estimated_baseline
+E00879,Calle de los Donados,living_street,6.97,35.85,22.9,71.4,33.7,estimated_baseline
+E00880,Calle de los Donados,living_street,7.84,35.61,23.1,74.6,33.31,estimated_baseline
+E00881,Footway,footway,81.86,36.66,23.8,60.9,35.3,estimated_baseline
+E00882,Footway,footway,15.98,35.82,24.1,71.8,33.86,estimated_baseline
+E00883,Footway,footway,12.33,35.91,27.4,70.7,34.68,estimated_baseline
+E00884,Footway,footway,8.12,35.53,26.6,75.6,33.81,estimated_baseline
+E00885,Footway,footway,3.81,35.68,24.4,73.7,33.66,estimated_baseline
+E00886,Footway,footway,76.93,35.66,25.7,73.9,33.87,estimated_baseline
+E00887,Footway,footway,11.44,36.16,24.3,67.4,34.5,estimated_baseline
+E00888,Footway,footway,2.0,35.29,23.0,78.7,32.76,estimated_baseline
+E00889,Footway,footway,10.5,35.75,22.7,72.8,33.49,estimated_baseline
+E00890,Calle de Jacometrezo,residential,51.0,36.2,25.4,66.9,34.79,estimated_baseline
+E00891,Calle de Jacometrezo,residential,13.81,36.4,22.7,64.3,34.62,estimated_baseline
+E00892,Plaza de Santo Domingo,residential,14.88,37.59,24.1,48.8,37.11,estimated_baseline
+E00893,Plaza de Santo Domingo,residential,36.74,37.29,23.6,52.7,36.42,estimated_baseline
+E00894,Plaza de Santo Domingo,residential,11.35,37.14,22.6,54.7,35.92,estimated_baseline
+E00895,Calle de la Montera,pedestrian,29.64,37.11,23.6,55.1,36.08,estimated_baseline
+E00896,Calle de la Montera,pedestrian,87.41,35.7,25.3,73.4,33.86,estimated_baseline
+E00897,Calle de la Montera,pedestrian,76.21,35.76,24.2,72.6,33.77,estimated_baseline
+E00898,Calle de la Montera,pedestrian,48.04,36.5,26.2,63.0,35.53,estimated_baseline
+E00899,Calle de la Montera,pedestrian,113.87,36.54,26.7,62.5,35.72,estimated_baseline
+E00900,Calle de la Montera,pedestrian,131.69,35.68,25.6,73.7,33.88,estimated_baseline
+E00901,Calle de la Montera,pedestrian,79.13,35.9,26.1,70.8,34.39,estimated_baseline
+E00902,Calle de la Montera,pedestrian,124.01,36.45,23.9,63.6,34.94,estimated_baseline
+E00903,Calle de la Montera,pedestrian,18.55,36.79,22.8,59.2,35.33,estimated_baseline
+E00904,Calle de la Montera,pedestrian,13.75,36.36,25.5,64.8,35.11,estimated_baseline
+E00905,Calle de la Montera,pedestrian,17.14,35.88,26.2,71.1,34.37,estimated_baseline
+E00906,Calle de la Montera,pedestrian,4.42,36.98,25.5,56.8,36.28,estimated_baseline
+E00907,Calle de la Montera,pedestrian,10.15,36.87,24.0,58.2,35.73,estimated_baseline
+E00908,Footway,footway,4.13,36.67,23.4,60.8,35.24,estimated_baseline
+E00909,Footway,footway,10.57,36.71,25.5,60.3,35.77,estimated_baseline
+E00910,Footway,footway,12.26,36.12,26.0,67.9,34.77,estimated_baseline
+E00911,Footway,footway,10.58,36.12,24.7,67.9,34.51,estimated_baseline
+E00912,Footway,footway,11.63,36.17,24.3,67.3,34.52,estimated_baseline
+E00913,Footway,footway,9.82,36.14,25.1,67.7,34.62,estimated_baseline
+E00914,Footway,footway,6.09,36.33,26.9,65.2,35.37,estimated_baseline
+E00915,Footway,footway,2.33,35.46,24.9,76.5,33.36,estimated_baseline
+E00916,Footway,footway,6.01,35.84,23.8,71.6,33.84,estimated_baseline
+E00917,Footway,footway,4.11,35.92,22.6,70.5,33.77,estimated_baseline
+E00918,Calle del Caballero de Gracia,residential,146.23,36.9,23.9,57.8,35.76,estimated_baseline
+E00919,Calle del Caballero de Gracia,residential,177.46,37.03,23.4,56.1,35.89,estimated_baseline
+E00920,Footway,footway,13.39,35.35,23.9,77.9,33.0,estimated_baseline
+E00921,Footway,footway,3.87,35.54,24.0,75.5,33.35,estimated_baseline
+E00922,Footway,footway,2.52,36.23,23.1,66.5,34.39,estimated_baseline
+E00923,Footway,footway,135.25,36.14,26.2,67.7,34.85,estimated_baseline
+E00924,Footway,footway,8.23,35.72,26.9,73.1,34.22,estimated_baseline
+E00925,Footway,footway,8.57,36.48,26.4,63.3,35.54,estimated_baseline
+E00926,Footway,footway,100.64,35.92,23.8,70.5,33.98,estimated_baseline
+E00927,Footway,footway,70.17,35.34,23.5,78.1,32.92,estimated_baseline
+E00928,Footway,footway,3.16,35.71,25.3,73.3,33.88,estimated_baseline
+E00929,Footway,footway,1.81,36.35,23.5,64.9,34.69,estimated_baseline
+E00930,Footway,footway,16.16,35.42,24.5,77.0,33.22,estimated_baseline
+E00931,Calle de Mesonero Romanos,residential,10.33,37.2,26.5,53.9,36.96,estimated_baseline
+E00932,Calle de la Abada,living_street,18.67,35.71,24.8,73.3,33.79,estimated_baseline
+E00933,Pedestrian,pedestrian,43.42,35.78,24.3,72.4,33.82,estimated_baseline
+E00934,Footway,footway,220.67,36.17,27.4,67.3,35.17,estimated_baseline
+E00935,Footway,footway,13.2,36.03,25.9,69.1,34.58,estimated_baseline
+E00936,Footway,footway,302.38,36.15,27.2,67.6,35.09,estimated_baseline
+E00937,Footway,footway,2.82,35.26,23.4,79.1,32.77,estimated_baseline
+E00938,Footway,footway,14.09,35.73,26.5,73.0,34.15,estimated_baseline
+E00939,Footway,footway,68.67,36.11,26.0,68.1,34.75,estimated_baseline
+E00940,Footway,footway,170.36,36.67,23.0,60.8,35.16,estimated_baseline
+E00941,Footway,footway,13.33,36.65,24.4,61.1,35.41,estimated_baseline
+E00942,Footway,footway,7.02,36.33,22.9,65.2,34.53,estimated_baseline
+E00943,Service,service,36.57,36.05,26.9,68.9,34.83,estimated_baseline
+E00944,Footway,footway,21.61,35.95,24.9,70.1,34.24,estimated_baseline
+E00945,Footway,footway,164.38,36.94,26.0,57.3,36.33,estimated_baseline
+E00946,Footway,footway,228.53,35.31,26.5,78.5,33.38,estimated_baseline
+E00947,Calle Ciudad Rodrigo,pedestrian,3.18,32.92,26.4,95.0,29.82,estimated_baseline
+E00948,Calle Ciudad Rodrigo,pedestrian,2.67,33.6,27.1,95.0,30.71,estimated_baseline
+E00949,Calle de Felipe III,pedestrian,2.92,33.58,26.4,95.0,30.59,estimated_baseline
+E00950,Calle de Felipe III,pedestrian,2.84,34.19,25.8,93.0,31.31,estimated_baseline
+E00951,Calle de la Sal,pedestrian,3.33,32.9,27.1,95.0,29.88,estimated_baseline
+E00952,Calle de la Sal,pedestrian,3.02,33.21,23.4,95.0,29.82,estimated_baseline
+E00953,Service,service,9.27,34.21,26.8,92.8,31.49,estimated_baseline
+E00954,Steps,steps,5.68,35.48,25.7,76.3,33.54,estimated_baseline
+E00955,Steps,steps,6.0,36.01,24.2,69.4,34.21,estimated_baseline
+E00956,Calle de Fomento,residential,204.74,37.11,25.0,55.1,36.41,estimated_baseline
+E00957,Calle de la Bola,residential,9.82,37.1,22.8,55.2,35.89,estimated_baseline
+E00958,Plaza de Isabel II,pedestrian,16.93,36.16,25.1,67.4,34.66,estimated_baseline
+E00959,Plaza de Isabel II,pedestrian,39.65,35.87,25.9,71.2,34.29,estimated_baseline
+E00960,Plaza de Isabel II,pedestrian,4.42,36.16,25.5,67.4,34.74,estimated_baseline
+E00961,Plaza de Isabel II,pedestrian,76.11,37.19,24.6,54.0,36.47,estimated_baseline
+E00962,Plaza de Isabel II,pedestrian,27.82,37.1,24.2,55.2,36.2,estimated_baseline
+E00963,Plaza de Isabel II,pedestrian,3.82,36.71,26.6,60.3,36.03,estimated_baseline
+E00964,Plaza de Isabel II,pedestrian,3.47,36.41,25.2,64.2,35.14,estimated_baseline
+E00965,Plaza de Isabel II,pedestrian,48.79,36.81,27.0,59.0,36.32,estimated_baseline
+E00966,Plaza de Isabel II,pedestrian,56.05,36.14,25.9,67.7,34.79,estimated_baseline
+E00967,Plaza de Isabel II,pedestrian,9.25,35.56,26.6,75.2,33.86,estimated_baseline
+E00968,Steps,steps,11.54,36.22,23.6,66.6,34.47,estimated_baseline
+E00969,Service,service,31.68,37.41,24.5,51.2,36.86,estimated_baseline
+E00970,Service,service,3.94,36.04,26.0,69.0,34.62,estimated_baseline
+E00971,Service,service,3.11,36.39,23.3,64.4,34.72,estimated_baseline
+E00972,Calle del Ave María,living_street,333.52,36.68,26.6,60.7,35.97,estimated_baseline
+E00973,Calle del Ave María,living_street,46.44,35.6,24.6,74.7,33.56,estimated_baseline
+E00974,Calle Mayor,tertiary,138.31,38.0,25.7,43.5,38.34,estimated_baseline
+E00975,Calle Mayor,tertiary,30.33,38.53,23.2,36.6,38.67,estimated_baseline
+E00976,Calle Mayor,tertiary,67.29,39.02,25.7,30.2,40.43,estimated_baseline
+E00977,Calle de Leganitos,residential,209.76,36.83,23.9,58.7,35.64,estimated_baseline
+E00978,Calle de Leganitos,residential,10.93,37.71,22.9,47.3,37.03,estimated_baseline
+E00979,Calle de Tetuán,residential,47.06,36.61,26.6,61.6,35.83,estimated_baseline
+E00980,Calle de Cervantes,living_street,86.41,36.63,22.8,61.3,35.05,estimated_baseline
+E00981,Calle de Cervantes,living_street,275.95,36.38,25.2,64.6,35.08,estimated_baseline
+E00982,Calle de Quevedo,living_street,67.13,36.33,27.3,65.2,35.46,estimated_baseline
+E00983,Calle de la Lechuga,residential,66.65,37.26,25.0,53.1,36.7,estimated_baseline
+E00984,Calle de la Lechuga,residential,4.73,36.12,22.7,67.9,34.13,estimated_baseline
+E00985,Plaza de Puerta Cerrada,pedestrian,49.78,35.94,25.2,70.3,34.28,estimated_baseline
+E00986,Plaza de Puerta Cerrada,pedestrian,19.18,37.17,26.6,54.3,36.93,estimated_baseline
+E00987,Plaza de Puerta Cerrada,pedestrian,5.03,36.97,23.0,56.9,35.7,estimated_baseline
+E00988,Plaza de Puerta Cerrada,pedestrian,55.48,36.16,25.3,67.4,34.7,estimated_baseline
+E00989,Plaza de Puerta Cerrada,pedestrian,10.32,35.4,25.0,77.3,33.27,estimated_baseline
+E00992,Plaza de Puerta Cerrada,pedestrian,3.9,35.61,23.6,74.6,33.4,estimated_baseline
+E00994,Plaza de Puerta Cerrada,pedestrian,1.64,37.01,25.3,56.4,36.29,estimated_baseline
+E00999,Plaza de Puerta Cerrada,pedestrian,5.35,36.17,24.0,67.3,34.46,estimated_baseline
+E01000,Plaza de Puerta Cerrada,pedestrian,9.2,36.95,24.4,57.1,35.97,estimated_baseline
+E01001,Plaza de Puerta Cerrada,pedestrian,15.65,35.74,26.3,72.9,34.13,estimated_baseline
+E01002,Plaza de Puerta Cerrada,pedestrian,1.84,36.08,25.5,68.5,34.59,estimated_baseline
+E01003,Plaza de Puerta Cerrada,pedestrian,4.73,35.63,25.0,74.3,33.68,estimated_baseline
+E01004,Plaza de Puerta Cerrada,pedestrian,3.41,37.16,24.1,54.4,36.29,estimated_baseline
+E01005,Footway,footway,35.46,36.68,25.6,60.7,35.73,estimated_baseline
+E01006,Footway,footway,4.48,36.05,22.6,68.9,33.99,estimated_baseline
+E01007,Footway,footway,4.89,36.92,23.8,57.5,35.78,estimated_baseline
+E01008,Footway,footway,4.99,35.89,25.8,70.9,34.31,estimated_baseline
+E01009,Footway,footway,18.85,35.6,22.7,74.7,33.23,estimated_baseline
+E01010,Footway,footway,71.36,36.77,22.8,59.5,35.3,estimated_baseline
+E01011,Footway,footway,14.21,36.43,26.0,63.9,35.35,estimated_baseline
+E01012,Footway,footway,3.17,36.24,23.1,66.4,34.41,estimated_baseline
+E01013,Footway,footway,2.1,36.89,25.0,57.9,36.0,estimated_baseline
+E01014,Footway,footway,9.11,35.44,23.7,76.8,33.12,estimated_baseline
+E01015,Calle de San Justo,residential,13.92,37.35,24.6,51.9,36.77,estimated_baseline
+E01016,Pasadizo del Obispo,steps,24.45,36.89,22.8,57.9,35.51,estimated_baseline
+E01017,Pedestrian,pedestrian,7.2,36.22,24.3,66.6,34.61,estimated_baseline
+E01018,Pedestrian,pedestrian,12.84,36.35,24.3,64.9,34.84,estimated_baseline
+E01019,Calle de las Veneras,residential,11.76,37.35,25.6,51.9,37.02,estimated_baseline
+E01020,Footway,footway,4.25,36.28,24.9,65.9,34.84,estimated_baseline
+E01021,Footway,footway,7.52,35.65,23.3,74.1,33.42,estimated_baseline
+E01022,Footway,footway,142.0,35.2,24.2,79.9,32.79,estimated_baseline
+E01023,Footway,footway,147.25,36.64,27.5,61.2,36.11,estimated_baseline
+E01024,Footway,footway,64.87,35.8,26.8,72.1,34.34,estimated_baseline
+E01025,Footway,footway,13.03,36.25,23.2,66.2,34.45,estimated_baseline
+E01026,Footway,footway,5.87,36.62,26.9,61.4,35.93,estimated_baseline
+E01027,Footway,footway,3.52,35.4,26.1,77.3,33.47,estimated_baseline
+E01028,Service,service,33.78,36.97,23.5,56.9,35.81,estimated_baseline
+E01029,Footway,footway,215.16,36.76,26.1,59.6,36.01,estimated_baseline
+E01030,Footway,footway,9.87,35.65,26.6,74.1,34.02,estimated_baseline
+E01031,Footway,footway,15.89,35.53,26.6,75.6,33.81,estimated_baseline
+E01032,Footway,footway,164.87,35.81,25.9,72.0,34.18,estimated_baseline
+E01033,Footway,footway,40.06,36.49,24.4,63.1,35.12,estimated_baseline
+E01034,Footway,footway,21.14,36.57,25.5,62.1,35.5,estimated_baseline
+E01035,Footway,footway,13.35,35.92,26.6,70.5,34.53,estimated_baseline
+E01036,Footway,footway,7.14,37.0,23.1,56.5,35.77,estimated_baseline
+E01037,Footway,footway,5.76,36.9,26.0,57.8,36.25,estimated_baseline
+E01038,Footway,footway,3.36,36.09,22.6,68.3,34.06,estimated_baseline
+E01039,Footway,footway,22.63,36.94,22.8,57.3,35.6,estimated_baseline
+E01040,Footway,footway,8.92,34.16,27.4,93.4,31.5,estimated_baseline
+E01041,Footway,footway,7.03,33.7,25.5,95.0,30.61,estimated_baseline
+E01042,Footway,footway,11.68,33.39,26.2,95.0,30.34,estimated_baseline
+E01043,Service,service,5.96,36.48,23.8,63.3,34.98,estimated_baseline
+E01044,Calle de la Cava Alta,residential,188.54,36.27,22.9,66.0,34.43,estimated_baseline
+E01045,Calle de Toledo,tertiary,73.01,38.0,24.4,43.5,37.97,estimated_baseline
+E01046,Calle de Toledo,tertiary,94.94,37.62,26.0,48.4,37.66,estimated_baseline
+E01047,Plaza del Comandante Las Morenas,residential,6.54,37.3,22.9,52.6,36.28,estimated_baseline
+E01048,Calle de Atocha,residential,51.78,36.54,26.6,62.5,35.7,estimated_baseline
+E01049,Footway,footway,465.21,36.05,23.4,68.9,34.13,estimated_baseline
+E01050,Footway,footway,70.93,36.77,27.0,59.5,36.24,estimated_baseline
+E01051,Footway,footway,15.65,36.96,23.0,57.0,35.68,estimated_baseline
+E01052,Footway,footway,8.91,35.97,26.5,69.9,34.6,estimated_baseline
+E01053,Footway,footway,178.27,35.62,24.4,74.4,33.56,estimated_baseline
+E01054,Footway,footway,10.85,35.6,27.5,74.7,34.12,estimated_baseline
+E01055,Footway,footway,7.12,35.34,24.8,78.1,33.13,estimated_baseline
+E01056,Footway,footway,2.69,35.66,23.3,73.9,33.44,estimated_baseline
+E01057,Footway,footway,8.45,36.52,26.1,62.7,35.55,estimated_baseline
+E01058,Footway,footway,7.69,35.92,22.9,70.5,33.82,estimated_baseline
+E01059,Footway,footway,79.55,36.51,24.8,62.9,35.24,estimated_baseline
+E01060,Footway,footway,112.07,35.68,23.0,73.7,33.42,estimated_baseline
+E01061,Footway,footway,63.2,35.83,23.8,71.7,33.82,estimated_baseline
+E01062,Footway,footway,5.67,35.23,23.3,79.5,32.7,estimated_baseline
+E01063,Footway,footway,11.29,36.34,26.6,65.1,35.32,estimated_baseline
+E01064,Footway,footway,5.91,35.7,23.8,73.4,33.59,estimated_baseline
+E01065,Footway,footway,16.63,36.63,24.7,61.3,35.44,estimated_baseline
+E01066,Footway,footway,88.95,35.72,23.8,73.1,33.63,estimated_baseline
+E01067,Footway,footway,25.18,35.29,26.9,78.7,33.43,estimated_baseline
+E01068,Calle de la Flor Alta,pedestrian,98.87,36.01,26.7,69.4,34.72,estimated_baseline
+E01069,Calle de Alcalá,tertiary,28.36,37.66,25.1,47.9,37.5,estimated_baseline
+E01070,Steps,steps,8.95,36.96,27.4,57.0,36.72,estimated_baseline
+E01071,Gran Vía,tertiary,19.13,38.32,27.1,39.3,39.42,estimated_baseline
+E01072,Gran Vía,tertiary,100.59,37.75,24.5,46.8,37.51,estimated_baseline
+E01073,Gran Vía,tertiary,15.76,38.3,26.8,39.6,39.28,estimated_baseline
+E01074,Gran Vía,tertiary,31.91,38.89,24.4,31.9,39.74,estimated_baseline
+E01075,Gran Vía,tertiary,23.56,38.09,23.4,42.3,37.88,estimated_baseline
+E01076,Calle de las Huertas,pedestrian,15.44,35.71,26.5,73.3,34.12,estimated_baseline
+E01077,Calle de Atocha,tertiary,136.72,38.42,23.7,38.0,38.6,estimated_baseline
+E01078,Calle de Atocha,tertiary,16.08,37.84,22.9,45.6,37.28,estimated_baseline
+E01079,Calle de la Magdalena,tertiary,33.9,38.36,25.6,38.8,39.03,estimated_baseline
+E01080,Calle de la Magdalena,tertiary,118.08,37.91,23.2,44.7,37.48,estimated_baseline
+E01081,Calle de las Tres Cruces,residential,28.95,37.66,23.9,47.9,37.19,estimated_baseline
+E01082,Calle de las Tres Cruces,residential,15.81,37.66,24.6,47.9,37.37,estimated_baseline
+E01083,Calle de las Tres Cruces,residential,94.23,36.73,24.0,60.0,35.47,estimated_baseline
+E01084,Calle de las Tres Cruces,residential,13.41,37.4,23.0,51.3,36.48,estimated_baseline
+E01085,Footway,footway,2.08,35.9,25.8,70.8,34.32,estimated_baseline
+E01086,Footway,footway,2.03,36.86,26.5,58.3,36.3,estimated_baseline
+E01087,Footway,footway,147.39,36.76,26.3,59.6,36.05,estimated_baseline
+E01088,Footway,footway,11.76,35.31,24.8,78.5,33.08,estimated_baseline
+E01089,Gran Vía,tertiary,7.25,38.68,25.2,34.7,39.56,estimated_baseline
+E01090,Calle de Santa Isabel,living_street,62.15,35.78,26.0,72.4,34.14,estimated_baseline
+E01091,Calle de Santa Isabel,living_street,42.29,37.17,26.2,54.3,36.82,estimated_baseline
+E01092,Calle de Alcalá,tertiary,10.29,38.7,25.2,34.4,39.6,estimated_baseline
+E01093,Calle de Bordadores,living_street,7.11,36.51,26.9,62.9,35.71,estimated_baseline
+E01094,Calle de Bordadores,living_street,7.01,36.52,25.4,62.7,35.39,estimated_baseline
+E01095,Footway,footway,8.34,35.94,27.4,70.3,34.74,estimated_baseline
+E01096,Footway,footway,6.39,36.81,23.6,59.0,35.53,estimated_baseline
+E01097,Plaza de Santo Domingo,residential,28.79,36.6,27.0,61.7,35.91,estimated_baseline
+E01098,Plaza de Santo Domingo,residential,15.0,36.28,24.7,65.9,34.8,estimated_baseline
+E01099,Footway,footway,4.51,35.21,22.9,79.8,32.6,estimated_baseline
+E01100,Footway,footway,1.85,36.47,27.1,63.4,35.68,estimated_baseline
+E01101,Footway,footway,1.93,35.33,25.1,78.2,33.17,estimated_baseline
+E01102,Footway,footway,20.8,35.5,24.9,76.0,33.43,estimated_baseline
+E01103,Footway,footway,2.96,36.08,26.1,68.5,34.72,estimated_baseline
+E01104,Footway,footway,1.67,36.11,25.9,68.1,34.73,estimated_baseline
+E01105,Calle de Arrieta,residential,38.78,37.11,25.7,55.1,36.58,estimated_baseline
+E01106,Plaza de Puerta Cerrada,pedestrian,20.17,36.97,26.0,56.9,36.38,estimated_baseline
+E01107,Plaza de Puerta Cerrada,pedestrian,11.05,36.95,25.0,57.1,36.11,estimated_baseline
+E01108,Plaza de Puerta Cerrada,pedestrian,2.64,36.97,26.3,56.9,36.46,estimated_baseline
+E01109,Plaza de Puerta Cerrada,pedestrian,4.4,36.43,26.1,63.9,35.38,estimated_baseline
+E01110,Plaza de Puerta Cerrada,pedestrian,6.72,36.58,25.8,62.0,35.59,estimated_baseline
+E01111,Plaza de Puerta Cerrada,pedestrian,6.71,36.25,25.7,66.2,34.95,estimated_baseline
+E01112,Plaza de Puerta Cerrada,pedestrian,7.17,35.7,26.2,73.4,34.04,estimated_baseline
+E01113,Plaza de Puerta Cerrada,pedestrian,14.81,35.95,25.0,70.1,34.26,estimated_baseline
+E01114,Gran Vía,tertiary,50.08,38.92,23.4,31.5,39.49,estimated_baseline
+E01115,Gran Vía,tertiary,11.04,38.48,24.2,37.3,38.86,estimated_baseline
+E01116,Gran Vía,tertiary,17.8,38.76,24.1,33.6,39.39,estimated_baseline
+E01117,Calle de Alcalá,tertiary,39.64,37.4,22.7,51.3,36.42,estimated_baseline
+E01118,Calle de Alcalá,tertiary,2.98,38.02,25.9,43.2,38.43,estimated_baseline
+E01119,Calle de Cedaceros,residential,13.29,36.42,26.4,64.0,35.43,estimated_baseline
+E01120,Calle de Cedaceros,residential,3.9,37.66,26.4,47.9,37.85,estimated_baseline
+E01121,Gran Vía,tertiary,52.95,38.52,23.7,36.7,38.8,estimated_baseline
+E01122,Calle del Postigo de San Martín,pedestrian,49.96,36.24,24.4,66.4,34.66,estimated_baseline
+E01123,Calle del Postigo de San Martín,pedestrian,68.26,35.61,26.4,74.6,33.91,estimated_baseline
+E01124,Pasaje del Comercio,footway,6.93,36.21,27.3,66.8,35.23,estimated_baseline
+E01125,Calle de los Jardines,pedestrian,10.82,37.07,26.3,55.6,36.65,estimated_baseline
+E01126,Calle de los Jardines,pedestrian,3.1,36.16,23.8,67.4,34.4,estimated_baseline
+E01127,Calle Preciados,pedestrian,2.68,36.94,25.7,57.3,36.25,estimated_baseline
+E01128,Calle Preciados,pedestrian,79.61,36.54,24.4,62.5,35.21,estimated_baseline
+E01129,Calle Preciados,pedestrian,57.72,36.91,23.9,57.7,35.78,estimated_baseline
+E01130,Calle Preciados,pedestrian,1.61,35.61,25.5,74.6,33.74,estimated_baseline
+E01131,Calle Preciados,pedestrian,1.46,36.32,26.9,65.3,35.35,estimated_baseline
+E01132,Plaza de Celenque,residential,27.31,37.39,23.9,51.4,36.68,estimated_baseline
+E01133,Calle del Arenal,pedestrian,106.39,35.96,25.8,70.0,34.44,estimated_baseline
+E01134,Calle del Arenal,pedestrian,9.46,36.7,23.2,60.4,35.25,estimated_baseline
+E01135,Calle del Arenal,pedestrian,7.62,36.01,22.6,69.4,33.92,estimated_baseline
+E01136,Calle del Arenal,pedestrian,46.96,35.68,27.0,73.7,34.16,estimated_baseline
+E01137,Calle del Arenal,pedestrian,17.53,36.35,24.8,64.9,34.95,estimated_baseline
+E01138,Calle del Arenal,pedestrian,28.93,35.79,27.1,72.2,34.39,estimated_baseline
+E01139,Calle del Arenal,pedestrian,55.15,36.05,26.1,68.9,34.66,estimated_baseline
+E01140,Calle del Arenal,pedestrian,68.76,37.1,23.6,55.2,36.07,estimated_baseline
+E01141,Calle Rompelanzas,pedestrian,7.93,37.02,23.8,56.2,35.97,estimated_baseline
+E01142,Calle Rompelanzas,pedestrian,14.4,37.16,23.9,54.4,36.25,estimated_baseline
+E01143,Calle Rompelanzas,pedestrian,5.13,36.76,25.3,59.6,35.82,estimated_baseline
+E01144,Calle de Tetuán,pedestrian,71.65,35.87,24.2,71.2,33.96,estimated_baseline
+E01145,Calle de Tetuán,pedestrian,6.53,36.39,27.2,64.4,35.55,estimated_baseline
+E01146,Calle de Tetuán,pedestrian,6.72,36.0,25.4,69.5,34.43,estimated_baseline
+E01147,Calle de Tetuán,pedestrian,41.66,35.74,25.1,72.9,33.9,estimated_baseline
+E01148,Calle de Tetuán,pedestrian,7.15,35.62,27.0,74.4,34.05,estimated_baseline
+E01149,Calle Preciados,pedestrian,94.7,36.97,26.0,56.9,36.38,estimated_baseline
+E01150,Calle Preciados,pedestrian,11.63,36.81,23.5,59.0,35.51,estimated_baseline
+E01151,Calle Preciados,pedestrian,97.35,36.81,26.6,59.0,36.22,estimated_baseline
+E01152,Calle Preciados,pedestrian,65.01,37.02,22.9,56.2,35.77,estimated_baseline
+E01153,Calle Preciados,pedestrian,29.39,36.07,26.5,68.6,34.79,estimated_baseline
+E01154,Calle del Carmen,pedestrian,40.76,36.93,23.8,57.4,35.8,estimated_baseline
+E01155,Calle del Carmen,pedestrian,78.31,36.17,27.0,67.3,35.08,estimated_baseline
+E01156,Calle del Carmen,pedestrian,19.41,36.26,24.3,66.1,34.68,estimated_baseline
+E01157,Calle del Carmen,pedestrian,81.92,36.64,25.5,61.2,35.64,estimated_baseline
+E01158,Calle del Carmen,pedestrian,2.05,36.47,24.9,63.4,35.19,estimated_baseline
+E01159,Calle del Carmen,pedestrian,94.81,36.21,27.4,66.8,35.25,estimated_baseline
+E01160,Calle de la Montera,pedestrian,106.03,35.99,26.5,69.6,34.64,estimated_baseline
+E01161,Pedestrian,pedestrian,35.27,36.34,25.6,65.1,35.1,estimated_baseline
+E01162,Pedestrian,pedestrian,3.67,36.88,26.9,58.1,36.43,estimated_baseline
+E01163,Pedestrian,pedestrian,8.34,35.56,25.3,75.2,33.61,estimated_baseline
+E01164,Pedestrian,pedestrian,8.05,36.02,25.8,69.2,34.55,estimated_baseline
+E01165,Pedestrian,pedestrian,21.35,36.03,23.3,69.1,34.08,estimated_baseline
+E01166,Pedestrian,pedestrian,26.64,36.76,25.1,59.6,35.77,estimated_baseline
+E01167,Pedestrian,pedestrian,6.79,36.06,23.7,68.7,34.21,estimated_baseline
+E01168,Pedestrian,pedestrian,54.93,36.11,23.9,68.1,34.33,estimated_baseline
+E01169,Pedestrian,pedestrian,14.62,35.55,24.5,75.4,33.45,estimated_baseline
+E01170,Pedestrian,pedestrian,17.64,36.12,25.0,67.9,34.57,estimated_baseline
+E01171,Pedestrian,pedestrian,21.47,35.91,25.0,70.7,34.18,estimated_baseline
+E01172,Pedestrian,pedestrian,16.83,36.33,24.3,65.2,34.81,estimated_baseline
+E01173,Pedestrian,pedestrian,39.58,36.07,27.0,68.6,34.89,estimated_baseline
+E01174,Footway,footway,273.25,36.86,24.6,58.3,35.85,estimated_baseline
+E01175,Footway,footway,11.14,36.04,22.9,69.0,34.02,estimated_baseline
+E01176,Footway,footway,42.1,35.3,25.0,78.6,33.1,estimated_baseline
+E01177,Footway,footway,205.43,35.47,26.4,76.4,33.66,estimated_baseline
+E01178,Footway,footway,42.28,36.13,25.1,67.8,34.6,estimated_baseline
+E01179,Footway,footway,5.79,36.66,27.4,60.9,36.13,estimated_baseline
+E01180,Footway,footway,80.27,35.89,24.7,70.9,34.09,estimated_baseline
+E01181,Footway,footway,82.47,35.32,26.6,78.3,33.42,estimated_baseline
+E01182,Plaza de San Martín,pedestrian,34.9,35.82,25.8,71.8,34.18,estimated_baseline
+E01183,Footway,footway,2.53,36.5,24.4,63.0,35.14,estimated_baseline
+E01184,Footway,footway,2.68,35.68,26.6,73.7,34.08,estimated_baseline
+E01185,Footway,footway,1.62,35.89,23.6,70.9,33.89,estimated_baseline
+E01186,Footway,footway,1.64,36.21,23.5,66.8,34.43,estimated_baseline
+E01187,Footway,footway,2.47,36.26,25.3,66.1,34.89,estimated_baseline
+E01188,Footway,footway,1.48,35.91,25.2,70.7,34.22,estimated_baseline
+E01189,Footway,footway,1.61,36.01,24.1,69.4,34.19,estimated_baseline
+E01190,Footway,footway,96.84,35.23,26.4,79.5,33.22,estimated_baseline
+E01191,Footway,footway,46.41,36.92,27.4,57.5,36.64,estimated_baseline
+E01192,Footway,footway,1.15,36.69,24.2,60.5,35.44,estimated_baseline
+E01193,Footway,footway,10.01,35.43,24.8,76.9,33.29,estimated_baseline
+E01194,Footway,footway,3.68,36.71,24.8,60.3,35.61,estimated_baseline
+E01195,Footway,footway,4.72,35.36,23.9,77.8,33.02,estimated_baseline
+E01196,Footway,footway,2.31,35.56,25.5,75.2,33.65,estimated_baseline
+E01197,Plaza de Callao,pedestrian,8.68,35.5,25.2,76.0,33.49,estimated_baseline
+E01198,Footway,footway,2.79,36.17,23.5,67.3,34.36,estimated_baseline
+E01199,Footway,footway,3.79,36.95,24.4,57.1,35.97,estimated_baseline
+E01200,Footway,footway,3.89,36.2,22.8,66.9,34.29,estimated_baseline
+E01201,Footway,footway,3.75,35.54,26.2,75.5,33.75,estimated_baseline
+E01202,Footway,footway,66.42,36.82,23.1,58.8,35.45,estimated_baseline
+E01203,Footway,footway,103.85,36.54,22.9,62.5,34.9,estimated_baseline
+E01204,Footway,footway,6.5,36.84,24.8,58.6,35.85,estimated_baseline
+E01205,Footway,footway,1.06,36.53,25.7,62.6,35.48,estimated_baseline
+E01206,Footway,footway,2.72,35.78,24.1,72.4,33.78,estimated_baseline
+E01207,Footway,footway,3.97,35.22,23.5,79.6,32.71,estimated_baseline
+E01208,Footway,footway,5.69,36.41,24.4,64.2,34.97,estimated_baseline
+E01209,Footway,footway,1.5,35.7,25.8,73.4,33.96,estimated_baseline
+E01210,Footway,footway,1.45,35.43,24.4,76.9,33.22,estimated_baseline
+E01211,Footway,footway,2.32,37.0,26.5,56.5,36.57,estimated_baseline
+E01212,Pedestrian,pedestrian,3.52,36.76,23.6,59.6,35.44,estimated_baseline
+E01213,Pedestrian,pedestrian,4.39,36.86,25.6,58.3,36.08,estimated_baseline
+E01214,Pedestrian,pedestrian,31.55,36.16,25.2,67.4,34.68,estimated_baseline
+E01215,Plaza de la Puerta del Sol,pedestrian,34.04,36.59,23.4,61.8,35.1,estimated_baseline
+E01216,Plaza de la Puerta del Sol,pedestrian,8.15,37.19,24.1,54.0,36.35,estimated_baseline
+E01217,Pedestrian,pedestrian,20.97,36.69,24.9,60.5,35.6,estimated_baseline
+E01218,Pedestrian,pedestrian,28.17,36.19,23.1,67.0,34.33,estimated_baseline
+E01219,Calle del Arenal,pedestrian,12.21,35.45,23.9,76.6,33.17,estimated_baseline
+E01220,Pedestrian,pedestrian,14.18,36.61,22.8,61.6,35.01,estimated_baseline
+E01221,Pedestrian,pedestrian,38.48,36.99,27.5,56.6,36.81,estimated_baseline
+E01222,Pedestrian,pedestrian,29.07,37.14,24.6,54.7,36.37,estimated_baseline
+E01223,Calle del Postigo de San Martín,pedestrian,7.27,37.1,24.3,55.2,36.23,estimated_baseline
+E01224,Calle del Postigo de San Martín,pedestrian,1.65,36.23,27.1,66.5,35.22,estimated_baseline
+E01225,Plaza de San Martín,pedestrian,10.13,36.19,27.2,67.0,35.17,estimated_baseline
+E01226,Plaza de San Martín,pedestrian,12.01,36.92,25.9,57.5,36.27,estimated_baseline
+E01227,Plaza de San Martín,pedestrian,19.13,37.1,23.1,55.2,35.96,estimated_baseline
+E01228,Footway,footway,2.39,35.68,23.2,73.7,33.45,estimated_baseline
+E01229,Footway,footway,2.35,35.37,24.0,77.7,33.05,estimated_baseline
+E01230,Footway,footway,2.33,36.36,24.7,64.8,34.94,estimated_baseline
+E01231,Footway,footway,3.08,35.93,25.3,70.4,34.28,estimated_baseline
+E01232,Footway,footway,5.84,35.96,26.2,70.0,34.52,estimated_baseline
+E01233,Footway,footway,5.54,35.77,24.9,72.5,33.91,estimated_baseline
+E01234,Footway,footway,2.75,36.26,25.0,66.1,34.82,estimated_baseline
+E01235,Footway,footway,5.36,35.54,24.2,75.5,33.38,estimated_baseline
+E01236,Footway,footway,1.09,36.52,26.2,62.7,35.57,estimated_baseline
+E01237,Footway,footway,1.79,36.17,23.4,67.3,34.34,estimated_baseline
+E01238,Footway,footway,2.33,35.21,27.3,79.8,33.35,estimated_baseline
+E01239,Footway,footway,5.45,35.37,24.6,77.7,33.15,estimated_baseline
+E01240,Footway,footway,1.92,35.32,24.8,78.3,33.1,estimated_baseline
+E01241,Footway,footway,2.0,36.5,25.6,63.0,35.4,estimated_baseline
+E01242,Pedestrian,pedestrian,8.22,36.1,25.9,68.2,34.71,estimated_baseline
+E01243,Pedestrian,pedestrian,8.35,36.45,24.9,63.6,35.15,estimated_baseline
+E01244,Pedestrian,pedestrian,11.45,35.67,26.5,73.8,34.04,estimated_baseline
+E01245,Pedestrian,pedestrian,11.31,36.99,27.2,56.6,36.73,estimated_baseline
+E01246,Pedestrian,pedestrian,10.96,37.02,27.3,56.2,36.81,estimated_baseline
+E01247,Pedestrian,pedestrian,9.48,36.71,27.5,60.3,36.25,estimated_baseline
+E01248,Footway,footway,8.87,36.88,25.8,58.1,36.16,estimated_baseline
+E01249,Pedestrian,pedestrian,9.13,36.03,24.3,69.1,34.27,estimated_baseline
+E01250,Pedestrian,pedestrian,11.64,36.02,25.2,69.2,34.43,estimated_baseline
+E01251,Pedestrian,pedestrian,67.63,36.38,24.9,64.6,35.02,estimated_baseline
+E01252,Pedestrian,pedestrian,27.0,37.13,24.5,54.8,36.33,estimated_baseline
+E01253,Pedestrian,pedestrian,3.56,36.03,24.1,69.1,34.23,estimated_baseline
+E01254,Pedestrian,pedestrian,2.88,36.79,26.8,59.2,36.23,estimated_baseline
+E01255,Pedestrian,pedestrian,64.1,35.76,24.9,72.6,33.9,estimated_baseline
+E01256,Pedestrian,pedestrian,20.5,37.11,23.2,55.1,36.0,estimated_baseline
+E01257,Pedestrian,pedestrian,77.55,36.52,24.6,62.7,35.22,estimated_baseline
+E01258,Pedestrian,pedestrian,30.75,36.19,24.6,67.0,34.61,estimated_baseline
+E01259,Pedestrian,pedestrian,33.43,35.85,23.0,71.4,33.71,estimated_baseline
+E01260,Pedestrian,pedestrian,2.56,35.79,25.2,72.2,34.01,estimated_baseline
+E01261,Footway,footway,12.21,35.22,23.1,79.6,32.65,estimated_baseline
+E01262,Calle de Jacometrezo,residential,16.23,36.53,23.4,62.6,34.99,estimated_baseline
+E01263,Calle de la Concepción Jerónima,tertiary,23.15,37.32,23.9,52.3,36.55,estimated_baseline
+E01264,Plaza de Tirso de Molina,tertiary,45.01,39.08,23.6,29.5,39.87,estimated_baseline
+E01265,Plaza de Tirso de Molina,tertiary,9.68,38.44,22.9,37.8,38.42,estimated_baseline
+E01266,Calle de Arrieta,residential,15.27,36.38,27.5,64.6,35.6,estimated_baseline
+E01267,Calle de Arrieta,residential,4.03,37.63,23.0,48.3,36.91,estimated_baseline
+E01268,Calle de San Bernardo,residential,35.61,36.53,25.1,62.6,35.34,estimated_baseline
+E01269,Calle de Alcalá,pedestrian,4.22,36.25,25.0,66.2,34.81,estimated_baseline
+E01270,Calle de Alcalá,pedestrian,16.57,35.8,27.5,72.1,34.49,estimated_baseline
+E01271,Calle de la Colegiata,tertiary,29.76,37.47,24.8,50.4,37.05,estimated_baseline
+E01272,Footway,footway,3.82,36.32,24.5,65.3,34.83,estimated_baseline
+E01273,Footway,footway,11.84,36.24,26.7,66.4,35.15,estimated_baseline
+E01274,Footway,footway,9.7,36.1,26.8,68.2,34.91,estimated_baseline
+E01275,Footway,footway,2.71,35.67,23.6,73.8,33.5,estimated_baseline
+E01276,Footway,footway,1.41,35.43,24.0,76.9,33.16,estimated_baseline
+E01277,Footway,footway,1.56,36.94,26.2,57.3,36.38,estimated_baseline
+E01278,Footway,footway,2.03,36.08,24.6,68.5,34.41,estimated_baseline
+E01279,Footway,footway,11.29,36.11,25.5,68.1,34.65,estimated_baseline
+E01280,Footway,footway,80.98,35.53,27.4,75.6,33.97,estimated_baseline
+E01281,Footway,footway,19.84,36.87,27.4,58.2,36.54,estimated_baseline
+E01282,Footway,footway,5.47,35.8,24.8,72.1,33.95,estimated_baseline
+E01283,Footway,footway,38.26,35.27,23.5,79.0,32.8,estimated_baseline
+E01284,Footway,footway,24.48,36.66,22.7,60.9,35.08,estimated_baseline
+E01285,Footway,footway,2.39,36.79,25.7,59.2,35.97,estimated_baseline
+E01286,Footway,footway,2.7,35.74,26.7,72.9,34.21,estimated_baseline
+E01287,Footway,footway,5.15,36.84,26.2,58.6,36.18,estimated_baseline
+E01288,Footway,footway,2.84,36.55,25.2,62.4,35.4,estimated_baseline
+E01289,Calle de la Cruz,residential,9.19,37.64,26.2,48.2,37.75,estimated_baseline
+E01290,Calle de la Cruz,residential,41.97,37.8,25.8,46.1,37.96,estimated_baseline
+E01291,Calle del Doctor Cortezo,residential,54.45,37.62,27.3,48.4,38.03,estimated_baseline
+E01292,Footway,footway,16.99,35.22,26.3,79.6,33.19,estimated_baseline
+E01293,Footway,footway,22.32,35.46,24.2,76.5,33.24,estimated_baseline
+E01294,Service,service,10.62,37.36,23.2,51.8,36.46,estimated_baseline
+E01295,La Gran Galería,footway,6.03,33.73,23.2,95.0,30.37,estimated_baseline
+E01296,La Gran Galería,footway,28.83,32.91,27.1,95.0,29.89,estimated_baseline
+E01297,La Gran Galería,footway,24.35,33.01,25.0,95.0,29.77,estimated_baseline
+E01298,La Gran Galería,footway,6.46,33.93,26.7,95.0,31.05,estimated_baseline
+E01299,La Gran Galería,footway,14.93,33.89,22.7,95.0,30.5,estimated_baseline
+E01300,Calle de las Infantas,residential,61.52,37.37,22.8,51.7,36.38,estimated_baseline
+E01301,Calle de las Infantas,residential,26.95,37.59,25.8,48.8,37.55,estimated_baseline
+E01302,Calle de las Infantas,residential,74.67,37.19,23.2,54.0,36.14,estimated_baseline
+E01303,Calle de las Infantas,residential,5.88,36.28,27.5,65.9,35.41,estimated_baseline
+E01304,Calle de las Infantas,residential,3.21,37.13,25.5,54.8,36.57,estimated_baseline
+E01305,Calle de las Infantas,residential,7.74,36.33,26.8,65.2,35.34,estimated_baseline
+E01306,Calle de las Infantas,residential,45.68,37.61,25.7,48.6,37.56,estimated_baseline
+E01307,Calle de las Infantas,residential,63.07,36.2,27.0,66.9,35.14,estimated_baseline
+E01308,Calle de Cedaceros,tertiary,4.47,38.37,25.3,38.7,38.96,estimated_baseline
+E01309,Calle de Carretas,residential,48.2,36.19,25.0,67.0,34.69,estimated_baseline
+E01310,Gran Vía,tertiary,11.35,38.57,24.7,36.1,39.19,estimated_baseline
+E01311,Footway,footway,4.48,35.35,24.2,77.9,33.05,estimated_baseline
+E01312,Footway,footway,6.48,36.69,26.6,60.5,35.99,estimated_baseline
+E01313,Footway,footway,8.04,36.86,25.8,58.3,36.13,estimated_baseline
+E01314,Gran Vía,tertiary,18.57,38.97,25.9,30.9,40.39,estimated_baseline
+E01315,Gran Vía,tertiary,47.37,37.91,25.8,44.7,38.18,estimated_baseline
+E01316,Gran Vía,tertiary,14.73,37.34,27.0,52.1,37.37,estimated_baseline
+E01317,Calle de Fuencarral,pedestrian,6.34,36.18,27.3,67.2,35.17,estimated_baseline
+E01318,Calle de la Montera,pedestrian,30.83,36.23,26.1,66.5,35.0,estimated_baseline
+E01319,Calle de la Montera,pedestrian,15.56,36.51,27.2,62.9,35.78,estimated_baseline
+E01320,Calle de la Montera,pedestrian,70.56,36.45,23.3,63.6,34.82,estimated_baseline
+E01321,Calle de la Montera,pedestrian,9.68,37.06,24.7,55.7,36.25,estimated_baseline
+E01322,Calle de la Montera,pedestrian,53.08,35.61,24.4,74.6,33.54,estimated_baseline
+E01323,Calle de la Montera,pedestrian,23.63,36.26,24.5,66.1,34.72,estimated_baseline
+E01324,Service,service,86.8,33.1,22.5,95.0,29.62,estimated_baseline
+E01325,Service,service,40.64,33.55,27.5,95.0,30.7,estimated_baseline
+E01326,Service,service,119.78,34.41,24.9,90.2,31.55,estimated_baseline
+E01327,Service,service,51.23,36.18,25.5,67.2,34.78,estimated_baseline
+E01328,Service,service,5.31,34.29,25.1,91.7,31.38,estimated_baseline
+E01329,Service,service,5.36,33.96,26.4,95.0,31.05,estimated_baseline
+E01330,Service,service,138.3,33.21,27.0,95.0,30.23,estimated_baseline
+E01331,Calle de Carretas,pedestrian,134.34,35.88,25.5,71.1,34.23,estimated_baseline
+E01332,Calle de Carretas,pedestrian,94.91,36.64,26.7,61.2,35.92,estimated_baseline
+E01333,Calle de Carretas,pedestrian,61.44,37.01,24.3,56.4,36.06,estimated_baseline
+E01334,Calle de Carretas,pedestrian,107.43,36.83,23.2,58.7,35.49,estimated_baseline
+E01335,Calle de Carretas,pedestrian,47.91,37.19,22.7,54.0,36.03,estimated_baseline
+E01336,Calle de Carretas,pedestrian,15.06,36.57,25.4,62.1,35.48,estimated_baseline
+E01337,Calle de Carretas,pedestrian,8.14,35.81,24.3,72.0,33.87,estimated_baseline
+E01338,Footway,footway,7.63,36.3,24.8,65.6,34.85,estimated_baseline
+E01339,Footway,footway,1.88,36.18,24.8,67.2,34.63,estimated_baseline
+E01340,Footway,footway,80.73,34.11,25.9,94.1,31.19,estimated_baseline
+E01341,Plaza de Jacinto Benavente,tertiary,10.01,37.51,23.8,49.9,36.88,estimated_baseline
+E01342,Plaza de la Puerta del Sol,pedestrian,25.79,37.06,23.4,55.7,35.95,estimated_baseline
+E01343,Calle de las Huertas,pedestrian,72.54,37.11,23.0,55.1,35.95,estimated_baseline
+E01344,Calle de las Huertas,pedestrian,30.09,36.18,24.2,67.2,34.51,estimated_baseline
+E01345,Calle del León,living_street,94.7,36.47,25.7,63.4,35.36,estimated_baseline
+E01346,Calle del León,living_street,33.03,36.62,23.5,61.4,35.17,estimated_baseline
+E01347,Calle de Atocha,tertiary,51.83,37.54,24.3,49.5,37.06,estimated_baseline
+E01348,Calle de Atocha,tertiary,16.0,38.66,26.2,34.9,39.84,estimated_baseline
+E01349,Calle de la Magdalena,tertiary,60.38,37.56,24.2,49.2,37.07,estimated_baseline
+E01350,Calle de Caños del Peral,residential,103.19,37.83,25.5,45.7,37.94,estimated_baseline
+E01351,Calle Mayor,tertiary,15.39,38.32,25.5,39.3,38.92,estimated_baseline
+E01352,Travesía de Bringas,residential,9.27,37.32,26.6,52.3,37.23,estimated_baseline
+E01353,Calle de Gerona,pedestrian,10.9,35.77,24.8,72.5,33.89,estimated_baseline
+E01354,Plaza de la Puerta del Sol,pedestrian,20.11,35.86,26.0,71.3,34.29,estimated_baseline
+E01355,Calle de la Salud,residential,40.16,37.9,23.1,44.8,37.44,estimated_baseline
+E01356,Calle de la Salud,residential,27.37,36.39,24.7,64.4,35.0,estimated_baseline
+E01357,Calle de la Salud,residential,80.51,36.2,23.7,66.9,34.45,estimated_baseline
+E01358,Calle de la Salud,residential,12.09,37.6,23.6,48.7,37.0,estimated_baseline
+E01359,Footway,footway,2.47,33.34,22.8,95.0,29.9,estimated_baseline
+E01360,Footway,footway,2.57,33.76,23.4,95.0,30.43,estimated_baseline
+E01361,Footway,footway,2.48,32.51,23.8,95.0,29.12,estimated_baseline
+E01362,Footway,footway,2.5,32.47,25.3,95.0,29.22,estimated_baseline
+E01363,Steps,steps,15.01,32.81,25.9,95.0,29.65,estimated_baseline
+E01364,Steps,steps,14.87,32.69,25.7,95.0,29.49,estimated_baseline
+E01365,Steps,steps,5.63,32.87,27.4,95.0,29.88,estimated_baseline
+E01366,Steps,steps,6.09,32.91,24.0,95.0,29.56,estimated_baseline
+E01367,Footway,footway,2.17,33.15,24.8,95.0,29.9,estimated_baseline
+E01368,Footway,footway,3.09,33.7,25.8,95.0,30.65,estimated_baseline
+E01369,Footway,footway,3.32,33.77,26.6,95.0,30.84,estimated_baseline
+E01370,Footway,footway,3.88,33.8,22.6,95.0,30.39,estimated_baseline
+E01371,Footway,footway,19.63,32.46,23.1,95.0,29.01,estimated_baseline
+E01372,Footway,footway,7.62,33.57,23.8,95.0,30.26,estimated_baseline
+E01373,Footway,footway,5.44,33.64,23.3,95.0,30.28,estimated_baseline
+E01374,Footway,footway,10.91,32.46,23.9,95.0,29.08,estimated_baseline
+E01375,Footway,footway,31.34,33.43,25.9,95.0,30.35,estimated_baseline
+E01376,Footway,footway,5.44,34.04,24.0,95.0,30.82,estimated_baseline
+E01377,Steps,steps,1.91,36.79,27.3,59.2,36.36,estimated_baseline
+E01378,Footway,footway,14.85,35.69,23.5,73.5,33.52,estimated_baseline
+E01379,Steps,steps,1.17,33.75,23.2,95.0,30.4,estimated_baseline
+E01380,Footway,footway,1.3,36.48,24.3,63.3,35.08,estimated_baseline
+E01381,Steps,steps,2.05,36.41,26.1,64.2,35.34,estimated_baseline
+E01382,Footway,footway,19.13,32.45,24.5,95.0,29.12,estimated_baseline
+E01383,Footway,footway,12.11,32.72,26.8,95.0,29.64,estimated_baseline
+E01384,Steps,steps,2.54,33.0,24.6,95.0,29.72,estimated_baseline
+E01385,Footway,footway,10.19,33.9,24.4,95.0,30.71,estimated_baseline
+E01386,Steps,steps,2.39,33.28,27.2,95.0,30.34,estimated_baseline
+E01387,Footway,footway,12.87,33.83,24.4,95.0,30.63,estimated_baseline
+E01388,Steps,steps,6.06,33.73,25.8,95.0,30.69,estimated_baseline
+E01389,Footway,footway,6.07,32.7,25.9,95.0,29.52,estimated_baseline
+E01390,Steps,steps,5.82,33.97,25.0,95.0,30.87,estimated_baseline
+E01391,Footway,footway,2.61,32.79,26.7,95.0,29.71,estimated_baseline
+E01392,Footway,footway,6.66,32.41,25.7,95.0,29.19,estimated_baseline
+E01393,Footway,footway,1.93,33.52,25.9,95.0,30.45,estimated_baseline
+E01394,Footway,footway,3.23,32.66,24.5,95.0,29.34,estimated_baseline
+E01395,Steps,steps,5.89,33.36,23.5,95.0,30.0,estimated_baseline
+E01396,Footway,footway,2.79,32.44,24.5,95.0,29.11,estimated_baseline
+E01397,Footway,footway,8.57,33.48,26.3,95.0,30.46,estimated_baseline
+E01398,Footway,footway,8.25,33.36,26.6,95.0,30.35,estimated_baseline
+E01399,Steps,steps,8.21,32.73,24.9,95.0,29.46,estimated_baseline
+E01400,Steps,steps,8.24,33.34,26.6,95.0,30.33,estimated_baseline
+E01401,Footway,footway,2.56,33.13,23.6,95.0,29.76,estimated_baseline
+E01402,Footway,footway,2.5,32.71,25.2,95.0,29.46,estimated_baseline
+E01403,Footway,footway,2.8,33.17,25.5,95.0,30.0,estimated_baseline
+E01404,Footway,footway,2.48,33.4,26.5,95.0,30.39,estimated_baseline
+E01405,Footway,footway,3.02,32.9,26.5,95.0,29.81,estimated_baseline
+E01406,Footway,footway,6.28,33.68,26.5,95.0,30.72,estimated_baseline
+E01407,Footway,footway,4.38,33.7,23.8,95.0,30.41,estimated_baseline
+E01408,Footway,footway,2.43,33.68,26.7,95.0,30.75,estimated_baseline
+E01409,Steps,steps,6.23,33.08,26.6,95.0,30.03,estimated_baseline
+E01410,Footway,footway,8.72,33.29,27.0,95.0,30.32,estimated_baseline
+E01411,Footway,footway,6.39,32.99,26.1,95.0,29.87,estimated_baseline
+E01412,Footway,footway,5.25,32.47,24.7,95.0,29.16,estimated_baseline
+E01413,Footway,footway,15.1,34.0,24.3,95.0,30.81,estimated_baseline
+E01414,Footway,footway,2.53,33.31,26.9,95.0,30.33,estimated_baseline
+E01415,Footway,footway,2.24,32.64,26.9,95.0,29.57,estimated_baseline
+E01416,Footway,footway,2.21,32.68,26.1,95.0,29.52,estimated_baseline
+E01417,Footway,footway,2.51,33.48,26.7,95.0,30.51,estimated_baseline
+E01418,Footway,footway,2.39,33.78,23.1,95.0,30.42,estimated_baseline
+E01419,Steps,steps,12.25,34.25,24.4,92.2,31.22,estimated_baseline
+E01420,Steps,steps,12.26,33.22,24.3,95.0,29.93,estimated_baseline
+E01421,Steps,steps,4.78,33.32,23.0,95.0,29.9,estimated_baseline
+E01422,Steps,steps,4.93,33.2,25.3,95.0,30.01,estimated_baseline
+E01423,Footway,footway,2.9,33.82,25.3,95.0,30.73,estimated_baseline
+E01424,Footway,footway,9.33,32.41,22.9,95.0,28.94,estimated_baseline
+E01425,Footway,footway,6.51,33.19,27.0,95.0,30.21,estimated_baseline
+E01426,Footway,footway,2.0,32.41,24.5,95.0,29.08,estimated_baseline
+E01427,Steps,steps,5.18,32.74,26.8,95.0,29.67,estimated_baseline
+E01428,Footway,footway,2.08,32.66,22.6,95.0,29.17,estimated_baseline
+E01429,Footway,footway,3.97,32.53,27.0,95.0,29.45,estimated_baseline
+E01430,Steps,steps,5.16,33.46,26.4,95.0,30.45,estimated_baseline
+E01431,Footway,footway,4.04,33.7,23.4,95.0,30.36,estimated_baseline
+E01432,Steps,steps,5.27,32.85,25.7,95.0,29.67,estimated_baseline
+E01433,Footway,footway,2.87,32.97,24.4,95.0,29.66,estimated_baseline
+E01434,Footway,footway,22.58,33.4,23.3,95.0,30.02,estimated_baseline
+E01435,Footway,footway,2.72,33.37,22.6,95.0,29.92,estimated_baseline
+E01436,Steps,steps,1.21,33.04,25.1,95.0,29.81,estimated_baseline
+E01437,Footway,footway,6.61,32.87,22.9,95.0,29.42,estimated_baseline
+E01438,Footway,footway,3.78,32.59,23.8,95.0,29.2,estimated_baseline
+E01439,Footway,footway,3.63,33.64,24.1,95.0,30.37,estimated_baseline
+E01440,Steps,steps,4.78,32.95,23.9,95.0,29.59,estimated_baseline
+E01441,Footway,footway,5.01,34.09,24.4,94.3,30.95,estimated_baseline
+E01442,Steps,steps,4.66,33.96,22.7,95.0,30.57,estimated_baseline
+E01443,Footway,footway,3.24,34.05,26.6,94.9,31.19,estimated_baseline
+E01444,Footway,footway,1.87,33.11,26.1,95.0,30.0,estimated_baseline
+E01445,Footway,footway,2.38,33.8,27.0,95.0,30.94,estimated_baseline
+E01446,Footway,footway,3.51,32.72,23.9,95.0,29.35,estimated_baseline
+E01447,Steps,steps,5.0,33.89,24.1,95.0,30.66,estimated_baseline
+E01448,Footway,footway,5.34,33.66,27.2,95.0,30.79,estimated_baseline
+E01449,Steps,steps,4.71,34.25,27.1,92.2,31.61,estimated_baseline
+E01450,Footway,footway,5.35,33.41,25.1,95.0,30.23,estimated_baseline
+E01451,Footway,footway,2.65,33.07,25.0,95.0,29.84,estimated_baseline
+E01452,Footway,footway,2.85,32.76,22.7,95.0,29.29,estimated_baseline
+E01453,Footway,footway,1.95,32.87,25.0,95.0,29.62,estimated_baseline
+E01454,Footway,footway,8.85,32.78,26.1,95.0,29.63,estimated_baseline
+E01455,Footway,footway,3.04,32.45,25.2,95.0,29.18,estimated_baseline
+E01456,Steps,steps,2.67,33.39,27.0,95.0,30.44,estimated_baseline
+E01457,Steps,steps,2.65,33.42,24.0,95.0,30.12,estimated_baseline
+E01458,Footway,footway,3.29,33.24,26.5,95.0,30.2,estimated_baseline
+E01459,Footway,footway,3.55,33.32,27.2,95.0,30.38,estimated_baseline
+E01460,Steps,steps,12.4,33.67,22.8,95.0,30.26,estimated_baseline
+E01461,Footway,footway,9.74,33.19,26.9,95.0,30.19,estimated_baseline
+E01462,Footway,footway,3.78,32.55,25.6,95.0,29.33,estimated_baseline
+E01463,Footway,footway,4.09,32.97,24.3,95.0,29.65,estimated_baseline
+E01464,Footway,footway,9.92,33.45,27.1,95.0,30.53,estimated_baseline
+E01465,Footway,footway,7.69,32.69,23.0,95.0,29.24,estimated_baseline
+E01466,Footway,footway,7.4,32.97,24.2,95.0,29.64,estimated_baseline
+E01467,Footway,footway,7.59,33.56,24.2,95.0,30.29,estimated_baseline
+E01468,Footway,footway,6.3,32.69,22.6,95.0,29.2,estimated_baseline
+E01469,Footway,footway,6.3,32.96,26.9,95.0,29.93,estimated_baseline
+E01470,Footway,footway,7.08,33.75,23.5,95.0,30.43,estimated_baseline
+E01471,Footway,footway,1.85,33.42,24.1,95.0,30.13,estimated_baseline
+E01472,Footway,footway,8.6,32.95,26.7,95.0,29.89,estimated_baseline
+E01473,Footway,footway,3.88,33.46,24.0,95.0,30.16,estimated_baseline
+E01474,Footway,footway,1.77,34.1,23.7,94.2,30.88,estimated_baseline
+E01475,Footway,footway,2.89,33.49,22.6,95.0,30.05,estimated_baseline
+E01476,Footway,footway,1.32,32.44,25.2,95.0,29.17,estimated_baseline
+E01477,Footway,footway,2.05,32.47,26.0,95.0,29.28,estimated_baseline
+E01478,Footway,footway,2.97,32.75,25.6,95.0,29.55,estimated_baseline
+E01479,Footway,footway,2.0,34.19,24.7,93.0,31.16,estimated_baseline
+E01480,Footway,footway,2.46,33.02,27.0,95.0,30.01,estimated_baseline
+E01481,Steps,steps,9.09,33.64,24.4,95.0,30.41,estimated_baseline
+E01482,Steps,steps,9.09,33.68,24.7,95.0,30.49,estimated_baseline
+E01483,Steps,steps,8.54,34.24,27.2,92.4,31.61,estimated_baseline
+E01484,Footway,footway,1.47,32.65,27.3,95.0,29.62,estimated_baseline
+E01485,Footway,footway,1.12,33.11,24.4,95.0,29.82,estimated_baseline
+E01486,Footway,footway,2.99,32.64,25.9,95.0,29.46,estimated_baseline
+E01487,Steps,steps,8.53,32.86,25.7,95.0,29.68,estimated_baseline
+E01488,Footway,footway,2.51,32.69,25.1,95.0,29.43,estimated_baseline
+E01489,Footway,footway,3.28,32.45,22.6,95.0,28.96,estimated_baseline
+E01490,Footway,footway,2.45,33.92,26.5,95.0,31.01,estimated_baseline
+E01491,Steps,steps,9.09,32.87,25.8,95.0,29.7,estimated_baseline
+E01492,Steps,steps,9.09,33.7,26.3,95.0,30.72,estimated_baseline
+E01493,Footway,footway,3.07,32.53,22.9,95.0,29.07,estimated_baseline
+E01494,Footway,footway,13.06,33.56,26.3,95.0,30.55,estimated_baseline
+E01495,Footway,footway,121.03,33.54,25.5,95.0,30.43,estimated_baseline
+E01496,Footway,footway,11.12,33.2,27.0,95.0,30.22,estimated_baseline
+E01497,Footway,footway,2.41,32.66,23.6,95.0,29.26,estimated_baseline
+E01498,Footway,footway,4.29,32.54,26.0,95.0,29.36,estimated_baseline
+E01499,Footway,footway,27.51,33.47,25.6,95.0,30.36,estimated_baseline
+E01500,Gran Vía,tertiary,12.24,38.95,22.6,31.1,39.32,estimated_baseline
+E01501,Gran Vía,tertiary,18.8,37.42,23.6,51.0,36.66,estimated_baseline
+E01502,Plaza de la Villa,pedestrian,116.96,36.73,26.7,60.0,36.09,estimated_baseline
+E01503,Plaza de la Villa,pedestrian,28.85,36.66,26.2,60.9,35.84,estimated_baseline
+E01504,Plaza de San Miguel,pedestrian,39.99,36.9,24.6,57.8,35.92,estimated_baseline
+E01505,Calle Amor de Dios,pedestrian,18.44,36.19,25.3,67.0,34.76,estimated_baseline
+E01506,Calle de Arrieta,residential,6.44,37.35,25.9,51.9,37.1,estimated_baseline
+E01507,Costanilla de los Ángeles,residential,63.91,36.5,24.0,63.0,35.05,estimated_baseline
+E01508,Costanilla de los Ángeles,residential,12.75,37.03,26.1,56.1,36.53,estimated_baseline
+E01509,Footway,footway,1.55,36.6,24.5,61.7,35.34,estimated_baseline
+E01510,Footway,footway,4.32,36.41,27.4,64.2,35.64,estimated_baseline
+E01511,Steps,steps,10.56,35.74,27.3,72.9,34.34,estimated_baseline
+E01512,Footway,footway,45.07,36.81,23.7,59.0,35.55,estimated_baseline
+E01513,Service,service,12.49,36.3,23.1,65.6,34.52,estimated_baseline
+E01514,Service,service,64.52,37.02,23.0,56.2,35.79,estimated_baseline
+E01515,Pasaje del Comercio,footway,16.05,32.61,26.3,95.0,29.47,estimated_baseline
+E01516,Pasaje del Comercio,footway,35.28,36.02,25.6,69.2,34.51,estimated_baseline
+E01517,Calle de Sevilla,tertiary,56.89,37.97,22.7,43.9,37.47,estimated_baseline
+E01518,Pedestrian,pedestrian,3.8,35.83,24.9,71.7,34.02,estimated_baseline
+E01519,Gran Vía,tertiary,6.11,38.85,26.7,32.4,40.41,estimated_baseline
+E01520,Gran Vía,tertiary,24.11,37.95,27.1,44.1,38.65,estimated_baseline
+E01521,Service,service,5.66,35.93,23.2,70.4,33.89,estimated_baseline
+E01522,Footway,footway,55.14,36.51,25.3,62.9,35.35,estimated_baseline
+E01523,Footway,footway,4.09,36.39,23.0,64.4,34.66,estimated_baseline
+E01524,Calle de la Cabeza,living_street,49.31,36.81,22.7,59.0,35.35,estimated_baseline
+E01525,Calle de la Cabeza,living_street,42.97,37.15,23.0,54.6,36.02,estimated_baseline
+E01526,Calle de la Cabeza,living_street,123.23,37.14,25.6,54.7,36.61,estimated_baseline
+E01527,Pedestrian,pedestrian,42.54,36.37,26.0,64.7,35.24,estimated_baseline
+E01528,Pedestrian,pedestrian,12.66,36.35,24.7,64.9,34.93,estimated_baseline
+E01529,Footway,footway,13.5,35.58,25.4,75.0,33.67,estimated_baseline
+E01530,Calle de la Montera,pedestrian,2.65,36.92,27.3,57.5,36.62,estimated_baseline
+E01531,Footway,footway,13.83,36.14,23.8,67.7,34.37,estimated_baseline
+E01532,Footway,footway,17.06,36.01,24.5,69.4,34.27,estimated_baseline
+E01533,Footway,footway,9.72,36.31,25.9,65.5,35.1,estimated_baseline
+E01534,Footway,footway,131.63,36.85,25.8,58.4,36.11,estimated_baseline
+E01535,Footway,footway,19.94,36.0,26.0,69.5,34.55,estimated_baseline
+E01536,Footway,footway,100.37,36.34,23.4,65.1,34.65,estimated_baseline
+E01537,Footway,footway,13.37,35.63,27.0,74.3,34.07,estimated_baseline
+E01538,Footway,footway,94.6,36.71,24.2,60.3,35.48,estimated_baseline
+E01539,Calle de Fuencarral,pedestrian,4.85,37.18,25.6,54.2,36.69,estimated_baseline
+E01540,Calle de Fuencarral,pedestrian,3.0,35.86,24.2,71.3,33.94,estimated_baseline
+E01541,Calle de Fuencarral,pedestrian,257.0,36.25,23.6,66.2,34.53,estimated_baseline
+E01542,Calle de Fuencarral,pedestrian,18.67,37.02,22.9,56.2,35.77,estimated_baseline
+E01543,Calle de Fuencarral,pedestrian,115.88,36.39,26.7,64.4,35.44,estimated_baseline
+E01544,Calle de Fuencarral,pedestrian,5.3,37.04,23.0,56.0,35.82,estimated_baseline
+E01545,Footway,footway,9.43,32.71,23.4,95.0,29.29,estimated_baseline
+E01546,Calle Mayor,pedestrian,10.22,36.35,25.7,64.9,35.14,estimated_baseline
+E01547,Pedestrian,pedestrian,11.71,35.62,23.8,74.4,33.45,estimated_baseline
+E01548,Pedestrian,pedestrian,5.86,35.47,22.8,76.4,33.03,estimated_baseline
+E01549,Pedestrian,pedestrian,5.55,35.51,23.5,75.9,33.21,estimated_baseline
+E01550,Calle de la Amnistía,residential,36.04,36.87,22.5,58.2,35.41,estimated_baseline
+E01551,Calle de la Amnistía,residential,39.05,36.46,26.9,63.5,35.62,estimated_baseline
+E01552,Calle de San Onofre,pedestrian,38.47,36.89,27.4,57.9,36.58,estimated_baseline
+E01553,Calle de San Onofre,pedestrian,3.37,35.82,23.0,71.8,33.66,estimated_baseline
+E01554,Calle de San Onofre,pedestrian,61.08,36.47,24.6,63.4,35.12,estimated_baseline
+E01555,Calle de San Onofre,pedestrian,23.81,35.97,26.8,69.9,34.66,estimated_baseline
+E01556,Footway,footway,3.59,36.51,23.1,62.9,34.89,estimated_baseline
+E01557,Footway,footway,36.92,35.23,25.8,79.5,33.11,estimated_baseline
+E01558,Footway,footway,46.32,36.0,22.7,69.5,33.92,estimated_baseline
+E01559,Pedestrian,pedestrian,12.85,35.69,26.6,73.5,34.1,estimated_baseline
+E01560,Footway,footway,25.55,36.04,25.8,69.0,34.58,estimated_baseline
+E01561,Footway,footway,3.35,36.61,25.6,61.6,35.6,estimated_baseline
+E01562,Footway,footway,3.45,35.99,25.5,69.6,34.43,estimated_baseline
+E01563,Footway,footway,5.85,36.36,22.9,64.8,34.59,estimated_baseline
+E01564,Footway,footway,3.45,36.96,26.9,57.0,36.59,estimated_baseline
+E01565,Footway,footway,3.58,35.77,22.7,72.5,33.52,estimated_baseline
+E01566,Footway,footway,4.24,35.99,27.1,69.6,34.77,estimated_baseline
+E01567,Footway,footway,8.4,36.42,24.0,64.0,34.91,estimated_baseline
+E01568,Footway,footway,3.02,35.34,26.5,78.1,33.44,estimated_baseline
+E01569,Footway,footway,4.04,35.92,24.8,70.5,34.17,estimated_baseline
+E01570,Footway,footway,4.31,36.2,25.0,66.9,34.71,estimated_baseline
+E01571,Footway,footway,3.13,36.41,27.3,64.2,35.61,estimated_baseline
+E01572,Footway,footway,3.8,35.79,23.8,72.2,33.75,estimated_baseline
+E01573,Footway,footway,19.98,36.27,23.2,66.0,34.48,estimated_baseline
+E01574,Footway,footway,4.81,35.89,24.7,70.9,34.09,estimated_baseline
+E01575,Footway,footway,4.48,36.59,23.2,61.8,35.05,estimated_baseline
+E01576,Footway,footway,13.89,35.64,27.4,74.2,34.17,estimated_baseline
+E01577,Footway,footway,12.28,35.26,24.7,79.1,32.98,estimated_baseline
+E01578,Calle de Atocha,residential,5.08,37.7,24.5,47.4,37.42,estimated_baseline
+E01579,Calle de la Concepción Jerónima,tertiary,30.44,37.64,24.5,48.2,37.3,estimated_baseline
+E01580,Footway,footway,7.71,35.44,27.2,76.8,33.76,estimated_baseline
+E01581,Footway,footway,28.58,36.43,24.6,63.9,35.05,estimated_baseline
+E01582,Footway,footway,4.66,35.84,22.7,71.6,33.64,estimated_baseline
+E01583,Calle de Alcalá,tertiary,7.99,37.57,26.5,49.1,37.7,estimated_baseline
+E01584,Calle de Alcalá,tertiary,6.33,37.75,23.0,46.8,37.13,estimated_baseline
+E01585,Calle de Jacometrezo,residential,21.37,36.31,22.9,65.5,34.5,estimated_baseline
+E01586,Footway,footway,283.83,35.22,24.7,79.6,32.91,estimated_baseline
+E01587,Footway,footway,8.5,35.37,25.2,77.7,33.26,estimated_baseline
+E01588,Footway,footway,1.78,36.87,24.9,58.2,35.93,estimated_baseline
+E01589,Footway,footway,2.02,36.87,24.1,58.2,35.75,estimated_baseline
+E01590,Gran Vía,tertiary,39.84,38.23,22.8,40.5,37.99,estimated_baseline
+E01591,Footway,footway,4.46,35.67,25.1,73.8,33.77,estimated_baseline
+E01592,Footway,footway,6.64,35.47,23.9,76.4,33.21,estimated_baseline
+E01593,Footway,footway,21.53,36.18,24.3,67.2,34.53,estimated_baseline
+E01594,Footway,footway,11.16,36.77,23.5,59.5,35.44,estimated_baseline
+E01595,Footway,footway,17.14,35.34,25.9,78.1,33.33,estimated_baseline
+E01596,Plaza de Isabel II,pedestrian,31.28,35.63,24.4,74.3,33.57,estimated_baseline
+E01597,Plaza de Isabel II,pedestrian,1.87,35.56,27.2,75.2,33.98,estimated_baseline
+E01598,Footway,footway,10.24,36.79,26.8,59.2,36.23,estimated_baseline
+E01599,Calle de Galdo,pedestrian,6.67,36.14,23.0,67.7,34.22,estimated_baseline
+E01600,Calle de Galdo,pedestrian,36.54,36.76,23.2,59.6,35.36,estimated_baseline
+E01601,Calle de Galdo,pedestrian,6.63,35.49,27.2,76.1,33.85,estimated_baseline
+E01603,Footway,footway,17.85,36.83,25.0,58.7,35.88,estimated_baseline
+E01604,Pasaje de la Caja de Ahorros,footway,21.29,35.52,23.9,75.7,33.3,estimated_baseline
+E01605,Steps,steps,11.28,36.45,25.0,63.6,35.17,estimated_baseline
+E01606,Steps,steps,1.47,36.59,26.4,61.8,35.75,estimated_baseline
+E01607,Footway,footway,16.52,35.63,23.0,74.3,33.33,estimated_baseline
+E01608,Plaza del Conde de Miranda,pedestrian,11.07,36.31,23.5,65.5,34.61,estimated_baseline
+E01609,Plaza del Conde de Miranda,pedestrian,8.29,35.55,26.2,75.4,33.76,estimated_baseline
+E01610,Plaza del Conde de Miranda,pedestrian,44.21,36.27,25.9,66.0,35.03,estimated_baseline
+E01611,Plaza del Conde de Barajas,pedestrian,3.68,35.93,25.3,70.4,34.28,estimated_baseline
+E01612,Plaza del Conde de Barajas,pedestrian,56.21,35.58,25.8,75.0,33.74,estimated_baseline
+E01613,Footway,footway,6.28,35.94,22.8,70.3,33.83,estimated_baseline
+E01614,Calle de Puñonrostro,footway,65.78,36.99,23.5,56.6,35.84,estimated_baseline
+E01615,Calle de la Virgen de los Peligros,residential,8.98,36.27,22.9,66.0,34.43,estimated_baseline
+E01616,Calle de la Virgen de los Peligros,residential,42.15,36.2,25.9,66.9,34.9,estimated_baseline
+E01617,Calle de Campomanes,residential,6.13,37.09,24.3,55.3,36.21,estimated_baseline
+E01618,Calle de Campomanes,residential,9.69,37.08,25.1,55.5,36.38,estimated_baseline
+E01619,Calle de Campomanes,residential,3.33,37.18,25.1,54.2,36.57,estimated_baseline
+E01620,Calle de Campomanes,residential,7.3,37.02,25.0,56.2,36.24,estimated_baseline
+E01621,Footway,footway,15.36,35.22,23.1,79.6,32.65,estimated_baseline
+E01622,Pedestrian,pedestrian,35.1,35.95,23.8,70.1,34.03,estimated_baseline
+E01623,Pedestrian,pedestrian,14.75,35.98,23.7,69.8,34.06,estimated_baseline
+E01624,Pedestrian,pedestrian,15.35,36.16,23.0,67.4,34.25,estimated_baseline
+E01625,Pedestrian,pedestrian,24.18,35.75,22.5,72.8,33.46,estimated_baseline
+E01626,Pedestrian,pedestrian,41.37,36.47,27.0,63.4,35.66,estimated_baseline
+E01627,Pedestrian,pedestrian,49.94,36.97,22.8,56.9,35.66,estimated_baseline
+E01628,Plaza de Callao,pedestrian,13.99,36.06,26.4,68.7,34.75,estimated_baseline
+E01629,Plaza de Callao,pedestrian,38.52,36.56,24.9,62.2,35.35,estimated_baseline
+E01630,Plaza de Callao,pedestrian,6.04,36.91,23.3,57.7,35.65,estimated_baseline
+E01631,Plaza de Callao,pedestrian,8.72,35.66,23.8,73.9,33.52,estimated_baseline
+E01632,Pasaje de la Caja de Ahorros,residential,6.82,36.52,23.7,62.7,35.03,estimated_baseline
+E01633,Pasaje de la Caja de Ahorros,residential,11.68,37.08,27.4,55.5,36.96,estimated_baseline
+E01634,Footway,footway,4.61,36.83,25.5,58.7,36.0,estimated_baseline
+E01635,Steps,steps,7.6,36.63,26.4,61.3,35.83,estimated_baseline
+E01636,Footway,footway,3.72,36.81,27.4,59.0,36.42,estimated_baseline
+E01637,Calle de Cedaceros,residential,46.11,36.73,23.7,60.0,35.41,estimated_baseline
+E01638,Footway,footway,3.68,36.39,22.6,64.4,34.58,estimated_baseline
+E01639,Footway,footway,17.83,33.31,26.9,95.0,30.33,estimated_baseline
+E01640,Footway,footway,34.38,35.36,27.4,77.8,33.65,estimated_baseline
+E01641,Footway,footway,3.91,36.64,25.1,61.2,35.55,estimated_baseline
+E01642,Footway,footway,52.17,35.99,25.4,69.6,34.41,estimated_baseline
+E01643,Footway,footway,35.3,36.81,26.2,59.0,36.12,estimated_baseline
+E01644,Calle del Espejo,residential,4.87,37.7,24.0,47.4,37.29,estimated_baseline
+E01645,Calle del Espejo,residential,44.53,36.72,25.1,60.1,35.7,estimated_baseline
+E01646,Calle del Prado,living_street,83.72,36.74,22.6,59.9,35.2,estimated_baseline
+E01647,Calle del Prado,living_street,64.87,37.21,22.7,53.8,36.07,estimated_baseline
+E01648,Calle del Prado,living_street,22.14,35.99,26.1,69.6,34.55,estimated_baseline
+E01649,Calle del Prado,living_street,65.79,35.85,22.8,71.4,33.68,estimated_baseline
+E01651,Footway,footway,7.96,32.64,23.4,95.0,29.22,estimated_baseline
+E01652,Footway,footway,103.53,33.18,23.0,95.0,29.75,estimated_baseline
+E01653,Footway,footway,32.58,33.12,25.7,95.0,29.97,estimated_baseline
+E01654,Footway,footway,5.83,33.2,23.6,95.0,29.83,estimated_baseline
+E01655,Footway,footway,24.28,33.31,23.6,95.0,29.95,estimated_baseline
+E01656,Footway,footway,21.53,33.32,24.3,95.0,30.04,estimated_baseline
+E01657,Footway,footway,59.44,32.82,22.9,95.0,29.36,estimated_baseline
+E01658,Steps,steps,4.73,35.75,24.4,72.8,33.78,estimated_baseline
+E01659,Steps,steps,4.99,33.88,24.3,95.0,30.67,estimated_baseline
+E01660,Steps,steps,4.4,33.9,26.1,95.0,30.93,estimated_baseline
+E01661,Footway,footway,59.5,32.91,24.9,95.0,29.65,estimated_baseline
+E01662,Steps,steps,5.17,33.51,23.0,95.0,30.11,estimated_baseline
+E01663,Footway,footway,6.67,33.3,27.2,95.0,30.36,estimated_baseline
+E01664,Footway,footway,2.91,33.41,25.8,95.0,30.31,estimated_baseline
+E01665,Footway,footway,3.16,35.75,23.2,72.8,33.57,estimated_baseline
+E01666,Footway,footway,1.65,36.7,25.6,60.4,35.77,estimated_baseline
+E01667,Calle de San Felipe Neri,pedestrian,13.54,36.9,22.7,57.8,35.51,estimated_baseline
+E01668,Footway,footway,8.31,36.15,23.9,67.6,34.4,estimated_baseline
+E01669,Footway,footway,7.95,36.46,26.4,63.5,35.5,estimated_baseline
+E01670,Footway,footway,71.98,37.0,27.4,56.5,36.8,estimated_baseline
+E01671,Footway,footway,1.26,35.21,27.2,79.8,33.34,estimated_baseline
+E01672,Footway,footway,25.03,36.39,26.5,64.4,35.39,estimated_baseline
+E01673,Footway,footway,14.98,35.36,25.6,77.8,33.31,estimated_baseline
+E01674,Footway,footway,17.4,36.51,26.4,62.9,35.6,estimated_baseline
+E01675,Footway,footway,4.46,35.43,23.6,76.9,33.09,estimated_baseline
+E01676,Footway,footway,2.55,36.23,25.1,66.5,34.79,estimated_baseline
+E01677,Footway,footway,1.31,35.5,25.7,76.0,33.58,estimated_baseline
+E01678,Footway,footway,2.5,36.96,25.7,57.0,36.29,estimated_baseline
+E01679,Footway,footway,24.58,35.49,27.3,76.1,33.87,estimated_baseline
+E01680,Footway,footway,1.98,35.96,27.4,70.0,34.77,estimated_baseline
+E01681,Footway,footway,3.8,36.8,23.7,59.1,35.54,estimated_baseline
+E01682,Footway,footway,18.26,35.92,26.5,70.5,34.51,estimated_baseline
+E01683,Footway,footway,6.8,36.69,24.4,60.5,35.49,estimated_baseline
+E01684,Footway,footway,10.21,36.35,26.7,64.9,35.36,estimated_baseline
+E01685,Plaza de San Martín,pedestrian,43.1,36.48,25.5,63.3,35.33,estimated_baseline
+E01686,Footway,footway,3.49,36.55,23.1,62.4,34.96,estimated_baseline
+E01687,Footway,footway,3.11,36.02,23.5,69.2,34.1,estimated_baseline
+E01688,Calle de San Marcos,residential,60.79,36.45,23.0,63.6,34.77,estimated_baseline
+E01689,Calle de San Marcos,residential,55.61,37.29,24.3,52.7,36.59,estimated_baseline
+E01690,Footway,footway,4.18,36.51,23.7,62.9,35.01,estimated_baseline
+E01691,Plaza de Santo Domingo,residential,3.68,36.12,26.6,67.9,34.9,estimated_baseline
+E01692,Calle de Leganitos,residential,10.15,37.39,25.4,51.4,37.05,estimated_baseline
+E01693,Calle de Torija,residential,8.49,36.1,24.1,68.2,34.35,estimated_baseline
+E01694,Service,service,12.12,37.09,27.3,55.3,36.95,estimated_baseline
+E01695,Gran Vía,tertiary,53.2,37.69,26.4,47.5,37.91,estimated_baseline
+E01696,Footway,footway,3.89,35.47,24.7,76.4,33.34,estimated_baseline
+E01697,Footway,footway,121.64,36.01,24.1,69.4,34.19,estimated_baseline
+E01698,Footway,footway,28.95,36.91,22.8,57.7,35.55,estimated_baseline
+E01699,Footway,footway,7.67,35.7,26.9,73.4,34.18,estimated_baseline
+E01700,Footway,footway,11.32,35.27,26.4,79.0,33.29,estimated_baseline
+E01701,Footway,footway,47.14,35.86,23.5,71.3,33.82,estimated_baseline
+E01702,Footway,footway,25.2,35.36,26.3,77.8,33.44,estimated_baseline
+E01703,Footway,footway,159.59,36.68,27.1,60.7,36.09,estimated_baseline
+E01704,Footway,footway,8.54,36.34,24.6,65.1,34.89,estimated_baseline
+E01705,Footway,footway,18.9,35.48,25.6,76.3,33.52,estimated_baseline
+E01706,Footway,footway,12.77,36.87,27.5,58.2,36.57,estimated_baseline
+E01707,Footway,footway,5.87,36.69,25.5,60.5,35.73,estimated_baseline
+E01708,Footway,footway,2.27,36.36,26.7,64.8,35.38,estimated_baseline
+E01709,Footway,footway,34.58,36.99,26.5,56.6,36.55,estimated_baseline
+E01710,Footway,footway,4.82,36.94,26.3,57.3,36.4,estimated_baseline
+E01711,Footway,footway,89.98,36.77,25.5,59.5,35.88,estimated_baseline
+E01712,Footway,footway,201.03,35.55,22.9,75.4,33.18,estimated_baseline
+E01713,Footway,footway,7.07,35.81,25.5,72.0,34.1,estimated_baseline
+E01714,Steps,steps,4.57,35.37,24.7,77.7,33.17,estimated_baseline
+E01715,Service,service,8.55,37.55,24.6,49.4,37.15,estimated_baseline
+E01716,Service,service,26.3,36.21,26.8,66.8,35.11,estimated_baseline
+E01717,Plaza de la Puerta del Sol,pedestrian,12.49,36.81,22.6,59.0,35.33,estimated_baseline
+E01718,Footway,footway,11.22,32.86,22.8,95.0,29.4,estimated_baseline
+E01719,Calle de Atocha,tertiary,32.83,37.91,27.1,44.7,38.56,estimated_baseline
+E01720,Plaza del Comandante Las Morenas,tertiary,11.06,37.68,23.1,47.7,37.03,estimated_baseline
+E01721,Calle de Atocha,residential,23.44,37.06,24.3,55.7,36.15,estimated_baseline
+E01722,Calle de Atocha,residential,6.98,36.71,22.7,60.3,35.17,estimated_baseline
+E01723,Calle de Toledo,residential,3.05,37.13,26.3,54.8,36.77,estimated_baseline
+E01724,Calle de Toledo,residential,6.66,36.77,27.2,59.5,36.29,estimated_baseline
+E01725,Calle de la Concepción Jerónima,tertiary,18.3,38.42,26.5,38.0,39.44,estimated_baseline
+E01726,Calle de la Concepción Jerónima,tertiary,6.56,38.85,23.4,32.4,39.36,estimated_baseline
+E01727,Calle de la Concepción Jerónima,tertiary,26.45,39.08,23.4,29.5,39.81,estimated_baseline
+E01728,Calle del Conde de Romanones,residential,21.81,36.84,25.2,58.6,35.95,estimated_baseline
+E01729,Calle del Conde de Romanones,residential,37.56,36.33,25.2,65.2,34.99,estimated_baseline
+E01730,Calle de la Concepción Jerónima,tertiary,21.38,38.56,26.5,36.2,39.73,estimated_baseline
+E01731,Plaza de la Puerta del Sol,pedestrian,19.1,36.72,27.4,60.1,36.25,estimated_baseline
+E01732,Cycleway,cycleway,5.63,37.63,25.7,48.3,37.6,estimated_baseline
+E01733,Cycleway,cycleway,9.39,36.36,26.8,64.8,35.4,estimated_baseline
+E01734,Cycleway,cycleway,4.51,37.51,26.3,49.9,37.52,estimated_baseline
+E01735,Service,service,12.5,36.25,26.5,66.2,35.13,estimated_baseline
+E01736,Calle de Alcalá,residential,2.41,37.06,24.9,55.7,36.29,estimated_baseline
+E01737,Service,service,4.18,36.61,26.4,61.6,35.79,estimated_baseline
+E01738,Footway,footway,2.68,35.9,25.9,70.8,34.34,estimated_baseline
+E01739,Footway,footway,16.83,36.49,24.9,63.1,35.23,estimated_baseline
+E01740,Footway,footway,22.44,35.88,27.0,71.1,34.53,estimated_baseline
+E01741,Footway,footway,7.8,36.13,25.4,67.8,34.67,estimated_baseline
+E01742,Footway,footway,3.54,35.95,23.1,70.1,33.91,estimated_baseline
+E01743,Footway,footway,7.98,35.34,26.7,78.1,33.48,estimated_baseline
+E01744,Footway,footway,9.61,36.01,27.1,69.4,34.8,estimated_baseline
+E01745,Footway,footway,2.29,35.7,23.8,73.4,33.59,estimated_baseline
+E01746,Footway,footway,4.37,36.52,25.9,62.7,35.5,estimated_baseline
+E01747,Footway,footway,13.67,36.45,23.9,63.6,34.94,estimated_baseline
+E01748,Footway,footway,2.22,36.64,23.1,61.2,35.12,estimated_baseline
+E01749,Footway,footway,2.29,36.99,25.9,56.6,36.4,estimated_baseline
+E01750,Footway,footway,7.72,36.13,25.8,67.8,34.75,estimated_baseline
+E01751,Footway,footway,4.83,36.78,23.9,59.4,35.54,estimated_baseline
+E01752,Footway,footway,9.0,35.35,23.6,77.9,32.95,estimated_baseline
+E01753,Footway,footway,7.1,36.24,25.8,66.4,34.95,estimated_baseline
+E01754,Pedestrian,pedestrian,2.41,36.16,23.9,67.4,34.42,estimated_baseline
+E01755,Pedestrian,pedestrian,2.19,36.61,27.1,61.6,35.95,estimated_baseline
+E01756,Pedestrian,pedestrian,63.44,37.04,24.1,56.0,36.07,estimated_baseline
+E01757,Pedestrian,pedestrian,38.27,36.69,25.0,60.5,35.62,estimated_baseline
+E01758,Pedestrian,pedestrian,6.53,36.6,24.7,61.7,35.38,estimated_baseline
+E01759,Pedestrian,pedestrian,207.38,35.75,27.1,72.8,34.31,estimated_baseline
+E01760,Pedestrian,pedestrian,17.79,35.81,23.8,72.0,33.78,estimated_baseline
+E01761,Pedestrian,pedestrian,245.19,36.43,24.6,63.9,35.05,estimated_baseline
+E01762,Footway,footway,6.6,36.81,25.8,59.0,36.03,estimated_baseline
+E01763,Calle del Caballero de Gracia,residential,11.02,36.56,25.5,62.2,35.49,estimated_baseline
+E01764,Calle del Caballero de Gracia,living_street,17.77,36.15,27.4,67.6,35.13,estimated_baseline
+E01765,Calle del Caballero de Gracia,living_street,2.86,36.16,23.1,67.4,34.27,estimated_baseline
+E01766,Pedestrian,pedestrian,3.47,36.79,24.9,59.2,35.78,estimated_baseline
+E01767,Pedestrian,pedestrian,34.83,36.22,24.0,66.6,34.55,estimated_baseline
+E01768,Pedestrian,pedestrian,143.07,35.71,26.0,73.3,34.02,estimated_baseline
+E01769,Pedestrian,pedestrian,80.59,36.4,23.5,64.3,34.77,estimated_baseline
+E01770,Pedestrian,pedestrian,11.72,36.42,23.2,64.0,34.75,estimated_baseline
+E01771,Pedestrian,pedestrian,98.45,36.0,27.4,69.5,34.85,estimated_baseline
+E01772,Footway,footway,67.1,36.68,25.2,60.7,35.64,estimated_baseline
+E01773,Footway,footway,5.2,36.61,24.2,61.6,35.3,estimated_baseline
+E01774,Footway,footway,22.17,35.21,24.5,79.8,32.86,estimated_baseline
+E01775,Footway,footway,77.22,35.72,25.2,73.1,33.88,estimated_baseline
+E01776,Footway,footway,1.44,35.36,24.1,77.8,33.05,estimated_baseline
+E01777,Footway,footway,3.45,35.84,26.0,71.6,34.25,estimated_baseline
+E01778,Footway,footway,3.23,36.11,26.0,68.1,34.75,estimated_baseline
+E01779,Footway,footway,2.96,36.52,22.9,62.7,34.87,estimated_baseline
+E01780,Pedestrian,pedestrian,61.45,36.42,27.3,64.0,35.64,estimated_baseline
+E01781,Pedestrian,pedestrian,65.11,35.58,25.0,75.0,33.59,estimated_baseline
+E01782,Pedestrian,pedestrian,12.6,36.69,26.4,60.5,35.94,estimated_baseline
+E01783,Pedestrian,pedestrian,26.89,35.68,23.0,73.7,33.42,estimated_baseline
+E01784,Pedestrian,pedestrian,127.75,37.15,25.0,54.6,36.49,estimated_baseline
+E01785,Pedestrian,pedestrian,104.58,36.3,27.1,65.6,35.36,estimated_baseline
+E01786,Pedestrian,pedestrian,192.92,36.11,26.2,68.1,34.8,estimated_baseline
+E01787,Footway,footway,4.42,35.33,24.4,78.2,33.05,estimated_baseline
+E01788,Calle Sevilla,pedestrian,3.42,36.34,27.2,65.1,35.46,estimated_baseline
+E01791,Calle Sevilla,pedestrian,108.34,36.18,27.1,67.2,35.12,estimated_baseline
+E01792,Calle de Sevilla,residential,15.38,36.63,27.4,61.3,36.07,estimated_baseline
+E01793,Service,service,25.4,36.49,23.4,63.1,34.92,estimated_baseline
+E01794,Plaza de Canalejas,tertiary,6.17,38.77,26.1,33.5,40.04,estimated_baseline
+E01795,Footway,footway,57.63,35.98,25.7,69.8,34.45,estimated_baseline
+E01796,Footway,footway,63.12,36.73,24.5,60.0,35.58,estimated_baseline
+E01797,Calle del Arenal,pedestrian,7.71,35.79,24.5,72.2,33.88,estimated_baseline
+E01798,Footway,footway,17.09,36.1,26.3,68.2,34.8,estimated_baseline
+E01799,Footway,footway,19.54,35.6,26.6,74.7,33.93,estimated_baseline
+E01800,Footway,footway,2.39,36.82,27.4,58.8,36.44,estimated_baseline
+E01801,Calle del Caballero de Gracia,pedestrian,22.4,36.04,25.9,69.0,34.6,estimated_baseline
+E01802,Calle del Caballero de Gracia,pedestrian,2.39,36.27,22.8,66.0,34.41,estimated_baseline
+E01803,Calle del Caballero de Gracia,pedestrian,4.13,36.5,25.5,63.0,35.37,estimated_baseline
+E01804,Plaza de la Puerta del Sol,pedestrian,11.23,35.99,25.6,69.6,34.45,estimated_baseline
+E01805,Plaza de la Puerta del Sol,pedestrian,9.04,36.75,25.6,59.8,35.87,estimated_baseline
+E01806,Plaza de la Puerta del Sol,pedestrian,27.39,36.97,27.2,56.9,36.69,estimated_baseline
+E01807,Plaza de la Puerta del Sol,pedestrian,25.99,36.95,25.2,57.1,36.16,estimated_baseline
+E01808,Plaza de la Puerta del Sol,pedestrian,19.15,35.92,22.9,70.5,33.82,estimated_baseline
+E01809,Plaza de la Puerta del Sol,pedestrian,7.03,36.32,26.5,65.3,35.26,estimated_baseline
+E01810,Plaza de la Puerta del Sol,pedestrian,11.76,35.59,25.6,74.8,33.72,estimated_baseline
+E01811,Plaza de la Puerta del Sol,pedestrian,36.67,36.43,23.9,63.9,34.91,estimated_baseline
+E01812,Plaza de la Puerta del Sol,pedestrian,24.43,35.86,24.4,71.3,33.98,estimated_baseline
+E01813,Pedestrian,pedestrian,24.79,35.71,26.4,73.3,34.1,estimated_baseline
+E01814,Pedestrian,pedestrian,16.19,35.89,26.3,70.9,34.41,estimated_baseline
+E01815,Calle del Arenal,pedestrian,8.39,35.99,23.1,69.6,33.97,estimated_baseline
+E01816,Footway,footway,208.18,35.41,26.2,77.2,33.51,estimated_baseline
+E01817,Footway,footway,21.97,35.89,27.1,70.9,34.58,estimated_baseline
+E01818,Calle Sevilla,footway,108.58,36.84,26.7,58.6,36.3,estimated_baseline
+E01820,Footway,footway,19.37,35.51,24.6,75.9,33.4,estimated_baseline
+E01821,Footway,footway,17.22,36.99,25.4,56.6,36.28,estimated_baseline
+E01822,Footway,footway,61.62,35.74,25.4,72.9,33.95,estimated_baseline
+E01823,Footway,footway,7.41,35.94,23.8,70.3,34.01,estimated_baseline
+E01824,Footway,footway,157.46,36.31,22.7,65.5,34.46,estimated_baseline
+E01825,Footway,footway,3.76,36.35,23.5,64.9,34.69,estimated_baseline
+E01826,Footway,footway,4.94,36.48,26.6,63.3,35.58,estimated_baseline
+E01827,Footway,footway,1.49,36.79,26.1,59.2,36.06,estimated_baseline
+E01828,Footway,footway,3.34,36.43,23.8,63.9,34.89,estimated_baseline
+E01829,Service,service,33.05,36.77,25.7,59.5,35.93,estimated_baseline
+E01830,Service,service,18.89,37.13,24.9,54.8,36.43,estimated_baseline
+E01831,Service,service,4.54,33.91,27.3,95.0,31.12,estimated_baseline
+E01832,Plaza Mayor,footway,11.02,33.54,24.8,95.0,30.34,estimated_baseline
+E01833,Plaza Mayor,footway,30.64,34.18,24.7,93.2,31.14,estimated_baseline
+E01834,Plaza Mayor,footway,35.1,33.72,22.9,95.0,30.33,estimated_baseline
+E01835,Plaza Mayor,footway,28.5,33.17,26.8,95.0,30.16,estimated_baseline
+E01836,Plaza Mayor,footway,66.15,33.42,26.0,95.0,30.35,estimated_baseline
+E01837,Plaza Mayor,footway,27.4,32.8,22.5,95.0,29.31,estimated_baseline
+E01838,Plaza Mayor,footway,29.9,32.7,24.2,95.0,29.36,estimated_baseline
+E01839,Plaza Mayor,footway,82.34,33.24,25.5,95.0,30.08,estimated_baseline
+E01840,Plaza Mayor,footway,31.04,33.33,24.9,95.0,30.12,estimated_baseline
+E01841,Plaza Mayor,footway,78.18,32.88,25.1,95.0,29.64,estimated_baseline
+E01842,Plaza Mayor,footway,12.95,32.73,24.6,95.0,29.43,estimated_baseline
+E01843,Calle de la Escalerilla de Piedra,footway,2.78,34.08,25.1,94.5,31.03,estimated_baseline
+E01844,Calle de la Escalerilla de Piedra,footway,2.92,32.71,25.6,95.0,29.5,estimated_baseline
+E01845,Calle de Alcalá,tertiary,21.54,37.88,23.6,45.1,37.53,estimated_baseline
+E01846,Calle de Alcalá,tertiary,39.67,37.38,23.8,51.6,36.63,estimated_baseline
+E01847,Plaza de San Martín,pedestrian,4.91,36.13,27.0,67.8,35.01,estimated_baseline
+E01848,Plaza de San Martín,pedestrian,4.59,36.29,23.6,65.7,34.6,estimated_baseline
+E01849,Plaza de San Martín,pedestrian,38.57,35.48,26.6,76.3,33.71,estimated_baseline
+E01850,Plaza de San Martín,pedestrian,52.71,36.14,26.0,67.7,34.81,estimated_baseline
+E01851,Plaza de San Martín,pedestrian,30.9,36.59,23.1,61.8,35.04,estimated_baseline
+E01852,Plaza de San Martín,pedestrian,2.94,36.68,27.4,60.7,36.16,estimated_baseline
+E01853,Plaza de San Martín,pedestrian,25.71,35.8,26.3,72.1,34.24,estimated_baseline
+E01854,Footway,footway,2.67,35.77,25.0,72.5,33.93,estimated_baseline
+E01855,Steps,steps,6.43,32.74,27.3,95.0,29.72,estimated_baseline
+E01856,Footway,footway,22.6,32.99,25.6,95.0,29.81,estimated_baseline
+E01857,Footway,footway,28.56,36.52,24.9,62.7,35.28,estimated_baseline
+E01858,Footway,footway,43.48,35.47,23.9,76.4,33.21,estimated_baseline
+E01859,Footway,footway,28.03,35.28,27.3,78.9,33.48,estimated_baseline
+E01860,Footway,footway,86.27,35.54,26.3,75.5,33.76,estimated_baseline
+E01861,Footway,footway,6.7,35.95,27.1,70.1,34.69,estimated_baseline
+E01862,Footway,footway,5.77,36.23,25.3,66.5,34.83,estimated_baseline
+E01863,Footway,footway,4.27,35.33,23.7,78.2,32.93,estimated_baseline
+E01864,Footway,footway,15.02,35.68,26.5,73.7,34.06,estimated_baseline
+E01865,Footway,footway,27.15,36.05,24.4,68.9,34.32,estimated_baseline
+E01866,Footway,footway,4.3,35.99,22.7,69.6,33.9,estimated_baseline
+E01867,Steps,steps,13.05,33.71,23.4,95.0,30.37,estimated_baseline
+E01868,Footway,footway,5.64,36.8,25.3,59.1,35.89,estimated_baseline
+E01869,Footway,footway,3.24,35.76,27.0,72.6,34.31,estimated_baseline
+E01870,Footway,footway,2.07,36.53,24.9,62.6,35.3,estimated_baseline
+E01871,Calle del Maestro Victoria,pedestrian,79.44,36.63,25.3,61.3,35.57,estimated_baseline
+E01872,Calle del Maestro Victoria,pedestrian,6.47,35.48,24.9,76.3,33.4,estimated_baseline
+E01873,Calle del Maestro Victoria,pedestrian,16.76,36.69,25.8,60.5,35.8,estimated_baseline
+E01874,Calle del Maestro Victoria,pedestrian,19.02,36.58,23.9,62.0,35.18,estimated_baseline
+E01875,Calle del Maestro Victoria,pedestrian,33.35,35.55,24.9,75.4,33.52,estimated_baseline
+E01876,Calle del Maestro Victoria,pedestrian,35.6,35.69,23.5,73.5,33.52,estimated_baseline
+E01877,Calle del Maestro Victoria,pedestrian,73.76,35.6,22.8,74.7,33.25,estimated_baseline
+E01878,Calle del Maestro Victoria,pedestrian,8.24,36.44,25.5,63.8,35.26,estimated_baseline
+E01879,Calle del Maestro Victoria,pedestrian,5.77,36.49,25.5,63.1,35.36,estimated_baseline
+E01880,Steps,steps,8.19,35.71,25.6,73.3,33.94,estimated_baseline
+E01881,Steps,steps,5.85,36.71,25.9,60.3,35.86,estimated_baseline
+E01882,Footway,footway,5.97,35.82,22.8,71.8,33.63,estimated_baseline
+E01883,Footway,footway,4.1,36.86,24.7,58.3,35.87,estimated_baseline
+E01884,Footway,footway,12.46,35.81,24.4,72.0,33.89,estimated_baseline
+E01885,Footway,footway,5.83,36.04,25.0,69.0,34.42,estimated_baseline
+E01886,Footway,footway,21.44,36.08,25.9,68.5,34.68,estimated_baseline
+E01887,Steps,steps,8.93,36.79,24.7,59.2,35.74,estimated_baseline
+E01888,Calle Mayor,pedestrian,40.41,36.39,26.5,64.4,35.39,estimated_baseline
+E01889,Calle Mayor,pedestrian,59.24,35.59,25.9,74.8,33.78,estimated_baseline
+E01890,Calle Mayor,pedestrian,9.26,36.55,26.0,62.4,35.58,estimated_baseline
+E01891,Calle Mayor,pedestrian,8.26,35.55,27.0,75.4,33.92,estimated_baseline
+E01892,Carrera de San Jerónimo,pedestrian,8.24,36.65,22.6,61.1,35.04,estimated_baseline
+E01893,Carrera de San Jerónimo,pedestrian,13.41,35.45,23.2,76.6,33.06,estimated_baseline
+E01894,Carrera de San Jerónimo,pedestrian,53.95,36.64,26.0,61.2,35.75,estimated_baseline
+E01895,Carrera de San Jerónimo,pedestrian,144.67,36.96,22.9,57.0,35.66,estimated_baseline
+E01896,Carrera de San Jerónimo,pedestrian,1.72,36.05,27.0,68.9,34.85,estimated_baseline
+E01897,Carrera de San Jerónimo,pedestrian,3.63,36.84,27.5,58.6,36.51,estimated_baseline
+E01898,Carrera de San Jerónimo,pedestrian,128.76,36.96,27.4,57.0,36.72,estimated_baseline
+E01899,Plaza de Puerta Cerrada,tertiary,10.4,38.79,26.4,33.2,40.18,estimated_baseline
+E01900,Calle de Tintoreros,tertiary,19.76,38.28,26.1,39.9,39.02,estimated_baseline
+E01901,Plaza de Puerta Cerrada,tertiary,20.23,37.87,25.0,45.2,37.88,estimated_baseline
+E01902,Plaza de Puerta Cerrada,tertiary,20.9,38.78,24.8,33.4,39.64,estimated_baseline
+E01903,Plaza de Puerta Cerrada,tertiary,38.18,37.59,26.9,48.8,37.85,estimated_baseline
+E01904,Footway,footway,25.02,36.19,22.6,67.0,34.23,estimated_baseline
+E01905,Footway,footway,45.32,36.41,26.1,64.2,35.34,estimated_baseline
+E01906,Footway,footway,6.59,36.9,24.2,57.8,35.83,estimated_baseline
+E01907,Footway,footway,6.88,35.24,23.7,79.4,32.78,estimated_baseline
+E01908,Footway,footway,5.73,35.51,25.2,75.9,33.5,estimated_baseline
+E01909,Footway,footway,31.5,36.16,24.3,67.4,34.5,estimated_baseline
+E01910,Footway,footway,44.48,35.61,23.0,74.6,33.3,estimated_baseline
+E01911,Footway,footway,9.26,36.73,24.1,60.0,35.5,estimated_baseline
+E01912,Footway,footway,9.19,36.54,25.7,62.5,35.49,estimated_baseline
+E01913,Footway,footway,61.2,35.54,25.6,75.5,33.63,estimated_baseline
+E01914,Footway,footway,2.72,36.36,24.6,64.8,34.92,estimated_baseline
+E01915,Footway,footway,14.79,36.78,24.0,59.4,35.56,estimated_baseline
+E01916,Footway,footway,4.78,35.49,25.6,76.1,33.54,estimated_baseline
+E01917,Footway,footway,2.22,36.6,24.8,61.7,35.41,estimated_baseline
+E01918,Footway,footway,6.28,36.13,23.9,67.8,34.37,estimated_baseline
+E01919,Footway,footway,6.24,35.94,25.1,70.3,34.26,estimated_baseline
+E01920,Footway,footway,8.55,36.38,23.9,64.6,34.81,estimated_baseline
+E01921,Footway,footway,8.7,36.16,23.7,67.4,34.38,estimated_baseline
+E01922,Footway,footway,12.13,36.72,25.9,60.1,35.88,estimated_baseline
+E01923,Footway,footway,9.64,35.84,25.7,71.6,34.19,estimated_baseline
+E01924,Footway,footway,10.85,35.26,23.9,79.1,32.85,estimated_baseline
+E01925,Footway,footway,11.19,35.6,23.6,74.7,33.38,estimated_baseline
+E01926,Footway,footway,10.64,36.66,26.9,60.9,36.0,estimated_baseline
+E01927,Footway,footway,12.25,36.02,23.4,69.2,34.08,estimated_baseline
+E01928,Footway,footway,6.22,35.93,23.7,70.4,33.98,estimated_baseline
+E01929,Footway,footway,6.98,35.61,26.6,74.6,33.95,estimated_baseline
+E01930,Footway,footway,4.73,36.43,27.2,63.9,35.63,estimated_baseline
+E01931,Footway,footway,6.34,35.57,26.4,75.1,33.84,estimated_baseline
+E01932,Footway,footway,11.48,35.47,24.2,76.4,33.26,estimated_baseline
+E01933,Footway,footway,6.41,36.69,25.0,60.5,35.62,estimated_baseline
+E01934,Calle de Echegaray,pedestrian,56.18,35.45,25.0,76.6,33.36,estimated_baseline
+E01935,Gran Vía,tertiary,38.06,38.14,22.7,41.7,37.79,estimated_baseline
+E01936,Gran Vía,tertiary,66.08,37.59,24.9,48.8,37.31,estimated_baseline
+E01937,Calle de las Infantas,residential,47.99,37.12,25.8,54.9,36.63,estimated_baseline
+E01938,Footway,footway,39.26,35.88,25.1,71.1,34.15,estimated_baseline
+E01939,Path,path,79.66,35.15,25.2,80.6,32.87,estimated_baseline
+E01940,Footway,footway,14.33,36.5,24.5,63.0,35.16,estimated_baseline
+E01941,Service,service,5.43,37.21,25.8,53.8,36.8,estimated_baseline
+E01942,Calle de Espoz y Mina,pedestrian,7.46,36.05,23.5,68.9,34.15,estimated_baseline
+E01943,Calle de Espoz y Mina,pedestrian,81.58,36.79,24.3,59.2,35.65,estimated_baseline
+E01944,Calle de la Cruz,residential,8.07,36.15,24.2,67.6,34.46,estimated_baseline
+E01945,Calle de la Cruz,residential,59.78,37.69,22.8,47.5,36.98,estimated_baseline
+E01946,Calle de la Cruz,residential,28.49,36.18,23.5,67.2,34.38,estimated_baseline
+E01947,Calle de la Cruz,residential,13.75,36.22,26.4,66.6,35.05,estimated_baseline
+E01948,Calle de la Cruz,residential,44.78,36.33,23.0,65.2,34.55,estimated_baseline
+E01949,Calle de la Cruz,residential,56.71,37.34,23.5,52.1,36.49,estimated_baseline
+E01950,Calle de las Postas,pedestrian,65.6,35.91,25.3,70.7,34.24,estimated_baseline
+E01951,Calle de San Cristóbal,pedestrian,46.92,36.41,25.7,64.2,35.25,estimated_baseline
+E01952,Calle de las Postas,pedestrian,46.26,35.69,26.4,73.5,34.06,estimated_baseline
+E01953,Plaza de la Puerta del Sol,pedestrian,7.54,36.21,26.5,66.8,35.05,estimated_baseline
+E01954,Plaza de la Puerta del Sol,pedestrian,3.1,35.61,24.2,74.6,33.5,estimated_baseline
+E01955,Calle del Arenal,pedestrian,22.79,36.32,25.4,65.3,35.02,estimated_baseline
+E01956,Calle del Arenal,pedestrian,21.28,36.41,25.0,64.2,35.1,estimated_baseline
+E01957,Pedestrian,pedestrian,8.09,35.52,26.5,75.7,33.77,estimated_baseline
+E01958,Pedestrian,pedestrian,7.61,36.97,23.8,56.9,35.87,estimated_baseline
+E01959,Plaza de Tirso de Molina,tertiary,19.2,37.37,24.8,51.7,36.86,estimated_baseline
+E01960,Calle del Conde de Romanones,residential,25.47,37.58,24.4,49.0,37.16,estimated_baseline
+E01961,Calle de Atocha,tertiary,48.64,37.79,26.2,46.2,38.06,estimated_baseline
+E01962,Calle de Atocha,tertiary,58.26,38.41,22.8,38.2,38.33,estimated_baseline
+E01963,Calle de Atocha,tertiary,44.36,38.66,25.7,34.9,39.68,estimated_baseline
+E01964,Calle de Alcalá,tertiary,4.33,37.58,23.5,49.0,36.94,estimated_baseline
+E01965,Calle de la Virgen de los Peligros,residential,19.46,37.47,25.9,50.4,37.34,estimated_baseline
+E01966,Calle de la Virgen de los Peligros,residential,42.56,36.32,23.5,65.3,34.63,estimated_baseline
+E01967,Calle de la Virgen de los Peligros,residential,8.64,36.82,22.8,58.8,35.39,estimated_baseline
+E01968,Calle de Cedaceros,residential,10.76,37.31,24.6,52.5,36.69,estimated_baseline
+E01969,Calle de Cedaceros,residential,7.33,37.31,23.9,52.5,36.53,estimated_baseline
+E01970,Calle de Cedaceros,residential,29.96,36.85,24.4,58.4,35.78,estimated_baseline
+E01971,Footway,footway,5.89,36.99,25.0,56.6,36.18,estimated_baseline
+E01972,Footway,footway,4.77,36.76,27.4,59.6,36.32,estimated_baseline
+E01973,Footway,footway,60.26,35.4,24.3,77.3,33.15,estimated_baseline
+E01974,Footway,footway,50.23,36.61,23.9,61.6,35.23,estimated_baseline
+E01975,Footway,footway,166.56,35.94,26.1,70.3,34.46,estimated_baseline
+E01976,Footway,footway,1.75,35.22,25.1,79.6,32.98,estimated_baseline
+E01977,Footway,footway,2.85,35.73,25.6,73.0,33.98,estimated_baseline
+E01978,Footway,footway,6.56,35.76,26.6,72.6,34.23,estimated_baseline
+E01979,Footway,footway,25.74,35.62,26.8,74.4,34.01,estimated_baseline
+E01980,Calle de Fomento,residential,5.98,37.88,23.8,45.1,37.58,estimated_baseline
+E01981,Calle de Fomento,residential,64.8,36.45,26.1,63.6,35.42,estimated_baseline
+E01982,Calle de Fomento,residential,61.64,36.59,23.6,61.8,35.14,estimated_baseline
+E01983,Footway,footway,1.69,36.49,24.7,63.1,35.18,estimated_baseline
+E01984,Footway,footway,6.26,36.29,26.1,65.7,35.11,estimated_baseline
+E01985,Footway,footway,9.99,35.72,24.0,73.1,33.66,estimated_baseline
+E01986,Footway,footway,87.19,35.58,23.9,75.0,33.4,estimated_baseline
+E01987,Calle del Príncipe,residential,44.04,37.81,23.8,46.0,37.45,estimated_baseline
+E01988,Plaza de la Provincia,living_street,3.25,36.07,27.2,68.6,34.94,estimated_baseline
+E01989,Plaza de la Provincia,living_street,11.88,35.59,22.7,74.8,33.22,estimated_baseline
+E01990,Footway,footway,3.31,35.94,26.3,70.3,34.5,estimated_baseline
+E01991,Footway,footway,10.47,36.68,23.0,60.7,35.17,estimated_baseline
+E01992,Footway,footway,144.3,35.26,25.0,79.1,33.03,estimated_baseline
+E01993,Footway,footway,7.95,36.9,23.7,57.8,35.72,estimated_baseline
+E01994,Footway,footway,11.19,35.51,22.5,75.9,33.05,estimated_baseline
+E01995,Footway,footway,26.6,33.98,22.7,95.0,30.6,estimated_baseline
+E01996,Steps,steps,5.17,36.55,26.3,62.4,35.65,estimated_baseline
+E01997,Footway,footway,3.34,32.99,23.6,95.0,29.61,estimated_baseline
+E01998,Steps,steps,3.01,36.59,25.9,61.8,35.63,estimated_baseline
+E01999,Footway,footway,14.19,35.58,25.1,75.0,33.61,estimated_baseline
+E02000,Footway,footway,14.64,33.1,27.0,95.0,30.1,estimated_baseline
+E02001,Service,service,7.45,36.05,25.9,68.9,34.62,estimated_baseline
+E02002,Service,service,4.61,37.67,27.0,47.8,38.04,estimated_baseline
